@@ -4,9 +4,11 @@
 #include <errno.h>
 #include "API.h"
 
+
 int main( int argc, char *argv[] )  {
    
-   
+   system("clear");
+    printf("Mygraph OS 1st Assignment Fall 2018 \n");
    if( argc == 5 ) {
         printf("-i is-> %s\n", argv[1]);
         if(strcmp(argv[1],"-i") != 0 || strcmp(argv[3],"-o") != 0){
