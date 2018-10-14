@@ -1,4 +1,5 @@
 #include	<stdio.h>
+#include "Edge.h"
 
 #define	 	YES	1
 #define		NO	2
@@ -8,7 +9,7 @@
 
 // linked lists from edges
 struct item{
-	char *word;
+	edge *MyEdge;
 	struct item *next;
 	};
 

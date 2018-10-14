@@ -1,15 +1,6 @@
 #include	<stdio.h>
 #include	"LinkedList.h"
 
-/*
- * This set of calls creates a linked list, and allows
- * for the removal of individual elements, printing out,
- * membership questions, and selective look-up (first, last)
- * element.
- * 				ad@di.uoa.gr 02/03
- */
-
-
 struct item *CreateItem(struct item *p)
 {	
 	p=NULL;
