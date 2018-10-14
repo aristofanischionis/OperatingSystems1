@@ -1,105 +1,119 @@
 #include	<stdio.h>
 #include	"LinkedList.h"
+#include "Node.h"
 
-struct item *CreateItem(struct item *p)
+int ID; // giving ID in Edges
+
+edge *CreateEdge(edge *e)
 {	
-	p=NULL;
-	return(p);
+	e=NULL;
+	e->_id = (int) malloc(sizeof(ID)+1);
+	e->_id = ID;
+	ID = 0; // first edge
+	return(e);
 }
 
-struct item *InsertItem(struct item *p, char *w)
+edge *InsertEdge(
+	edge *e,
+    int weight,
+    node *source,
+    node *target
+	)
 {
-	if ( p==NULL ) {
-		p = (struct item *) malloc (sizeof(struct item)+1);
-		p->word = (char *) malloc(sizeof(w)+1);
-		strcpy(p->word,w);
-		p->next = NULL;
+	if ( e==NULL ) {
+		e = (edge *) malloc (sizeof(edge)+1);
+		e->_id = (int) malloc(sizeof(ID)+1);
+		e->_id = ID;
+		e->weight = (int) malloc(sizeof(weight)+1);
+		e->weight = weight;
+		e->source = (node *) malloc(sizeof(source)+1);
+		e->source = source;
+		e->target = (node *) malloc(sizeof(target)+1);
+		e->target = target;
+		e->next = NULL;
 		}
 	else 	{
-		p->next = InsertItem(p->next, w);
+		ID ++;
+		e->next = InsertEdge(e->next, _id, weight, source, target);
 		}
-	return(p);
+	return(e);
 }
 
-
-struct item *DeleteItem(struct item *p, char *w)
-{	struct	item	*aux=NULL, *throwaway=NULL;
-
-	aux=p;
+edge *DeleteEdge(edge *e, int _id)
+{	edge *aux=NULL, *throwaway=NULL;
+	aux=e;
 	if (aux==NULL) 
 		return (NULL);
 	else {
-		if ( strcmp(aux->word, w) == 0 ){
+		if ( strcmp(aux->_id, _id) == 0 ){
 			throwaway=aux;
 			aux = aux->next;
 			free (throwaway) ;
 			throwaway = NULL;
+			ID --;
 			return(aux);
 			}
-		else	{
-			aux->next=DeleteItem(aux->next, w);
+		else {
+			aux->next=DeleteEdge(aux->next, _id);
 			return(aux);
-			}
+		}
 	}
 }
 
 
-char *GetFirstItem(struct item *p)
-{       struct  item    *aux=NULL;
-	char		*w=NULL;
+int GetFirstEdge(edge *e)
+{	edge *aux=NULL;
+	int id;
 
-	aux=p;
+	aux=e;
 	if (aux==NULL)
 		return(NULL);
 	else	{
-		w = (char *)malloc(sizeof(aux->word)+1);	
-		strcpy(w, aux->word);
-		printf("first word is %s \n",w);
-		return(w);
+		// id = (int)malloc(sizeof(aux->_id)+1);	
+		id = aux->_id;
+		printf("first id is %d \n",id);
+		return(id);
 		}
 }
 	
-char *GetLastItem(struct item *p)
-{	struct	item	*aux=NULL;
-	char		*w=NULL;
+int GetLastEdge(edge *e)
+{	edge *aux=NULL;
+	int id;
 	
-	aux=p;
+	aux=e;
 	if (aux==NULL)
 		return(NULL);
-	else	{
+	else{
 		while (aux->next!=NULL)
 			aux=aux->next;
-		w = (char *)malloc(sizeof(aux->word)+1);
-                strcpy(w, aux->word);
-                printf("last word is %s \n",w);
-                return(w);
-                }            
+			id = aux->_id;
+			printf("last id is %d \n",id);
+            return(id);
+        }            
 }
 
-int	IsMemberOfList(struct item *p, char *w)
-{	struct	item	*aux=NULL;
-	
-	aux = p;
+int	IsMemberOfList(edge *e, int id)
+{	edge *aux=NULL;
+	aux = e;
 	while (aux!=NULL){
-		if ( strcmp( aux->word, w) == 0 )
+		if ( aux->_id == id )
 			return(YES);
 		aux=aux->next;
 		}
 	return(NO);
 }
 
-
-void	PrintItem(struct item *p)
+void PrintEdge(edge *e)
 { 
-	struct item *aux=NULL;
+	edge *aux=NULL;
 	
-	if ( p == NULL ){
-		printf("List is Empty of Items\n");
+	if ( e == NULL ){
+		printf("List is Empty of Edges\n");
 		return;
-		}
-	aux = p;
+	}
+	aux = e;
 	while (aux!= NULL){
-		printf("Element %s\n",aux->word);
+		printf("Element id is %d\n",aux->_id);
 		aux=aux->next;
-		}
+	}
 }

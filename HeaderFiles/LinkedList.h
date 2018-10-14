@@ -1,5 +1,5 @@
 #include	<stdio.h>
-#include "Edge.h"
+#include "Node.h"
 
 #define	 	YES	1
 #define		NO	2
@@ -8,17 +8,28 @@
 #define		MAXSIZE	64
 
 // linked lists from edges
-struct item{
-	edge *MyEdge;
-	struct item *next;
-	};
+// typedef struct ListofEdges{
+// 	edge *Edge;
+// 	int count; // Count how many Edges this Linked List of Edges has got
+// 	struct ListofEdges *next;
+// }ListofEdges;
 
-typedef struct item item;
+// typedef struct ListofEdges ListofEdges;
 
-item *CreateItem(item *);
-item *InsertItem(item *, char *);
-item *DeleteItem(item *, char *);
-char *GetFirstItem(item *);
-char *GetLastItem(item *);
-int	 IsMemberOfList(item *, char *);
-void PrintItem(item *);
+typedef struct edge {
+    int _id;
+    int weight;
+    node *source;
+    node *target;
+    struct edge *next;
+};
+
+typedef struct edge edge;
+
+edge *CreateEdge(edge *);
+edge *InsertEdge(edge *, int , node *source, node *target);
+edge *DeleteEdge(edge *, int);
+char *GetFirstEdge(edge *);
+char *GetLastEdge(edge *);
+int	 IsMemberOfList(edge *, char *);
+void PrintEdge(edge *);
