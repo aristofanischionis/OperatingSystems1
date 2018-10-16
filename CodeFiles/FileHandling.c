@@ -3,7 +3,7 @@
 #include <stdlib.h> 
 #include <errno.h> 
 
-FILE* FileRead (in){
+FILE* FileRead (char *in){
     FILE * input;
     input = fopen (in, "r");
     if (input == NULL) {
@@ -13,7 +13,7 @@ FILE* FileRead (in){
     return input;
 }
 
-FILE* FIleWrite (out){
+FILE* FIleWrite (char *out){
     FILE * output; 
     output = fopen (out, "w");
     if (output == NULL) {

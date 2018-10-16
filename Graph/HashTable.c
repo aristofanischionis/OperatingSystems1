@@ -1,24 +1,32 @@
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
-#include "Node.h"
-#include "HashTable.h"
+#include "../HeaderFiles/HashTable.h"
+#include "../HeaderFiles/Prime.h"
+
+const int HT_PRIME_1 = 13; // random prime
+const int HT_PRIME_2 = 43; // random prime
+
 const int HT_INITIAL_BASE_SIZE = 53; // prime number
 static ht_item HT_DELETED_ITEM = {NULL, NULL};
 
-static ht_item* ht_new_item(const char* k, const node* n) {
+static void ht_resize_up(ht_hash_table* );
+static void ht_resize_down(ht_hash_table* );
+
+static ht_item* ht_new_item(const char* k, node* n) {
     ht_item* i = malloc(sizeof(ht_item));
     i->key = strdup(k);
     i->MyNode = n; 
+    printf("MPHKA HT ITEM %s, ",k);
     return i;
 }
 
 static ht_hash_table* ht_new_sized(const int base_size) {
-    ht_hash_table* ht = xmalloc(sizeof(ht_hash_table));
+    ht_hash_table* ht = malloc(sizeof(ht_hash_table));
     ht->base_size = base_size;
     ht->size = next_prime(ht->base_size);
     ht->count = 0;
-    ht->items = xcalloc((size_t)ht->size, sizeof(ht_item*));
+    ht->items = calloc((size_t)ht->size, sizeof(ht_item*));
     return ht;
 }
 
@@ -26,7 +34,7 @@ ht_hash_table* ht_new() {
     return ht_new_sized(HT_INITIAL_BASE_SIZE);
 }
 
-static void ht_del_item(ht_item* i) {
+static void ht_del_item(ht_item* i) { //kanw del ola ta edges
     free(i->key);
     free(i->MyNode);
     free(i);
@@ -61,7 +69,7 @@ static int ht_get_hash(
     return (hash_a + (attempt * (hash_b + 1))) % num_buckets;
 }
 
-void ht_insert(ht_hash_table* ht, const char* key, const node* n) {
+void ht_insert(ht_hash_table* ht, const char* key, node* n) {
     const int load = ht->count * 100 / ht->size;
     if (load > 70) {
         ht_resize_up(ht);
@@ -134,7 +142,7 @@ static void ht_resize(ht_hash_table* ht, const int base_size) {
     for (int i = 0; i < ht->size; i++) {
         ht_item* item = ht->items[i];
         if (item != NULL && item != &HT_DELETED_ITEM) {
-            ht_insert(new_ht, item->key, item->value);
+            ht_insert(new_ht, item->key, item->MyNode);
         }
     }
 
