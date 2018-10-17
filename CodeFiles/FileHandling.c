@@ -8,7 +8,7 @@ FILE* FileRead (char *in){
     input = fopen (in, "r");
     if (input == NULL) {
         fprintf(stderr, "Can't open input file %s\n", in);
-        exit(1);
+        return(NULL);
     }
     return input;
 }
@@ -18,7 +18,7 @@ FILE* FIleWrite (char *out){
     output = fopen (out, "w");
     if (output == NULL) {
         fprintf(stderr, "Can't open output file %s\n", out);
-        exit(1);
+        return(NULL);
     }
     return output;
 }
