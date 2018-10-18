@@ -49,10 +49,19 @@ int InputDirector(int argc, char *argv[]){
     int i=1;
     char *input;
     char *output;
+    char *buffer;
+    size_t bufsize = 100;
+    char *token;
+    char **command;
+    buffer = (char *)malloc(bufsize * sizeof(char));
     input = (char *)malloc(40);
     output = (char *)malloc(40);
     strcpy(input, "");
     strcpy(output, "");
+    if( buffer == NULL){
+        perror("Unable to allocate buffer");
+        exit(1);
+    }
     // check for input/ output fileNames
     while( i<argc ){
         if( strcmp(argv[i],"-i") == 0 ){
@@ -108,8 +117,32 @@ int InputDirector(int argc, char *argv[]){
     }
     else printf("Output File Name for Printing Graph not given\n");
     
-
     // Managing Input from user here:
+    while(1){
+        printf("Type your Commands here:\n");
+        i =0;
+        command = (char **)malloc(10 * sizeof(char*)); // 10 words in each command allowed
+        getline(&buffer,&bufsize,stdin);
+        token = strtok(buffer, " ");
+
+        while( token != NULL ) {
+            command[i++] = token;
+            token = strtok(NULL, " ");
+        }
+        
+        if((strcmp(command[0], "i") == 0) || (strcmp(command[0], "insert") == 0)){
+            if(i == 2){
+                //insert Ni
+                printf("Insert Ni-> %s,%s", command[0], command[1]);
+            }
+            else if(i == 4){
+                //insert Ni Nj weight
+                printf("Insert Ni-> %s,%s,%s,%s", command[0], command[1], command[2],command[3]);
+            }
+        }
+        
+        free(command);
+    }
 
     //freeing out memory
     free(input);
