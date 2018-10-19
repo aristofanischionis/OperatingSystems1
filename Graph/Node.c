@@ -2,12 +2,12 @@
 #include <string.h>
 #include <stdlib.h> 
 #include "../HeaderFiles/Node.h"
-static int ID = 0; // giving ID in Edges
+int ID = 0; // giving ID in Edges
 
 //before calling this one be sure there is no other node with the same name in Graph
 node *NewNode(char *id, edge *e){
     node *n = (node *) malloc (sizeof(node)+1);
-    printf("NEWNODE!!");
+    // printf("NEWNODE!!");
 	n->_id = (char *) malloc(sizeof(id)+1);
 	n->_id = id;
 	n->HeadEdges = (edge *) malloc (sizeof(e)+1);
@@ -25,19 +25,12 @@ edge *InsertEdge(node *source, node *target, edge *e, int weight){
 		e->target = target;
         if(e->_id == 0) {source->HeadEdges = e;} // la8os pote kanw 0 to id
 		e->next = NULL;
-            printf("INSERT EDGE!!");
-
+        printf("INSERT EDGE!! %d", e->_id);
 		}
-	else 	{
+	else {
 		ID ++;
 		e->next = InsertEdge(source, target, e->next, weight );
 		}
-	return(e);
-}
-
-edge *CreateEdge()
-{	
-	edge *e=NULL;
 	return(e);
 }
 

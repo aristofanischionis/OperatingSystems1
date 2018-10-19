@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "node.h": "c",
+        "hashtable.h": "c",
+        "repository.h": "c"
+    }
+}

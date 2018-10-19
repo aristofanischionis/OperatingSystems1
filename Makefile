@@ -1,8 +1,8 @@
 #Got this from the official Website of Alexis Delis
 
-OBJS 	= main.o FileHandling.o API.o HashTable.o Node.o Prime.o
-SOURCE	= main.c CodeFiles/FileHandling.c CodeFiles/API.c Graph/HashTable.c Graph/Node.c Graph/Prime.c
-HEADER  = HeaderFiles/HashTable.h HeaderFiles/FileHandling.h HeaderFiles/API.h HeaderFiles/Node.h HeaderFiles/Prime.h
+OBJS 	= main.o FileHandling.o API.o HashTable.o Node.o Prime.o Repository.o
+SOURCE	= main.c CodeFiles/FileHandling.c CodeFiles/API.c Graph/HashTable.c Graph/Node.c Graph/Prime.c CodeFiles/Repository.c
+HEADER  = HeaderFiles/HashTable.h HeaderFiles/FileHandling.h HeaderFiles/API.h HeaderFiles/Node.h HeaderFiles/Prime.h HeaderFiles/Repository.h
 OUT  	= mygraph
 CC	= gcc
 FLAGS   = -g -c -Wall
@@ -21,6 +21,9 @@ FileHandling.o: CodeFiles/FileHandling.c
 
 API.o: CodeFiles/API.c
 	$(CC) $(FLAGS) CodeFiles/API.c
+
+Repository.o: CodeFiles/Repository.c
+	$(CC) $(FLAGS) CodeFiles/Repository.c
 
 HashTable.o: Graph/HashTable.c
 	$(CC) $(FLAGS) Graph/HashTable.c

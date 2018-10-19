@@ -4,6 +4,8 @@
 #include <errno.h>
 #include <ctype.h>
 #include "../HeaderFiles/FileHandling.h"
+// #include "../HeaderFiles/HashTable.h"
+#include "../HeaderFiles/Repository.h"
 
 int InputManager(char *in){
     FILE* input = FileRead(in);
@@ -62,6 +64,8 @@ int InputDirector(int argc, char *argv[]){
         perror("Unable to allocate buffer");
         exit(1);
     }
+    //setting up env here
+    ht_hash_table *MyHash_Table = ht_new(); //Should make a hash table;
     // check for input/ output fileNames
     while( i<argc ){
         if( strcmp(argv[i],"-i") == 0 ){
@@ -119,7 +123,7 @@ int InputDirector(int argc, char *argv[]){
     
     // Managing Input from user here:
     while(1){
-        printf("Type your Commands here:\n");
+        printf("\nType your Commands here:\n");
         i =0;
         command = (char **)malloc(10 * sizeof(char*)); // 10 words in each command allowed
         getline(&buffer,&bufsize,stdin);
@@ -133,7 +137,8 @@ int InputDirector(int argc, char *argv[]){
         switch(i){
             case 1:
                 // one argument given
-                if((strcmp(command[0], "e") == 0) || (strcmp(command[0], "exit") == 0)){
+                if((strcmp(command[0], "e") == 0) || (strcmp(command[0], "exit") == 0)){ 
+                    // issue here cannot go inside for some reason
                     //exits program
                     printf("exits program\n");
                     return 0;
@@ -144,7 +149,8 @@ int InputDirector(int argc, char *argv[]){
                 // two arguments given
                 if((strcmp(command[0], "i") == 0) || (strcmp(command[0], "insert") == 0)){
                     //insert Ni
-                    printf("Insert Ni-> %s,%s\n", command[0], command[1]);
+                    // printf("Insert Ni-> %s,%s\n", command[0], command[1]);
+                    InsertNode(MyHash_Table, command[1]);
                 }
                 else if((strcmp(command[0], "d") == 0) || (strcmp(command[0], "delete") == 0)){
                     //Delete Ni
@@ -172,7 +178,9 @@ int InputDirector(int argc, char *argv[]){
                 //four arguments given
                 if((strcmp(command[0], "n") == 0) || (strcmp(command[0], "insert") == 0)){
                     //insert Ni Nj weight
-                    printf("Insert Ni-> %s,%s,%s,%s\n", command[0], command[1], command[2],command[3]);
+                    // printf("Insert Ni-> %s,%s,%s,%s\n", command[0], command[1], command[2],command[3]);
+                    int w = atoi(command[3]);
+                    InsertNodesEdge(MyHash_Table, command[1], command[2], w);
                 }
                 else if((strcmp(command[0], "l") == 0) || (strcmp(command[0], "delete") == 0)){
                     // Delete Ni Nj weight

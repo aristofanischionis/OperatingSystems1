@@ -1,4 +1,3 @@
-#include <stdio.h>
 
 struct node {
     char *_id;
