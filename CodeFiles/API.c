@@ -129,18 +129,75 @@ int InputDirector(int argc, char *argv[]){
             command[i++] = token;
             token = strtok(NULL, " ");
         }
-        
-        if((strcmp(command[0], "i") == 0) || (strcmp(command[0], "insert") == 0)){
-            if(i == 2){
-                //insert Ni
-                printf("Insert Ni-> %s,%s", command[0], command[1]);
-            }
-            else if(i == 4){
-                //insert Ni Nj weight
-                printf("Insert Ni-> %s,%s,%s,%s", command[0], command[1], command[2],command[3]);
-            }
+        // Analyzing the command given by user
+        switch(i){
+            case 1:
+                // one argument given
+                if((strcmp(command[0], "e") == 0) || (strcmp(command[0], "exit") == 0)){
+                    //exits program
+                    printf("exits program\n");
+                    return 0;
+                }
+                else fprintf(stderr, "Unknown Command Starting with:%s \n",command[0]);
+                break;
+            case 2:
+                // two arguments given
+                if((strcmp(command[0], "i") == 0) || (strcmp(command[0], "insert") == 0)){
+                    //insert Ni
+                    printf("Insert Ni-> %s,%s\n", command[0], command[1]);
+                }
+                else if((strcmp(command[0], "d") == 0) || (strcmp(command[0], "delete") == 0)){
+                    //Delete Ni
+                    printf("Delete Ni-> %s,%s\n", command[0], command[1]);
+                }
+                else if((strcmp(command[0], "r") == 0) || (strcmp(command[0], "receiving") == 0)){
+                    //Receiving Ni
+                    printf("Receiving Ni-> %s,%s\n", command[0], command[1]);
+                }
+                else if((strcmp(command[0], "c") == 0) || (strcmp(command[0], "circlefind") == 0)){
+                    //circlefind Ni
+                    printf("circlefind Ni-> %s,%s\n", command[0], command[1]);
+                }
+                else fprintf(stderr, "Unknown Command Starting with: %s \n",command[0]);
+                break;
+            case 3:
+                // three arguments given
+                if((strcmp(command[0], "f") == 0) || (strcmp(command[0], "findcircles") == 0)){
+                    //findcircles Ni k
+                    printf("findcircles Ni k-> %s,%s,%s\n", command[0], command[1], command[2]);
+                }
+                else fprintf(stderr, "Unknown Command Starting with: %s \n",command[0]);
+                break;
+            case 4:
+                //four arguments given
+                if((strcmp(command[0], "n") == 0) || (strcmp(command[0], "insert") == 0)){
+                    //insert Ni Nj weight
+                    printf("Insert Ni-> %s,%s,%s,%s\n", command[0], command[1], command[2],command[3]);
+                }
+                else if((strcmp(command[0], "l") == 0) || (strcmp(command[0], "delete") == 0)){
+                    // Delete Ni Nj weight
+                    printf("Delete Ni-> %s,%s,%s,%s\n", command[0], command[1], command[2],command[3]);
+                }
+                else if((strcmp(command[0], "t") == 0) || (strcmp(command[0], "traceflow") == 0)){
+                    // Traceflow Ni Nj l
+                    printf("Traceflow Ni-> %s,%s,%s,%s\n", command[0], command[1], command[2],command[3]);
+                }
+                else fprintf(stderr, "Unknown Command Starting with: %s \n",command[0]);
+                break;
+            case 5:
+                //five arguments given
+                if((strcmp(command[0], "m") == 0) || (strcmp(command[0], "modify") == 0)){
+                    //Modify Ni Nj weight nweight
+                    printf("Modify Ni Nj weight nweight-> %s,%s,%s,%s,%s\n", command[0], command[1], command[2],command[3],command[4]);
+                }
+                else fprintf(stderr, "Unknown Command Starting with: %s \n",command[0]);
+                break;
+            default:
+                fprintf(stderr,"Unknown Command given with %d words\n", i);
+               
         }
         
+
         free(command);
     }
 
