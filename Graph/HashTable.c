@@ -18,7 +18,7 @@ static ht_hash_table* ht_new_sized(const int base_size) {
     ht->base_size = base_size;
     ht->size = next_prime(ht->base_size);
     ht->count = 0;
-    ht->nodes = calloc((size_t)ht->size, sizeof(node*));
+    ht->nodes = malloc((size_t)ht->size * sizeof(node*));
     return ht;
 }
 
@@ -28,7 +28,7 @@ ht_hash_table* ht_new() {
 
 static void ht_del_node(node* i) {
     free(i->_id);
-    DeleteEdge(i->HeadEdges,0); 
+    // DeleteEdge(i); delete all edges for a given node
     // 0 to delete all edges in the linked list
     free(i);
 }
@@ -67,7 +67,7 @@ void ht_insert(ht_hash_table* ht, char* _id) {
     if (load > 70) {
         ht_resize_up(ht);
     }
-    node *item = NewNode(_id, NULL); // New Node without edges
+    node *item = NewNode(_id); // New Node without edges
     int index = ht_get_hash(item->_id, ht->size, 0);
     node* cur_item = ht->nodes[index];
     int i = 1;

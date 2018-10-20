@@ -5,7 +5,6 @@ struct node {
 };
 
 struct edge {
-    int _id;
     int weight;
     struct node *target;
     struct edge *next;
@@ -14,9 +13,9 @@ struct edge {
 typedef struct node node;
 typedef struct edge edge;
 
-node *NewNode(char * , edge *);
+node *NewNode(char * );
 edge *InsertEdge(node *, node *, edge *, int );
-edge *DeleteEdge(edge *, int );
+int DeleteEdge(node *, node *, int );
 int GetFirstEdge(edge *);
 int GetLastEdge(edge *);
 int	IsMemberOfList(edge *, int );

@@ -55,17 +55,22 @@ int InputDirector(int argc, char *argv[]){
     size_t bufsize = 100;
     char *token;
     char **command;
+    char *pos;
     buffer = (char *)malloc(bufsize * sizeof(char));
     input = (char *)malloc(40);
     output = (char *)malloc(40);
     strcpy(input, "");
     strcpy(output, "");
     if( buffer == NULL){
-        perror("Unable to allocate buffer");
+        perror("Unable to allocate buffer\n");
         exit(1);
     }
     //setting up env here
     ht_hash_table *MyHash_Table = ht_new(); //Should make a hash table;
+    if(MyHash_Table == NULL){
+        perror("Unable to allocate Hash Table\n");
+        exit(1);
+    }
     // check for input/ output fileNames
     while( i<argc ){
         if( strcmp(argv[i],"-i") == 0 ){
@@ -137,8 +142,8 @@ int InputDirector(int argc, char *argv[]){
         switch(i){
             case 1:
                 // one argument given
+                if ((pos=strchr(command[0], '\n')) != NULL) *pos = '\0';
                 if((strcmp(command[0], "e") == 0) || (strcmp(command[0], "exit") == 0)){ 
-                    // issue here cannot go inside for some reason
                     //exits program
                     printf("exits program\n");
                     return 0;
@@ -185,6 +190,8 @@ int InputDirector(int argc, char *argv[]){
                 else if((strcmp(command[0], "l") == 0) || (strcmp(command[0], "delete") == 0)){
                     // Delete Ni Nj weight
                     printf("Delete Ni-> %s,%s,%s,%s\n", command[0], command[1], command[2],command[3]);
+                    int w = atoi(command[3]);
+                    DeleteNodesEdge(MyHash_Table, command[1], command[2], w);
                 }
                 else if((strcmp(command[0], "t") == 0) || (strcmp(command[0], "traceflow") == 0)){
                     // Traceflow Ni Nj l

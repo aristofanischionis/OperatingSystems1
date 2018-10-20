@@ -23,22 +23,24 @@ int InsertNode(ht_hash_table* ht, char* _id){
 int InsertNodesEdge(ht_hash_table* ht, char* _id1, char *_id2, int w){
     //this function inserts a new edge if the _id1 and 2 exist else it creates them first
     char *pos;
+    InsertNode(ht, _id1);
+    InsertNode(ht, _id2);
+    printf("-----------------%d",ht->count);
+    // now that we have both nodes ready let's make the edge
     node *n1 = ht_search(ht, _id1);
     node *n2 = ht_search(ht, _id2);
-    if(n1 == NULL){
-        // n1 doesn't exist yet
-        ht_insert(ht,_id1);
-    }
-    if(n2 == NULL){
-        // n2 doesn't exist yet
-        ht_insert(ht,_id2);
-    }
-    // now that we have both nodes ready let's make the edge
-    n1 = ht_search(ht, _id1);
-    n2 = ht_search(ht, _id2);
-    InsertEdge(n1, n2, n1->HeadEdges, w); // put it in the n1's linked List
+    edge * e= InsertEdge(n1, n2, n1->HeadEdges, w); // put it in the n1's linked List
+    if(e == NULL) printf("ajajaajajajaja");
+    printf("----weight%d", n1->HeadEdges->weight);
     if ((pos=strchr(n1->_id, '\n')) != NULL) *pos = '\0';
     if ((pos=strchr(n2->_id, '\n')) != NULL) *pos = '\0';
     printf("\t- Inserted |%s|->%d->|%s|",n1->_id,w , n2->_id);
+    return 0;
+}
+
+int DeleteNodesEdge(ht_hash_table* ht, char* _id1, char *_id2, int w){
+    node *n1 = ht_search(ht, _id1);
+    node *n2 = ht_search(ht, _id2);
+    DeleteEdge(n1,n2,w);
     return 0;
 }
