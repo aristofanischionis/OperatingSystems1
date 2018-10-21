@@ -151,6 +151,7 @@ int InputDirector(int argc, char *argv[]){
                 if((strcmp(command[0], "e") == 0) || (strcmp(command[0], "exit") == 0)){ 
                     //exits program
                     printf("exits program\n");
+                    ht_print(MyHash_Table);
                     return 0;
                 }
                 else fprintf(stderr, "Unknown Command Starting with:%s \n",command[0]);

@@ -15,6 +15,7 @@ int InsertNode(ht_hash_table* ht, char* _id){
         printf("\t- Node |%s| Exists;\n", n->_id);
         return 1;
     }
+    
     ht_insert(ht,_id);
     
     printf("\t- Inserted |%s|\n",_id);

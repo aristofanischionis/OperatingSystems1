@@ -74,15 +74,6 @@ void ht_insert(ht_hash_table* ht, char* _id) {
     node* cur_item = ht->nodes[index];
     int i = 1;
     while (cur_item != NULL && cur_item != &HT_DELETED_NODE) {
-            printf("%s............%s",cur_item->_id, _id);
-        //     if (strcmp(cur_item->_id, _id) == 0) {
-        //         // ht_del_node(cur_item);
-        //         // ht->nodes[index] = item;
-        //         // if it goes in here it means that the _id already exists
-        //         printf("to _id to exw ksanaparei");
-        //         return;
-        //     }
-        // }
         index = ht_get_hash(item->_id, ht->size, i);
         cur_item = ht->nodes[index];
         i++;
@@ -96,13 +87,16 @@ node* ht_search(ht_hash_table* ht, char* _id) {
     node* item = ht->nodes[index];
     int i = 1;
     while (item != NULL) {
+        printf("%s---searching---%s,---->%d\n",item->_id,_id, i);
         if (item != &HT_DELETED_NODE) { 
             if (strcmp(item->_id, _id) == 0) {
+                printf("search to %s kai brhka %s as epistrepsw \n",_id, item->_id);
                 return item;
             }
         }
         index = ht_get_hash(_id, ht->size, i);
         item = ht->nodes[index];
+        if(item == NULL) printf("item is null\n");
         i++;
     } 
     return NULL;
@@ -167,4 +161,19 @@ static void ht_resize_up(ht_hash_table* ht) {
 static void ht_resize_down(ht_hash_table* ht) {
     const int new_size = ht->base_size / 2;
     ht_resize(ht, new_size);
+}
+
+void ht_print(ht_hash_table* ht){
+    int i =0 ;
+    while(i < ht->base_size){
+        if(ht->nodes[i] != NULL){
+            printf("|%s|\n", ht->nodes[i]->_id);
+            edge *temp = ht->nodes[i]->HeadEdges;
+            while(temp != NULL){   
+                printf("\t -%d->|%s|\n", temp->weight, temp->target->_id);
+                temp = temp->next;
+            }
+        }
+        i++;
+    }
 }
