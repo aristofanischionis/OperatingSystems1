@@ -4,10 +4,9 @@
 #include <errno.h>
 #include <ctype.h>
 #include "../HeaderFiles/FileHandling.h"
-// #include "../HeaderFiles/HashTable.h"
 #include "../HeaderFiles/Repository.h"
 
-int InputManager(char *in){
+int InputManager(ht_hash_table* ht, char *in){
     FILE* input = FileRead(in);
     if(input == NULL){
         // printf("Couldn't Load Input File\n");
@@ -18,6 +17,7 @@ int InputManager(char *in){
     char *source_id;
     char *target_id;
     int weight;
+    char *pos;
     source_id = (char *)malloc(40);
     target_id = (char *)malloc(40);
     while (fscanf(input,"%s",word)==1){
@@ -33,12 +33,17 @@ int InputManager(char *in){
                 break;
         }
         counter++;
-        if( counter % 3 == 0) printf("exoume %s , %s, %d \n", source_id, target_id, weight);
+        if( counter % 3 == 0){
+        //    if ((pos=strchr(source_id, '\t')) != NULL) *pos = '\0';
+        //    if ((pos=strchr(target_id, '\t')) != NULL) *pos = '\0';
+        // printf("exoume %d,%d,%d\n", strlen(source_id), strlen(target_id), weight);
+           InsertNodesEdge(ht, source_id, target_id, weight);
+        } 
     }
     return 0;
 }
 
-int OutputManager(char *out){
+int OutputManager(ht_hash_table* ht, char *out){
     FILE* output = FIleWrite(out);
     if(output == NULL){
         // printf("Couldn't Load Output File\n");
@@ -117,18 +122,18 @@ int InputDirector(int argc, char *argv[]){
     }
     // open Input Output Files and manage them
     if(strcmp(input, "") != 0){
-        InputManager(input);
+        InputManager(MyHash_Table, input);
     }
     else printf("Input File Name for Graph not given\n");
 
     if(strcmp(output, "") != 0){
-        OutputManager(output);
+        OutputManager(MyHash_Table, output);
     }
     else printf("Output File Name for Printing Graph not given\n");
     
     // Managing Input from user here:
     while(1){
-        printf("\nType your Commands here:\n");
+        printf("Type your Commands here:\n");
         i =0;
         command = (char **)malloc(10 * sizeof(char*)); // 10 words in each command allowed
         getline(&buffer,&bufsize,stdin);
@@ -159,7 +164,8 @@ int InputDirector(int argc, char *argv[]){
                 }
                 else if((strcmp(command[0], "d") == 0) || (strcmp(command[0], "delete") == 0)){
                     //Delete Ni
-                    printf("Delete Ni-> %s,%s\n", command[0], command[1]);
+                    // printf("Delete Ni-> %s,%s\n", command[0], command[1]);
+                    DeleteNode(MyHash_Table, command[1]);
                 }
                 else if((strcmp(command[0], "r") == 0) || (strcmp(command[0], "receiving") == 0)){
                     //Receiving Ni
@@ -189,7 +195,7 @@ int InputDirector(int argc, char *argv[]){
                 }
                 else if((strcmp(command[0], "l") == 0) || (strcmp(command[0], "delete") == 0)){
                     // Delete Ni Nj weight
-                    printf("Delete Ni-> %s,%s,%s,%s\n", command[0], command[1], command[2],command[3]);
+                    // printf("Delete Ni-> %s,%s,%s,%s\n", command[0], command[1], command[2],command[3]);
                     int w = atoi(command[3]);
                     DeleteNodesEdge(MyHash_Table, command[1], command[2], w);
                 }

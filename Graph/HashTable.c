@@ -1,11 +1,12 @@
 #include <stdlib.h>
+#include <stdio.h>
 #include <string.h>
 #include <math.h>
 #include "../HeaderFiles/HashTable.h"
 #include "../HeaderFiles/Prime.h"
 
-const int HT_PRIME_1 = 13; // random prime
-const int HT_PRIME_2 = 43; // random prime
+const int HT_PRIME_1 = 19; // random prime
+const int HT_PRIME_2 = 37; // random prime
 
 const int HT_INITIAL_BASE_SIZE = 53; // prime number
 static node HT_DELETED_NODE = {NULL, NULL};
@@ -27,9 +28,9 @@ ht_hash_table* ht_new() {
 }
 
 static void ht_del_node(node* i) {
+    printf("MPAINE HT DEL NODE");
     free(i->_id);
-    // DeleteEdge(i); delete all edges for a given node
-    // 0 to delete all edges in the linked list
+    DeleteEdges(i); // delete all edges for a given node
     free(i);
 }
 
@@ -68,17 +69,20 @@ void ht_insert(ht_hash_table* ht, char* _id) {
         ht_resize_up(ht);
     }
     node *item = NewNode(_id); // New Node without edges
+    if(item == NULL) printf("Couldn't aalocate space for new node\n");
     int index = ht_get_hash(item->_id, ht->size, 0);
     node* cur_item = ht->nodes[index];
     int i = 1;
-    while (cur_item != NULL) {
-        if (cur_item != &HT_DELETED_NODE) {
-            if (strcmp(cur_item->_id, _id) == 0) {
-                ht_del_node(cur_item);
-                ht->nodes[index] = item;
-                return;
-            }
-        }
+    while (cur_item != NULL && cur_item != &HT_DELETED_NODE) {
+            printf("%s............%s",cur_item->_id, _id);
+        //     if (strcmp(cur_item->_id, _id) == 0) {
+        //         // ht_del_node(cur_item);
+        //         // ht->nodes[index] = item;
+        //         // if it goes in here it means that the _id already exists
+        //         printf("to _id to exw ksanaparei");
+        //         return;
+        //     }
+        // }
         index = ht_get_hash(item->_id, ht->size, i);
         cur_item = ht->nodes[index];
         i++;

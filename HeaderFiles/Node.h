@@ -1,22 +1,21 @@
 
 struct node {
     char *_id;
-    struct edge *HeadEdges; // head of the linked list of edges
+    struct edge *HeadEdges; // head of the linked list of edges make sure to give &HeadofEdges
 };
 
 struct edge {
     int weight;
     struct node *target;
     struct edge *next;
-};
+    struct edge *prev;
+}; // this is a Double Linked List
 
 typedef struct node node;
 typedef struct edge edge;
 
 node *NewNode(char * );
-edge *InsertEdge(node *, node *, edge *, int );
-int DeleteEdge(node *, node *, int );
-int GetFirstEdge(edge *);
-int GetLastEdge(edge *);
-int	IsMemberOfList(edge *, int );
-void PrintEdge(edge *);
+int InsertEdge(edge** head_ref, int w, node *t); // place the edge in the linked list
+edge *DeleteEdge(edge **head_ref, edge *del);
+int DeleteEdges(node *n);
+edge *SearchEdge(node *s, node *t, int w);

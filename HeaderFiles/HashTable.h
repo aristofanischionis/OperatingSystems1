@@ -4,7 +4,7 @@ struct ht_hash_table {
     int size;
     int count;
     int base_size;
-    struct node** nodes;
+    node** nodes;
 };
 
 typedef struct ht_hash_table ht_hash_table;
