@@ -142,11 +142,7 @@ int InputDirector(int argc, char *argv[]){
     else printf("Input File Name for Graph not given\n");
 
     if(strcmp(output, "") == 0) printf("Output File Name for Printing Graph not given\n");
-    // if(strcmp(output, "") != 0){
-    //     OutputManager(MyHash_Table, output);
-    // }
-    // else printf("Output File Name for Printing Graph not given\n");
-    
+
     // Managing Input from user here:
     while(1){
         printf("Type your Commands here:\n");
@@ -168,13 +164,9 @@ int InputDirector(int argc, char *argv[]){
                     //exits program
                     ExitProgram(MyHash_Table, output);
                     free(command);
-                    // free(buffer);
-                    // free(input);
-                    // free(output);
-                    //function to free everything
-                    // if(strcmp(output, "") != 0) OutputManager(MyHash_Table, output);
-                    // // else printf("\t- No Output File Name is given\n");
-                    // printf("\t- exit program\n");
+                    free(buffer);
+                    free(input);
+                    free(output);
                     // ht_print(MyHash_Table);
                     return 0;
                 }

@@ -1,10 +1,8 @@
 |Bernice_Gross|
 |Tom_Casey|
-	 -543->|Myra_Burke|
 |Dean_Fields|
 	 -916->|Josie_Burke|
 |Hulda_Zimmerman|
-	 -489->|Myra_Burke|
 	 -849->|Ola_Rios|
 	 -627->|Irene_Weaver|
 |Alvin_Perkins|
@@ -17,11 +15,6 @@
 |Ola_Rios|
 	 -967->|Janie_Warner|
 	 -103->|Leonard_Reeves|
-|Myra_Burke|
-	 -13->|Ola_Rios|
-	 -589->|Ola_Rios|
-	 -340->|Jeffery_Walters|
-	 -123->|Jim_Johnston|
 |Josie_Burke|
 	 -514->|Jack_Hawkins|
 |Emilie_Horton|
@@ -41,7 +34,6 @@
 |Jeffery_Walters|
 	 -119->|Tom_Casey|
 |Leonard_Reeves|
-	 -867->|Myra_Burke|
 	 -113->|Dean_Fields|
 |Janie_Warner|
 |Todd_Park|
@@ -50,11 +42,9 @@
 	 -869->|Leonard_Reeves|
 |Jim_Johnston|
 	 -945->|Leonard_Reeves|
-	 -759->|Myra_Burke|
 |Lina_Bennett|
 |Marion_Beck|
 	 -95->|Jim_Johnston|
 |Marcus_Duncan|
 	 -389->|Ola_Rios|
 	 -838->|Alvin_Perkins|
-	 -623->|Myra_Burke|
