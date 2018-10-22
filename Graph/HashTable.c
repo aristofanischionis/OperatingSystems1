@@ -28,7 +28,6 @@ ht_hash_table* ht_new() {
 }
 
 static void ht_del_node(node* i) {
-    printf("MPAINE HT DEL NODE");
     free(i->_id);
     DeleteEdges(i); // delete all edges for a given node
     free(i);
@@ -69,17 +68,28 @@ void ht_insert(ht_hash_table* ht, char* _id) {
         ht_resize_up(ht);
     }
     node *item = NewNode(_id); // New Node without edges
-    if(item == NULL) printf("Couldn't aalocate space for new node\n");
+    // printf("id that is given after NewNode %s\n", item->_id);
+    if(item == NULL) printf("Couldn't allocate space for new node\n");
     int index = ht_get_hash(item->_id, ht->size, 0);
     node* cur_item = ht->nodes[index];
     int i = 1;
-    while (cur_item != NULL && cur_item != &HT_DELETED_NODE) {
+    while ( cur_item != NULL ) {
+        if( cur_item != &HT_DELETED_NODE ){
+            if (strcmp(cur_item->_id, _id) == 0) {
+                // if an _id is given that it has already been given
+                //update its content with the new value
+                ht_del_node(cur_item);
+                ht->nodes[index] = item;
+                return;
+            }
+        }
         index = ht_get_hash(item->_id, ht->size, i);
         cur_item = ht->nodes[index];
         i++;
     } // avoid collisions, trying to find the suitable index to place the node
     ht->nodes[index] = item;
     ht->count++; // node inserted
+    return;
 }
 
 node* ht_search(ht_hash_table* ht, char* _id) {
@@ -87,16 +97,16 @@ node* ht_search(ht_hash_table* ht, char* _id) {
     node* item = ht->nodes[index];
     int i = 1;
     while (item != NULL) {
-        printf("%s---searching---%s,---->%d\n",item->_id,_id, i);
+        // printf("%s---searching---%s,---->%d\n",item->_id,_id, i);
         if (item != &HT_DELETED_NODE) { 
             if (strcmp(item->_id, _id) == 0) {
-                printf("search to %s kai brhka %s as epistrepsw \n",_id, item->_id);
+                // printf("search to %s kai brhka %s as epistrepsw %d \n",_id, item->_id, index);
                 return item;
             }
         }
         index = ht_get_hash(_id, ht->size, i);
         item = ht->nodes[index];
-        if(item == NULL) printf("item is null\n");
+        // if(item == NULL) printf("item is null %d\n", index);
         i++;
     } 
     return NULL;

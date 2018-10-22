@@ -7,7 +7,7 @@
 node *NewNode(char *id){
     node *n = (node *) malloc (sizeof(node)+1);
 	n->_id = (char *) malloc(sizeof(id)+1);
-	n->_id = id;
+	strcpy(n->_id, id);
 	n->HeadEdges = NULL; // correct
 	return(n);
 }
