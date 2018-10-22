@@ -5,6 +5,7 @@
 #include <ctype.h>
 #include "../HeaderFiles/FileHandling.h"
 #include "../HeaderFiles/Repository.h"
+static node HT_DELETED_NODE = {NULL, NULL};
 
 int InputManager(ht_hash_table* ht, char *in){
     FILE* input = FileRead(in);
@@ -35,6 +36,8 @@ int InputManager(ht_hash_table* ht, char *in){
         if( counter % 3 == 0) InsertNodesEdge(ht, source_id, target_id, weight);
     }
     fclose(input);
+    free(source_id);
+    free(target_id);
     return 0;
 }
 
@@ -163,10 +166,15 @@ int InputDirector(int argc, char *argv[]){
                 if ((pos=strchr(command[0], '\n')) != NULL) *pos = '\0';
                 if((strcmp(command[0], "e") == 0) || (strcmp(command[0], "exit") == 0)){ 
                     //exits program
+                    ExitProgram(MyHash_Table, output);
+                    free(command);
+                    // free(buffer);
+                    // free(input);
+                    // free(output);
                     //function to free everything
-                    if(strcmp(output, "") != 0) OutputManager(MyHash_Table, output);
-                    // else printf("\t- No Output File Name is given\n");
-                    printf("\t- exit program\n");
+                    // if(strcmp(output, "") != 0) OutputManager(MyHash_Table, output);
+                    // // else printf("\t- No Output File Name is given\n");
+                    // printf("\t- exit program\n");
                     // ht_print(MyHash_Table);
                     return 0;
                 }
@@ -243,12 +251,12 @@ int InputDirector(int argc, char *argv[]){
         }
         
 
-        free(command);
+        // free(command);
     }
 
     //freeing out memory
-    free(input);
-    free(output);
+    // free(input);
+    // free(output);
 
     return 0;
 }

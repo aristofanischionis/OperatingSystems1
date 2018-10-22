@@ -7,6 +7,7 @@
 
 const int HT_PRIME_1 = 19; // random prime
 const int HT_PRIME_2 = 37; // random prime
+static node HT_DELETED_NODE = {NULL, NULL};
 
 const int HT_INITIAL_BASE_SIZE = 53; // prime number
 // static node HT_DELETED_NODE = {NULL, NULL};
@@ -36,7 +37,7 @@ static void ht_del_node(node* i) {
 void ht_del_hash_table(ht_hash_table* ht) {
     for (int i = 0; i < ht->size; i++) {
         node* item = ht->nodes[i];
-        if (item != NULL) {
+        if (item != NULL && item != &HT_DELETED_NODE) {
             ht_del_node(item);
         }
     }

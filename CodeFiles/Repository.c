@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h> 
-#include "../HeaderFiles/HashTable.h"
+#include "../HeaderFiles/API.h"
 
 int InsertNode(ht_hash_table* ht, char* _id){
     //this function calls backend functions to insert a new Node to the Hash Table
@@ -32,6 +32,13 @@ int DeleteNode(ht_hash_table* ht, char* _id){
         return 1;
     }
     //first delete all edges going to _id
+    node *temp;
+    for (int i = 0; i < ht->size; i++) {
+        temp = ht->nodes[i];
+        if (temp != NULL) {
+            DeleteEdgesFrom(temp , n);
+        }
+    }
     ht_delete(ht, _id); // this will also delete all of the outgoing edges
     // not only delete node but the associated edges as well
     printf("\t- Deleted |%s|\n", _id);
@@ -118,13 +125,15 @@ int DeleteAllNodesEdge(ht_hash_table* ht, char* _id1, char *_id2){
     }
     DeleteEdgesFrom(n1, n2);
     DeleteEdgesFrom(n2, n1);
-    // edge *del = SearchEdge(n1, n2, w);
-    // if( del == NULL){
-    //     printf("\t- |%s|->%d->|%s| does not exist - abort-l;\n",n1->_id, w, n2->_id);
-    //     return 1;    
-    // }
-
-    // DeleteEdges(&(n1->HeadEdges)); NEW FUNCTION NEEDS TO BE MADE
     printf("\t- Del All Vertices between |%s| and |%s|\n", _id1, _id2);
     return 0;
+}
+
+void ExitProgram(ht_hash_table* ht,  char *output){
+    // free up all space
+    if(strcmp(output, "") != 0) OutputManager(ht, output);
+    // else printf("\t- No Output File Name is given\n");
+    printf("\t- exit program\n");
+    ht_del_hash_table(ht);
+    return;
 }
