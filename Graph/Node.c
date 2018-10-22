@@ -43,7 +43,6 @@ int InsertEdge(edge** head_ref, int w, node *t){
     return 0; 
 }
 
-// This function prints contents of linked list starting from the given node 
 void printList(edge* e){ 
     edge* last; 
     printf("\nTraversal in forward direction \n"); 
@@ -61,26 +60,21 @@ void printList(edge* e){
 } 
 
 edge *DeleteEdge(edge **head_ref, edge *del){ 
-  
-  /* base case */
-  if(*head_ref == NULL || del == NULL) 
-    return NULL; 
-  
-  /* If node to be deleted is head node */
-  if(*head_ref == del) 
-    *head_ref = del->next; 
-  
-  /* Change next only if node to be deleted is NOT the last node */
-  if(del->next != NULL) 
-    del->next->prev = del->prev; 
-  
-  /* Change prev only if node to be deleted is NOT the first node */
-  if(del->prev != NULL) 
-    del->prev->next = del->next;      
-  
-  /* Finally, free the memory occupied by del*/
-  free(del); 
-  return *head_ref; 
+    /* base case */
+    if(*head_ref == NULL || del == NULL) 
+        return NULL; 
+    /* If node to be deleted is head node */
+    if(*head_ref == del) 
+        *head_ref = del->next; 
+    /* Change next only if node to be deleted is NOT the last node */
+    if(del->next != NULL) 
+        del->next->prev = del->prev; 
+    /* Change prev only if node to be deleted is NOT the first node */
+    if(del->prev != NULL) 
+        del->prev->next = del->next;
+    /* Finally, free the memory occupied by del*/
+    free(del);
+    return *head_ref; 
 }
 
 int DeleteEdges(edge** head_ref){
@@ -97,9 +91,6 @@ int DeleteEdges(edge** head_ref){
 } 
 
 edge *SearchEdge(node *s, node *t, int w){
-    // if(s->HeadEdges->target == t && s->HeadEdges->weight == w) return s->HeadEdges;
-    // When not first edge
-    // find the previous edge 
     edge *temp = s->HeadEdges;
     while(temp != NULL){
         if(temp->target == t && temp->weight == w){
@@ -109,15 +100,31 @@ edge *SearchEdge(node *s, node *t, int w){
         temp = temp->next;
     }
     return NULL;
+}
 
-    // edge *prev = s->HeadEdges; 
-    // while(prev->next != NULL){
-	// 	if(prev->next->target != t || prev->next->weight != w) prev = prev->next; 
-	// }
-	// // Check if edge really exists in DLL
-    // if(prev->next == NULL) return NULL; 
+edge *SearchEdgeNoWeight(node *s, node *t){
+    if(s == NULL) return NULL;
+    if(t == NULL) return NULL;
+    edge *temp = s->HeadEdges;
+    while(temp != NULL){
+        if(temp->target == t){
+            // found
+            return temp;
+        }
+        temp = temp->next;
+    }
+    return NULL;
+}
 
-    // return prev->next;
+int DeleteEdgesFrom(node *n1, node *n2){
+    edge * temp;
+    temp = SearchEdgeNoWeight(n1, n2);
+    while(temp != NULL){
+        // search for more edges from n1 -> n2
+        DeleteEdge(&(n1->HeadEdges), temp);
+        temp = SearchEdgeNoWeight(n1, n2);
+    }
+    return 0;
 }
 
 edge *UpdateEdge(node *s, node *t, int w, int nw){

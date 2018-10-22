@@ -200,6 +200,10 @@ int InputDirector(int argc, char *argv[]){
                     //findcircles Ni k
                     printf("findcircles Ni k-> %s,%s,%s\n", command[0], command[1], command[2]);
                 }
+                else if((strcmp(command[0], "l") == 0) || (strcmp(command[0], "delete") == 0)){
+                    //delete Ni Nj all edges between ni and nj
+                    DeleteAllNodesEdge(MyHash_Table, command[1], command[2]);
+                }
                 else fprintf(stderr, "Unknown Command Starting with: %s \n",command[0]);
                 break;
             case 4:
