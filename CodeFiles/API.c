@@ -52,7 +52,7 @@ int OutputManager(ht_hash_table* ht, char *out){
     int i =0 ;
     node* cur_item = ht->nodes[i];
     while(i < ht->base_size){
-        if(cur_item != NULL && cur_item != &HT_DELETED_NODE ){
+        if((cur_item != NULL) &&( cur_item != &HT_DELETED_NODE ) && (cur_item->_id != NULL)){
             fprintf(output,"|%s|\n", cur_item->_id);
             edge *temp = cur_item->HeadEdges;
             while(temp != NULL ){   
