@@ -17,7 +17,6 @@ int InputManager(ht_hash_table* ht, char *in){
     char *source_id;
     char *target_id;
     int weight;
-    char *pos;
     source_id = (char *)malloc(40);
     target_id = (char *)malloc(40);
     while (fscanf(input,"%s",word)==1){
@@ -33,13 +32,9 @@ int InputManager(ht_hash_table* ht, char *in){
                 break;
         }
         counter++;
-        if( counter % 3 == 0){
-        //    if ((pos=strchr(source_id, '\t')) != NULL) *pos = '\0';
-        //    if ((pos=strchr(target_id, '\t')) != NULL) *pos = '\0';
-        // printf("exoume %d,%d,%d\n", strlen(source_id), strlen(target_id), weight);
-           InsertNodesEdge(ht, source_id, target_id, weight);
-        } 
+        if( counter % 3 == 0) InsertNodesEdge(ht, source_id, target_id, weight);
     }
+    fclose(input);
     return 0;
 }
 
@@ -49,6 +44,21 @@ int OutputManager(ht_hash_table* ht, char *out){
         // printf("Couldn't Load Output File\n");
         return 1;
     }
+    // ht_print(ht);
+    // just changed printf->fprintf
+    int i =0 ;
+    while(i < ht->base_size){
+        if(ht->nodes[i] != NULL){
+            fprintf(output,"|%s|\n", ht->nodes[i]->_id);
+            edge *temp = ht->nodes[i]->HeadEdges;
+            while(temp != NULL){   
+                fprintf(output,"\t -%d->|%s|\n", temp->weight, temp->target->_id);
+                temp = temp->next;
+            }
+        }
+        i++;
+    }
+    fclose(output);
     return 0;
 }
 
@@ -126,10 +136,11 @@ int InputDirector(int argc, char *argv[]){
     }
     else printf("Input File Name for Graph not given\n");
 
-    if(strcmp(output, "") != 0){
-        OutputManager(MyHash_Table, output);
-    }
-    else printf("Output File Name for Printing Graph not given\n");
+    if(strcmp(output, "") == 0) printf("Output File Name for Printing Graph not given\n");
+    // if(strcmp(output, "") != 0){
+    //     OutputManager(MyHash_Table, output);
+    // }
+    // else printf("Output File Name for Printing Graph not given\n");
     
     // Managing Input from user here:
     while(1){
@@ -150,8 +161,10 @@ int InputDirector(int argc, char *argv[]){
                 if ((pos=strchr(command[0], '\n')) != NULL) *pos = '\0';
                 if((strcmp(command[0], "e") == 0) || (strcmp(command[0], "exit") == 0)){ 
                     //exits program
-                    printf("exits program\n");
-                    ht_print(MyHash_Table);
+                    if(strcmp(output, "") != 0) OutputManager(MyHash_Table, output);
+                    // else printf("\t- No Output File Name is given\n");
+                    printf("\t- exit program\n");
+                    // ht_print(MyHash_Table);
                     return 0;
                 }
                 else fprintf(stderr, "Unknown Command Starting with:%s \n",command[0]);
