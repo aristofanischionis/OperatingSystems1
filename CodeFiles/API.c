@@ -76,6 +76,7 @@ int InputDirector(int argc, char *argv[]){
     char *token;
     char **command;
     char *pos;
+    const char s[2] = " \t";
     buffer = (char *)malloc(bufsize * sizeof(char));
     input = (char *)malloc(40);
     output = (char *)malloc(40);

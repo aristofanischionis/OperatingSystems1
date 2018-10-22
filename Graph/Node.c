@@ -6,7 +6,7 @@
 //before calling this one be sure there is no other node with the same name in Graph
 node *NewNode(char *id){
     node *n = (node *) malloc (sizeof(node)+1);
-	n->_id = (char *) malloc(sizeof(id)+1);
+	n->_id = (char *) malloc(40 * sizeof(char)+1);
 	strcpy(n->_id, id);
 	n->HeadEdges = NULL; // correct
 	return(n);
