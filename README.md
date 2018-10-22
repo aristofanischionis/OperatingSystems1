@@ -1,6 +1,6 @@
 # OperatingSystems1
 
 memory leaks
-try if it's better to return nodes than void the hashtable functions so that I won't need to call search all the time
-not working for the big file
+ working for the big file but needs a lot of time
 sally porter is two times in the medium input file when printing
+and in the big file the same

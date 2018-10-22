@@ -18,7 +18,7 @@ int InsertEdge(edge** head_ref, int w, node *t){
     edge* new_edge = (edge*)malloc(sizeof(edge)); 
 	edge* last = *head_ref; /* used in step 5*/
     /* 2. put in the data  */
-	new_edge->target = (node*)malloc(sizeof(node));
+	// new_edge->target = (node*)malloc(sizeof(node));
     new_edge->target = t;
 	new_edge->weight = w;
 	/* 3. This new node is going to be the last node, so 
@@ -28,7 +28,7 @@ int InsertEdge(edge** head_ref, int w, node *t){
           node as head */
     if (*head_ref == NULL) { 
         new_edge->prev = NULL; 
-        *head_ref = new_edge; 
+        *head_ref = new_edge;
         return 0; 
     } 
     /* 5. Else traverse till the last node */
@@ -38,8 +38,7 @@ int InsertEdge(edge** head_ref, int w, node *t){
     last->next = new_edge; 
   
     /* 7. Make last node as previous of new node */
-    new_edge->prev = last; 
-  
+    new_edge->prev = last;
     return 0; 
 }
 

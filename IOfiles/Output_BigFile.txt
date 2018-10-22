@@ -1,0 +1,6046 @@
+|Sophia_Norman|
+	 -578653->|Myra_Turner|
+	 -935239->|Vincent_Owens|
+	 -472514->|Winifred_Ellis|
+	 -596487->|Adrian_Hernandez|
+	 -551945->|Rhoda_Davidson|
+	 -624315->|Addie_Chapman|
+|Sophia_Norman|
+	 -578653->|Myra_Turner|
+	 -935239->|Vincent_Owens|
+	 -472514->|Winifred_Ellis|
+	 -596487->|Adrian_Hernandez|
+	 -551945->|Rhoda_Davidson|
+	 -624315->|Addie_Chapman|
+|Loretta_Schultz|
+	 -274615->|Rosetta_Parsons|
+	 -52132->|Lucas_Weaver|
+	 -27534->|Luis_Patton|
+	 -540930->|Roxie_Day|
+	 -947920->|Nora_Ray|
+	 -898555->|Clifford_Garcia|
+	 -289815->|Marian_Lawson|
+	 -960442->|Beatrice_Reid|
+	 -353665->|Clyde_Hudson|
+|Walter_McBride|
+	 -677842->|Isaiah_Wilkins|
+	 -159214->|Hattie_May|
+|Rhoda_Webb|
+	 -178738->|Gabriel_Fitzgerald|
+	 -850052->|Mitchell_Washington|
+	 -478794->|Nancy_McLaughlin|
+	 -979194->|Patrick_Walters|
+	 -677423->|Logan_Parker|
+	 -415518->|Nora_Moss|
+	 -681481->|Sara_Jacobs|
+	 -904334->|Willie_Burton|
+	 -958017->|Lina_Bennett|
+|Corey_Holmes|
+	 -574753->|Eugenia_Ward|
+	 -528413->|Harvey_Allen|
+	 -34752->|Emily_Page|
+	 -397757->|Leonard_Reeves|
+	 -699628->|Dora_Marshall|
+	 -770631->|Gordon_Owen|
+	 -106367->|Gavin_Cox|
+|Jay_Parsons|
+	 -79036->|Elnora_Pratt|
+	 -652689->|Paul_Huff|
+	 -355748->|Inez_Hanson|
+	 -80285->|Jorge_Dunn|
+|Vernon_Cannon|
+	 -684632->|Delia_Schwartz|
+	 -109131->|Sam_Jefferson|
+	 -603036->|Sylvia_Arnold|
+	 -545557->|Inez_Johnston|
+	 -285638->|Stella_Ballard|
+	 -869493->|Ola_Rose|
+	 -182934->|Mary_Meyer|
+|Sarah_Atkins|
+	 -949090->|Daniel_Ramirez|
+	 -368210->|Celia_Cummings|
+	 -218029->|Mollie_Gonzalez|
+	 -385857->|Glenn_Anderson|
+	 -711753->|Teresa_Phillips|
+	 -589022->|Leona_Sanders|
+	 -517626->|Ronald_Flores|
+	 -304491->|Steven_George|
+|Ricardo_Moss|
+	 -888724->|Josie_Perez|
+	 -291183->|Adelaide_Hernandez|
+	 -442707->|Adele_Ramos|
+	 -681379->|Hulda_Torres|
+|Dorothy_Wong|
+	 -218323->|Addie_Nichols|
+	 -266006->|Adrian_Stewart|
+|Ronald_Harper|
+	 -31347->|Ernest_Evans|
+	 -54855->|Mable_Frazier|
+	 -153821->|Dylan_Klein|
+	 -580320->|Christina_Hart|
+	 -586981->|Millie_Herrera|
+|Marie_McDaniel|
+	 -443991->|Gabriel_Watson|
+	 -609556->|Jon_Barnett|
+	 -342760->|Rosie_Barnett|
+	 -565041->|Joel_Jensen|
+	 -232229->|Alan_Ryan|
+	 -811314->|Minnie_Underwood|
+|Betty_Hubbard|
+	 -684859->|Dorothy_Mendoza|
+	 -287215->|Victor_Smith|
+	 -829973->|William_Ramsey|
+	 -877795->|Edith_Marshall|
+	 -243224->|Cora_Ross|
+|Bill_Evans|
+	 -184159->|Julian_Gray|
+	 -391626->|Josephine_Murray|
+	 -448493->|Martin_Scott|
+	 -253885->|Sue_Chambers|
+|Isabel_Maldonado|
+	 -882937->|Henrietta_Vega|
+	 -990038->|Elmer_Duncan|
+	 -164602->|Virgie_Walsh|
+	 -6227->|Virgie_Shelton|
+|Zachary_Parks|
+	 -915251->|Betty_Hubbard|
+	 -698148->|Callie_Wise|
+	 -458807->|Ada_Briggs|
+	 -169420->|Mike_Wilkerson|
+	 -584373->|Randy_Adams|
+	 -733448->|Barbara_Henderson|
+	 -639070->|Dennis_Ortega|
+|Leila_Hodges|
+	 -281803->|Owen_Hart|
+	 -127729->|Richard_Hamilton|
+	 -876782->|Rosalie_Mitchell|
+	 -607793->|Myrtle_Brewer|
+	 -890084->|Ella_Garrett|
+	 -445734->|Wayne_Stokes|
+	 -34687->|Steve_Dennis|
+	 -687175->|Della_Cobb|
+|Nora_Hughes|
+	 -900140->|Isabel_Horton|
+	 -903375->|Pearl_Dunn|
+	 -942073->|Bettie_Keller|
+	 -812564->|Lena_Townsend|
+	 -757716->|Hilda_Greene|
+|Beulah_Alvarez|
+	 -117821->|Mollie_Gonzalez|
+	 -777863->|Susan_Morrison|
+	 -316179->|Wesley_McDaniel|
+|Cecelia_Hardy|
+	 -661657->|Annie_Fields|
+	 -694956->|Jonathan_Morris|
+	 -842007->|Edith_Marshall|
+|Kevin_Owens|
+	 -209139->|Vera_Ford|
+	 -523409->|Lina_Bennett|
+	 -68036->|Frank_Floyd|
+	 -957793->|Wayne_Stokes|
+	 -211605->|Jose_Ingram|
+|Luis_Malone|
+	 -703252->|Alice_Edwards|
+	 -808885->|Luella_Wallace|
+	 -405203->|Olga_Johnston|
+	 -96145->|Hallie_Pierce|
+|Pearl_Rodgers|
+	 -483939->|Floyd_Tucker|
+	 -503981->|Cordelia_Burke|
+	 -145452->|Adrian_Hernandez|
+	 -37655->|Leo_Gibson|
+	 -541379->|Brett_Marsh|
+|Bernard_Medina|
+	 -383324->|Vernon_Cannon|
+	 -321412->|Jordan_George|
+|Jeanette_Ramirez|
+	 -611522->|Paul_Hill|
+	 -563350->|Hettie_Sandoval|
+|Rachel_Perry|
+	 -988105->|Melvin_Greene|
+	 -626913->|Cecelia_Park|
+	 -484614->|Gabriel_Davidson|
+|Allen_Santos|
+	 -651927->|Jerome_Dawson|
+	 -961729->|Ronnie_Neal|
+	 -157405->|Marian_Wilkins|
+	 -526937->|Marie_Carroll|
+|Rosa_Ellis|
+	 -797055->|Anne_Matthews|
+	 -813109->|Raymond_Meyer|
+	 -184206->|George_Matthews|
+	 -502693->|Gabriel_Ellis|
+	 -610663->|Irene_Goodman|
+	 -937520->|Hester_Abbott|
+	 -181314->|Clarence_Ingram|
+|Alice_Cruz|
+	 -171752->|Benjamin_Santiago|
+	 -881835->|Gene_Lyons|
+	 -957848->|Douglas_Schwartz|
+	 -139907->|Susan_Yates|
+|Max_Boone|
+	 -722381->|Victoria_Mitchell|
+	 -35067->|Billy_Weber|
+	 -926563->|Rosa_May|
+|Madge_Jimenez|
+	 -829847->|Millie_Herrera|
+	 -311250->|John_Barker|
+|Bruce_Phelps|
+	 -698818->|Jesse_Newton|
+	 -550864->|Ora_Price|
+|Ellen_Nichols|
+	 -193855->|Bertha_Yates|
+	 -61963->|Allen_Santos|
+	 -702609->|Hulda_Zimmerman|
+	 -59613->|Henry_Hall|
+	 -710162->|Devin_Foster|
+	 -856901->|Jane_Murphy|
+|Tom_Casey|
+	 -428254->|Willie_Jennings|
+	 -585238->|Martha_Bates|
+	 -95726->|Edward_Vasquez|
+	 -785353->|Nicholas_Henry|
+|Alex_Herrera|
+	 -263346->|Duane_Chambers|
+	 -200431->|Alma_Garner|
+	 -973335->|Augusta_Snyder|
+	 -700071->|Jorge_Douglas|
+	 -436448->|Clayton_Dean|
+	 -258457->|Justin_Keller|
+	 -297817->|Logan_Hardy|
+	 -603955->|Devin_Keller|
+|Carl_Nunez|
+	 -610693->|Isabella_Howard|
+	 -144785->|Isabella_Benson|
+	 -317045->|Dylan_Brown|
+	 -913918->|Lina_Bennett|
+	 -370844->|Hulda_Torres|
+|Jacob_Osborne|
+	 -211765->|Virgie_Walsh|
+	 -218728->|Donald_Gomez|
+	 -133965->|Duane_Chambers|
+	 -551893->|Nora_Moss|
+	 -118636->|Margaret_Yates|
+|Justin_Horton|
+	 -824255->|Madge_Jimenez|
+	 -188025->|Minnie_Wise|
+	 -433268->|Ian_Shelton|
+	 -829439->|Raymond_Thomas|
+	 -19329->|Ola_Reid|
+|Mary_Meyer|
+	 -349039->|David_Higgins|
+	 -358732->|Ora_Perry|
+	 -490048->|Lucas_Weaver|
+	 -597189->|Sophia_Potter|
+	 -265217->|Nina_Goodwin|
+	 -664409->|Mollie_Potter|
+	 -876804->|Mamie_Simmons|
+|Rosalie_Mitchell|
+	 -979572->|Lucinda_Reyes|
+	 -763091->|Sophia_Norman|
+	 -478978->|Brent_Bowman|
+	 -908086->|Willie_Larson|
+|John_Lopez|
+	 -419421->|Mayme_Hansen|
+	 -639583->|Carolyn_Tran|
+	 -619930->|Bradley_Gibson|
+	 -467788->|Ray_Howell|
+|Lucinda_Reyes|
+	 -239684->|Craig_Fuller|
+	 -537255->|Kenneth_Marsh|
+	 -32524->|Brandon_Stone|
+	 -301672->|Eugenia_Huff|
+|Harry_Black|
+	 -514726->|Alice_Greene|
+	 -440178->|Howard_Mendez|
+	 -958728->|Helena_Carson|
+	 -252618->|Roy_Mendoza|
+	 -951105->|Theresa_Martinez|
+	 -840062->|Duane_Bowers|
+|Georgia_Wood|
+	 -728958->|Victoria_Hammond|
+	 -832290->|Walter_McBride|
+	 -203862->|Rodney_Fletcher|
+	 -386942->|Verna_Bishop|
+	 -112077->|Lina_Green|
+|Maria_Moss|
+	 -256212->|Isabelle_Norris|
+	 -253793->|Steve_Dennis|
+	 -936053->|Sean_McCoy|
+	 -149332->|Dominic_Meyer|
+	 -764607->|Alice_Underwood|
+|Annie_Benson|
+	 -482681->|Leila_Rose|
+	 -561598->|Sarah_Atkins|
+|Hunter_Ramos|
+	 -833647->|Lura_Garner|
+	 -336931->|Annie_Benson|
+	 -749600->|Alice_Cruz|
+|Henrietta_Vega|
+	 -696574->|Nora_Lawrence|
+|Ollie_Crawford|
+	 -629094->|Minnie_Little|
+	 -781100->|Ophelia_Atkins|
+	 -132541->|Marion_Parks|
+|Jose_Ingram|
+	 -85164->|Minnie_Wise|
+	 -24493->|Margaret_Hernandez|
+	 -894873->|Margaret_Jenkins|
+	 -199733->|Cecelia_Park|
+	 -260814->|Dean_Fields|
+|Frank_Floyd|
+	 -452940->|Herbert_Mann|
+	 -727281->|Myra_Burke|
+	 -242215->|Estella_Johnson|
+	 -901173->|Jeffery_Francis|
+	 -345017->|Fred_Hart|
+|Isabelle_Norris|
+	 -380057->|Georgia_Wood|
+	 -946534->|Marian_Oliver|
+	 -317380->|Johnny_Barber|
+	 -105901->|Cameron_Griffin|
+|Jeffery_Walters|
+	 -767->|Lina_Bennett|
+	 -407805->|Blake_Wood|
+	 -63340->|David_Porter|
+	 -576057->|Floyd_McCarthy|
+	 -572382->|Benjamin_Santiago|
+	 -335957->|Lizzie_Stevens|
+	 -414009->|Bettie_Hamilton|
+	 -828037->|Terry_Smith|
+|Lawrence_Page|
+	 -372197->|Eliza_Kelly|
+	 -817219->|Leila_Hodges|
+	 -437178->|Christopher_Warren|
+	 -834227->|Alice_Greene|
+|Lilly_Sandoval|
+	 -762420->|Corey_Chandler|
+	 -40802->|Mathilda_Little|
+	 -913512->|Ophelia_Dixon|
+	 -462300->|Willie_Jordan|
+	 -921515->|Angel_Bowen|
+	 -959283->|Sophia_Potter|
+|Theodore_Turner|
+	 -799361->|Lee_Williams|
+	 -487708->|Fanny_Simmons|
+	 -136833->|Mable_Frazier|
+	 -712832->|Marian_Lawson|
+	 -108133->|Ian_Shelton|
+|Landon_Hudson|
+	 -31588->|Mollie_Potter|
+	 -140762->|Edith_Marshall|
+	 -744406->|Allen_Alvarez|
+	 -79165->|Florence_Bennett|
+	 -437304->|Craig_Fuller|
+	 -204100->|Erik_Houston|
+	 -27314->|Rosie_Jensen|
+	 -810974->|Fanny_Watkins|
+|Elizabeth_Chambers|
+	 -38852->|Jacob_Osborne|
+	 -673026->|Estella_Johnson|
+|Bessie_Glover|
+	 -198158->|Jacob_Osborne|
+	 -579514->|Georgia_Bridges|
+	 -229128->|Luella_Wallace|
+|Owen_Hart|
+	 -290350->|Agnes_Holt|
+	 -695721->|Pauline_Kim|
+	 -716612->|Alexander_Hudson|
+|Elmer_Pierce|
+	 -301385->|Ida_Guzman|
+|Isabella_Zimmerman|
+	 -177680->|Bradley_Briggs|
+	 -911211->|Bradley_Briggs|
+	 -844211->|Essie_Cruz|
+	 -610654->|Devin_Keller|
+	 -271076->|Ann_Sharp|
+|Aiden_Mitchell|
+	 -175741->|Myrtle_Foster|
+	 -556704->|Seth_Wright|
+	 -719433->|Barbara_Henderson|
+	 -15033->|Emily_Parker|
+|Willie_Jordan|
+	 -291087->|Julian_Gray|
+	 -467535->|Glen_Simon|
+	 -225215->|Ian_Clark|
+	 -433507->|Sean_McCoy|
+	 -847034->|Abbie_Fleming|
+|Hattie_May|
+	 -289906->|Joel_Jensen|
+	 -198463->|Lawrence_Page|
+	 -36984->|Duane_Aguilar|
+	 -512836->|Joe_Norman|
+	 -548084->|Isabella_Howard|
+	 -350057->|Herman_Dunn|
+|Lucas_Diaz|
+	 -626034->|Marc_Haynes|
+	 -609491->|Susan_Morrison|
+	 -605434->|Erik_Rios|
+|Marc_Haynes|
+	 -29084->|Inez_Hanson|
+|Christina_Hart|
+	 -918188->|Susie_Nunez|
+	 -529261->|Lily_Walton|
+	 -205846->|Cordelia_Walsh|
+	 -81423->|Linnie_Ellis|
+|Gene_Lyons|
+	 -101025->|Marcus_Salazar|
+	 -625939->|Gene_Vega|
+|Nora_Welch|
+	 -754988->|Rosalie_Ford|
+	 -690499->|Marie_Simpson|
+	 -777511->|Johanna_Lindsey|
+	 -80952->|Marian_Lawson|
+	 -351278->|Leo_Burton|
+|Dominic_Meyer|
+	 -24505->|Eugenia_Ward|
+|Linnie_Ellis|
+	 -998941->|David_Larson|
+	 -261306->|Ricardo_Benson|
+	 -524549->|Gordon_Robinson|
+	 -513950->|George_Patrick|
+	 -589277->|Violet_Larson|
+	 -685081->|Pearl_George|
+|Kyle_Cook|
+	 -68186->|Abbie_Hawkins|
+	 -755523->|Sally_Sherman|
+	 -56103->|Christina_Hart|
+	 -49940->|Marguerite_Weaver|
+	 -162515->|Ida_Guzman|
+	 -131364->|Douglas_Schwartz|
+	 -620952->|Hunter_Potter|
+	 -455173->|Marian_Wilkins|
+|Joel_Pierce|
+	 -393729->|Ethan_Jennings|
+	 -810994->|Douglas_Moreno|
+	 -718357->|Eugene_Flowers|
+	 -792267->|Mitchell_Washington|
+	 -760847->|Melvin_Murphy|
+	 -385025->|Edward_Vasquez|
+|Janie_Warner|
+	 -389588->|Sara_Huff|
+	 -681061->|Franklin_Simpson|
+	 -627627->|Gabriel_Ellis|
+	 -891823->|Dylan_Brown|
+	 -268461->|Ray_Huff|
+	 -303318->|Charles_Paul|
+	 -987531->|Wayne_McBride|
+|Jesse_Newton|
+	 -4741->|Jeffrey_Holloway|
+	 -832870->|Danny_Gordon|
+	 -778737->|Bettie_Hamilton|
+	 -815999->|Theodore_Turner|
+|Ricky_Gonzalez|
+	 -371676->|Pearl_Rodgers|
+	 -898924->|Leo_Gibson|
+	 -679536->|Jayden_Day|
+	 -505592->|Loretta_Schultz|
+	 -151021->|Jean_Wood|
+	 -685773->|Marvin_Henderson|
+	 -30637->|Lettie_Carroll|
+	 -683880->|Leila_Ramsey|
+|Jesus_Cox|
+	 -708834->|Richard_Warren|
+	 -626766->|Nelle_Harper|
+	 -287433->|Dean_Olson|
+|Jerome_Peterson|
+	 -533456->|Ruth_Stephens|
+	 -235813->|Adele_Banks|
+	 -895053->|Annie_Jones|
+|Olive_Casey|
+	 -239906->|Emma_Martinez|
+	 -608680->|Elnora_King|
+	 -65349->|Gabriel_Ellis|
+|Celia_Spencer|
+	 -665457->|Floyd_Riley|
+	 -724689->|Verna_Bishop|
+	 -158625->|Leila_Hodges|
+	 -123741->|Kathryn_Cole|
+	 -374098->|Lester_Knight|
+	 -180024->|Christopher_Massey|
+|Harriett_Graves|
+	 -14317->|Harvey_Francis|
+	 -168122->|Marion_Parks|
+	 -828237->|Georgie_Jenkins|
+	 -405927->|John_Lopez|
+|Verna_Ray|
+	 -856720->|Lena_Carlson|
+	 -329203->|Hunter_Potter|
+	 -708194->|Jeffery_Walters|
+|Mark_Simpson|
+	 -781395->|Tillie_Welch|
+	 -541228->|Sue_Chambers|
+	 -635424->|Harriett_Graves|
+	 -968899->|Jacob_Parsons|
+	 -232018->|John_Kennedy|
+|Keith_Vasquez|
+	 -19349->|Hunter_Ramos|
+	 -349097->|Brandon_Craig|
+	 -447270->|Ricardo_Moss|
+	 -208803->|Lelia_Rodgers|
+	 -836779->|Marvin_Henderson|
+	 -857142->|Ada_Thomas|
+|Anthony_Rowe|
+	 -19394->|Ola_Schultz|
+	 -712038->|Joel_Jensen|
+	 -59988->|Joel_Summers|
+	 -612303->|Cameron_Griffin|
+	 -267837->|Hulda_Torres|
+	 -141637->|Seth_Moore|
+|Susan_Yates|
+	 -585082->|John_Kennedy|
+	 -394647->|Jonathan_Diaz|
+	 -726235->|Marcus_Hayes|
+	 -534554->|David_Palmer|
+	 -3174->|Brett_Marsh|
+	 -876734->|Franklin_Simpson|
+	 -74944->|Mason_Ross|
+	 -205437->|Daniel_Gibbs|
+|Sarah_Russell|
+	 -234259->|Mamie_Simmons|
+	 -901071->|Roxie_Ruiz|
+	 -887995->|Dennis_Gross|
+	 -665605->|Dylan_Brown|
+	 -522375->|Ruby_George|
+	 -916065->|Walter_McBride|
+	 -173166->|Warren_Mack|
+|Douglas_Moreno|
+	 -15887->|Tillie_Norris|
+	 -348124->|Jesse_Newton|
+	 -211949->|Victoria_Gibson|
+	 -632107->|Emily_Page|
+	 -566377->|Vincent_Owens|
+	 -512653->|Dollie_Burton|
+|Harriett_Mendez|
+	 -541850->|Billy_Coleman|
+	 -689012->|Julia_Spencer|
+	 -154759->|Susie_Nunez|
+|Elnora_Fowler|
+	 -67591->|Jonathan_Morris|
+	 -599408->|Victoria_Gibson|
+	 -615834->|Nathaniel_Mathis|
+	 -255180->|Bryan_Harris|
+|Margaret_Yates|
+	 -54629->|Andrew_Johnson|
+	 -519739->|Gary_Ford|
+	 -625264->|Emilie_Horton|
+	 -944850->|Bill_Burke|
+	 -59940->|Brandon_Craig|
+	 -130929->|Susie_Dean|
+|Gordon_Love|
+	 -9945->|Nancy_Olson|
+	 -394556->|Luella_Parsons|
+	 -246619->|Marie_Delgado|
+	 -286887->|Leon_Chambers|
+	 -790342->|Henry_Hall|
+|Mae_Becker|
+	 -926101->|Sally_Porter|
+	 -968784->|Mason_Drake|
+	 -585883->|Leon_Berry|
+|Dora_Webb|
+	 -509044->|Sadie_Johnson|
+	 -981035->|Millie_Todd|
+	 -605794->|Terry_Reeves|
+	 -93988->|Josie_Burke|
+	 -713042->|Ola_Rose|
+	 -135095->|Millie_Cox|
+	 -507918->|Jared_Fernandez|
+	 -737278->|Florence_Gardner|
+|Joshua_Owen|
+	 -82051->|Roxie_Ruiz|
+	 -759954->|Joshua_Floyd|
+	 -400826->|Evelyn_Zimmerman|
+|Jonathan_Stanley|
+	 -614359->|Carolyn_Tran|
+	 -487291->|Delia_Schwartz|
+	 -862126->|Anthony_Rowe|
+|Cody_Francis|
+	 -650581->|Stanley_Gilbert|
+	 -959585->|Justin_Horton|
+	 -781210->|Franklin_Gibson|
+	 -685038->|Della_Cobb|
+|Stephen_Conner|
+	 -782013->|Phoebe_Meyer|
+	 -378794->|May_Ramsey|
+	 -251368->|Ronald_Harper|
+	 -460151->|Adele_Banks|
+|Janie_Lloyd|
+	 -686771->|Joshua_Malone|
+	 -470118->|Nancy_Sandoval|
+	 -360446->|Dorothy_Mendoza|
+	 -451933->|Adeline_Allison|
+|Floyd_Riley|
+	 -303015->|Sallie_Copeland|
+	 -33604->|Mary_Bowen|
+|Callie_Wise|
+	 -242959->|Ronald_Garrett|
+	 -324379->|Ronald_Harper|
+	 -960772->|Lula_Nguyen|
+	 -77488->|Barry_Carpenter|
+|Edith_Edwards|
+	 -700698->|Sophia_Potter|
+	 -483000->|Isaiah_Powell|
+	 -49748->|Lee_Williams|
+	 -394780->|Robert_Foster|
+	 -684669->|Ian_Shelton|
+	 -272770->|Ada_Briggs|
+|Charles_Parker|
+	 -40877->|Mamie_Gomez|
+	 -965908->|Douglas_Moreno|
+	 -357799->|Edith_Edwards|
+	 -797470->|Aiden_Mitchell|
+|Chester_Steele|
+	 -398973->|Elnora_Fowler|
+	 -152421->|Marian_Oliver|
+|William_Lawrence|
+	 -815804->|Jorge_Dunn|
+	 -443889->|Gabriel_Wallace|
+	 -314829->|Nancy_Olson|
+	 -376927->|Sallie_Schwartz|
+|Rose_Adams|
+	 -625002->|Leona_Schneider|
+	 -138979->|Pauline_Kim|
+	 -564807->|Milton_Hudson|
+	 -145623->|Sally_Thompson|
+	 -994073->|Ida_Kelly|
+	 -440483->|Rebecca_Soto|
+|Derek_Snyder|
+	 -74734->|Rosetta_Riley|
+	 -758415->|Lydia_Pittman|
+	 -112745->|Inez_Johnston|
+	 -716613->|Augusta_Bradley|
+	 -841466->|Winnie_McCormick|
+	 -141821->|Johanna_Austin|
+|Gary_Ford|
+	 -205644->|Maria_Moss|
+	 -985847->|Nelle_Long|
+	 -856747->|Eliza_Kelly|
+	 -561782->|David_Higgins|
+	 -333566->|Jared_Fernandez|
+	 -913719->|Vincent_Brooks|
+|Addie_Wright|
+	 -744833->|Donald_Walsh|
+	 -712758->|Bettie_Collins|
+	 -940187->|Adrian_Roberson|
+	 -910873->|Milton_Hudson|
+	 -582313->|Victoria_Hammond|
+	 -511879->|Herman_Cole|
+	 -256221->|Brandon_Craig|
+|Ora_Lane|
+	 -824276->|Andrew_Johnson|
+	 -422193->|Kyle_Cook|
+	 -712434->|Jerome_Peterson|
+	 -525188->|Justin_Horton|
+	 -34->|Fred_Gray|
+|Eugenia_Huff|
+	 -672571->|Larry_Norton|
+	 -475284->|Craig_Richardson|
+	 -123997->|Randy_Paul|
+	 -902707->|Lois_Morrison|
+	 -590486->|Oscar_Bailey|
+	 -522322->|Jayden_Summers|
+|Duane_Newton|
+	 -712737->|Ryan_Medina|
+|Violet_Logan|
+	 -334232->|David_Higgins|
+	 -657978->|Nora_Ray|
+	 -640347->|Jay_Simmons|
+	 -811027->|Jim_Johnston|
+	 -523473->|Jesus_Garcia|
+	 -381337->|Mable_Frazier|
+	 -443965->|Norman_Stone|
+|Brandon_Stone|
+	 -509659->|William_Reeves|
+	 -903040->|Bobby_Rodgers|
+	 -248348->|Leo_Parsons|
+	 -735010->|Dennis_Gross|
+	 -294501->|Rebecca_Hubbard|
+|Luis_Higgins|
+	 -525528->|Jason_Hubbard|
+	 -265219->|Augusta_Bradley|
+	 -431614->|Jean_Bowman|
+	 -689912->|Rachel_Tucker|
+	 -144607->|Tillie_Norris|
+	 -228517->|Carrie_Russell|
+	 -329966->|Lucy_Hammond|
+	 -933967->|Zachary_Yates|
+|Emma_Fields|
+	 -396117->|Gilbert_Massey|
+	 -89699->|Ruth_Stephens|
+	 -35903->|Edward_Vasquez|
+	 -698198->|Glenn_Anderson|
+	 -141488->|Amy_Barber|
+	 -278654->|Addie_Miles|
+	 -451069->|Olive_Pena|
+	 -702933->|Gabriel_Fitzgerald|
+	 -240994->|Seth_Wright|
+	 -890->|Jimmy_Delgado|
+|Roxie_Ruiz|
+	 -634189->|Myrtle_Black|
+	 -351070->|Bruce_Valdez|
+	 -786627->|Mable_Frazier|
+	 -17107->|Jackson_Christensen|
+	 -560663->|Lucile_Moreno|
+	 -523839->|Jimmy_Delgado|
+	 -535660->|Raymond_Foster|
+	 -639757->|Stephen_Marshall|
+	 -727203->|Devin_Foster|
+	 -508794->|Andrew_Bates|
+	 -99522->|Logan_Colon|
+|Jack_Hawkins|
+	 -205987->|Bertie_Hamilton|
+	 -499186->|Bertha_Hicks|
+	 -127402->|Sophia_Potter|
+	 -687409->|Richard_Warren|
+	 -440763->|Olga_Lamb|
+	 -164280->|Bertha_Yates|
+	 -732398->|Ethan_Jennings|
+|Gabriel_Fitzgerald|
+	 -839218->|Annie_Benson|
+	 -479572->|Brent_Potter|
+	 -130001->|Lloyd_Gilbert|
+|Larry_Norton|
+	 -166296->|Terry_Thornton|
+	 -753451->|Bettie_Collins|
+	 -201295->|Dean_Olson|
+	 -866357->|Millie_Cox|
+	 -692584->|Grace_Schultz|
+|Maria_Montgomery|
+	 -213403->|Abbie_Fleming|
+	 -303412->|Warren_Carlson|
+	 -502473->|Ollie_Crawford|
+	 -79514->|Logan_Parker|
+	 -209546->|Nelle_Byrd|
+|Hallie_Perkins|
+	 -354352->|Sophia_Norman|
+	 -60877->|Joshua_Malone|
+|Annie_Fields|
+	 -218970->|Leona_Lawrence|
+	 -342747->|Dylan_Klein|
+	 -545278->|Lottie_Burgess|
+|Vincent_Owens|
+	 -915388->|Chris_Johnston|
+	 -626328->|Nicholas_Pearson|
+	 -221368->|Glenn_Mack|
+	 -360265->|Lottie_Rogers|
+	 -425656->|Rosa_May|
+	 -890890->|Lola_Bass|
+	 -191287->|Devin_Keller|
+|Isaac_Berry|
+	 -506101->|Jimmy_Delgado|
+	 -507541->|Georgie_Jenkins|
+	 -428230->|Logan_Colon|
+	 -305525->|Johnny_Mack|
+	 -91377->|Jesus_Cox|
+	 -818135->|Vincent_Torres|
+	 -570675->|Bertha_Hicks|
+	 -568749->|Frank_Floyd|
+	 -20686->|Maude_Gross|
+	 -462840->|Nettie_Brewer|
+	 -294289->|Andrew_Bates|
+|Jay_Hines|
+	 -407454->|Ophelia_Atkins|
+	 -776792->|Alan_Ryan|
+	 -207383->|Gavin_Fields|
+	 -22048->|Susan_Morrison|
+	 -87425->|Herman_Drake|
+	 -493938->|Richard_Hamilton|
+	 -835073->|Della_Cobb|
+	 -894839->|Adele_Hubbard|
+	 -875928->|Dennis_Gross|
+	 -79553->|Addie_Chapman|
+	 -907127->|Isabella_Maldonado|
+	 -610204->|Marion_Beck|
+|Erik_Houston|
+	 -482895->|Virginia_Bass|
+	 -248086->|Marguerite_Weaver|
+	 -653151->|Erik_Rios|
+	 -542643->|Bruce_Valdez|
+	 -552390->|Sallie_Schwartz|
+	 -292945->|Dora_Marshall|
+	 -806065->|William_Ramsey|
+	 -122839->|Lou_Grant|
+|Erik_Rios|
+	 -437926->|Hattie_May|
+	 -697757->|Lucille_Maxwell|
+	 -655009->|Leona_Stone|
+|Samuel_Pittman|
+	 -735034->|Harvey_Allen|
+	 -384936->|Francisco_Fletcher|
+	 -692352->|Robert_Foster|
+	 -389843->|Sue_Kennedy|
+|Warren_Lindsey|
+	 -8381->|Minnie_Little|
+	 -833616->|Marian_Oliver|
+	 -302178->|Isabella_Benson|
+	 -943372->|Lois_Morrison|
+	 -92115->|David_Sanders|
+	 -413->|Georgia_Bridges|
+	 -2031->|Jane_Murphy|
+	 -690107->|Ora_Lane|
+	 -260062->|Mary_Bowen|
+|Jon_Ellis|
+	 -600540->|Vincent_Torres|
+	 -309667->|Eliza_Kelly|
+	 -598794->|Calvin_Baker|
+	 -881276->|Jonathan_Diaz|
+|Tillie_Norris|
+	 -216669->|Millie_Cox|
+	 -697660->|Polly_Gregory|
+	 -574929->|Joe_Norman|
+	 -263460->|Marie_McDaniel|
+	 -677661->|Fred_Gray|
+	 -416109->|Susan_Meyer|
+	 -142920->|Calvin_Baker|
+	 -249983->|Roxie_Ruiz|
+|Cecelia_Park|
+	 -253354->|Marie_McDaniel|
+	 -776194->|Stanley_Gilbert|
+	 -832641->|Alice_Greene|
+	 -9730->|Addie_Wright|
+	 -925660->|Gabriel_Ellis|
+	 -759027->|Derrick_Oliver|
+	 -974774->|Gilbert_Jenkins|
+|Sadie_Palmer|
+	 -14657->|Phoebe_Garcia|
+	 -262713->|Bradley_Collier|
+	 -433847->|Brett_Marsh|
+	 -127438->|Oscar_Austin|
+	 -460410->|Addie_Wright|
+	 -581250->|David_Porter|
+	 -707615->|Millie_Todd|
+|Matthew_Reyes|
+	 -55538->|Stanley_Horton|
+	 -843107->|Henry_Boone|
+	 -719471->|Stanley_Horton|
+|Luis_Patton|
+	 -62952->|Jim_Johnston|
+	 -146566->|Jorge_Douglas|
+	 -759533->|Harry_Black|
+	 -900359->|Kyle_Baldwin|
+	 -455521->|Gertrude_Norton|
+	 -240419->|Nicholas_Allison|
+	 -525763->|Gilbert_Massey|
+|Jack_Johnston|
+	 -247785->|Harriet_Klein|
+	 -97219->|Ian_Clark|
+	 -853168->|Ethel_Nelson|
+	 -287650->|Steve_Hamilton|
+	 -238292->|Douglas_Schwartz|
+	 -964713->|Jim_Jacobs|
+	 -887728->|Susie_Garza|
+|Anne_Abbott|
+	 -796840->|Ora_Hampton|
+	 -744693->|Vincent_Obrien|
+	 -997496->|Elnora_King|
+	 -455115->|Nellie_Ramsey|
+	 -29120->|Evelyn_Wood|
+|Franklin_Anderson|
+	 -672898->|Cody_Mendez|
+	 -429332->|Florence_Bennett|
+	 -153951->|John_Kennedy|
+	 -248266->|Martha_Bates|
+	 -839911->|Myrtle_Summers|
+	 -303799->|Adelaide_Hernandez|
+	 -101077->|Ann_Pope|
+	 -756455->|Verna_Bishop|
+|Harvey_Francis|
+	 -692668->|Carl_Nunez|
+	 -476544->|Henrietta_Vega|
+	 -517973->|Christopher_Warren|
+	 -557157->|Jim_Jacobs|
+	 -783581->|Marcus_Park|
+|Sue_Spencer|
+	 -843064->|Willie_Jennings|
+	 -749417->|Terry_Thornton|
+	 -722066->|Ricardo_Hopkins|
+	 -819852->|Elnora_Fowler|
+	 -374780->|Darrell_Nguyen|
+|Fannie_McLaughlin|
+	 -81927->|Nancy_Olson|
+	 -652508->|Tillie_Norris|
+	 -653646->|Amy_Ingram|
+|Adrian_Stewart|
+	 -476515->|Myrtie_Roberts|
+	 -44574->|Olga_Johnston|
+	 -236007->|Isaiah_Norman|
+	 -509308->|Luella_Phelps|
+	 -296732->|Jeffrey_Holloway|
+	 -313280->|Isabel_Horton|
+	 -378690->|Grace_Schultz|
+|Derrick_Oliver|
+	 -556398->|Owen_Jefferson|
+	 -375620->|Jesus_Cox|
+	 -107642->|Julian_Gray|
+	 -594285->|Devin_Foster|
+|Allen_Hopkins|
+	 -127711->|Bernard_Medina|
+	 -734807->|Cecelia_Park|
+|Clyde_Cook|
+	 -129685->|Roy_Cobb|
+	 -692750->|Evelyn_Fitzgerald|
+	 -874301->|Richard_Warren|
+|Barry_Carpenter|
+	 -441339->|Justin_Moreno|
+|Eliza_Williamson|
+	 -636252->|Vernon_Cannon|
+	 -513888->|Jared_Fernandez|
+	 -434638->|Susie_McCormick|
+	 -501385->|Vincent_Torres|
+	 -683043->|Susan_Yates|
+|Logan_Jacobs|
+	 -23080->|Pauline_Dunn|
+	 -831028->|Herbert_Lynch|
+	 -813832->|Gabriel_Wallace|
+	 -467550->|Max_Craig|
+	 -20446->|Addie_Nichols|
+	 -833386->|Joshua_Malone|
+|Gabriel_Wallace|
+	 -805220->|Mamie_Simmons|
+	 -584926->|Sadie_Johnson|
+|Jonathan_Shaw|
+	 -176823->|Isaiah_Wilkins|
+	 -142147->|Isabella_Howard|
+	 -204120->|Helen_Lindsey|
+	 -630684->|Terry_Reeves|
+|Devin_Foster|
+	 -32219->|Cecelia_Sullivan|
+	 -156186->|Leroy_Arnold|
+	 -467399->|Paul_Huff|
+	 -283125->|Julian_Gray|
+	 -682195->|Ronnie_Neal|
+	 -50441->|Margaret_Jenkins|
+	 -409874->|Stephen_Marshall|
+	 -426195->|Rachel_Perry|
+	 -220379->|Olive_Pena|
+|Bernice_Gross|
+	 -976053->|Randy_Paul|
+	 -521314->|Glen_Edwards|
+	 -569458->|Viola_Cruz|
+|Glen_Edwards|
+	 -949030->|Bertha_May|
+	 -3297->|Harvey_Allen|
+	 -712226->|Mattie_Crawford|
+	 -88218->|Ella_Caldwell|
+	 -304658->|Lillie_Morgan|
+	 -97291->|Caroline_Coleman|
+|Chester_Cooper|
+	 -877913->|Beatrice_Reid|
+	 -500179->|Eddie_Thompson|
+	 -240393->|Alice_Greene|
+	 -18913->|Herbert_Lynch|
+	 -856244->|David_Larson|
+	 -991658->|Jonathan_Stanley|
+	 -598195->|Teresa_Phillips|
+|Rebecca_Wolfe|
+	 -829321->|Alexander_Hudson|
+|Ricardo_Hopkins|
+	 -10812->|Herbert_Robinson|
+	 -248791->|Calvin_Baker|
+|Eliza_Burgess|
+	 -723645->|Phillip_Harrison|
+	 -857364->|Elmer_Duncan|
+	 -792287->|Bill_Evans|
+	 -852861->|Pearl_George|
+	 -862157->|Mollie_Gomez|
+	 -48914->|Mollie_Gonzalez|
+	 -171001->|Edward_Vasquez|
+	 -445148->|Adelaide_Hernandez|
+|Stella_Robinson|
+	 -122089->|Emilie_Soto|
+	 -526431->|Hattie_May|
+	 -485707->|Brandon_Stone|
+	 -602520->|Loretta_Bowen|
+|Jerome_Dawson|
+	 -731255->|Cody_Holland|
+	 -318960->|Abbie_Gordon|
+	 -498515->|Isaiah_Wilkins|
+	 -482393->|Harry_Park|
+	 -105686->|Nellie_Fitzgerald|
+	 -197516->|Sara_Jacobs|
+	 -384611->|Logan_Hardy|
+|Inez_Arnold|
+	 -741422->|Steve_Dennis|
+	 -27877->|Beulah_Dean|
+	 -251364->|Marie_Holt|
+	 -900105->|Isabel_Maldonado|
+	 -205891->|Nora_Hughes|
+	 -769627->|Celia_Spencer|
+|Sally_Porter|
+	 -332091->|Mabel_Williams|
+	 -88283->|Justin_Moreno|
+	 -230563->|Cody_Francis|
+	 -591512->|Johanna_Austin|
+	 -895837->|Kyle_Cook|
+	 -35418->|Beatrice_Reid|
+	 -390151->|Lula_Thompson|
+	 -540922->|Derrick_Oliver|
+|Terry_Smith|
+	 -143973->|Fanny_Simmons|
+	 -715212->|Chris_Johnston|
+	 -920805->|Nora_Lawrence|
+|Martha_Bates|
+	 -796221->|Myrtle_Foster|
+	 -716605->|Jorge_Douglas|
+	 -771760->|Vernon_Jones|
+	 -234595->|Dylan_Klein|
+	 -977402->|Mable_Banks|
+	 -984544->|Herman_Drake|
+|Ethel_Nelson|
+	 -12641->|Mary_Bowen|
+	 -168619->|Eliza_Burgess|
+|Barry_Tyler|
+	 -900375->|Abbie_Fleming|
+	 -687667->|Jason_Herrera|
+	 -434526->|Marie_McDaniel|
+	 -164770->|Anthony_Anderson|
+	 -136688->|Ollie_Simon|
+|Jose_Fernandez|
+	 -664498->|Hettie_Vargas|
+|Adele_Ramos|
+	 -920521->|Erik_Houston|
+	 -564690->|Winifred_Green|
+	 -492346->|Myra_Turner|
+	 -670420->|Eleanor_Walsh|
+|Helen_Lindsey|
+	 -911089->|Jay_Long|
+	 -169261->|Luella_Parsons|
+	 -160455->|Adam_Adams|
+|Amanda_Simpson|
+	 -169301->|Evan_Richardson|
+	 -813580->|Violet_Reeves|
+	 -643323->|Mary_Meyer|
+	 -762841->|Jay_Roy|
+|Catherine_Vaughn|
+	 -899618->|Jessie_Boyd|
+	 -160379->|Hulda_Torres|
+	 -339788->|Pauline_Kim|
+	 -504997->|Isabel_Maldonado|
+|Brandon_Craig|
+	 -868941->|Isaac_Berry|
+	 -551208->|Logan_Jacobs|
+	 -293556->|Brent_Potter|
+	 -351506->|Edna_Valdez|
+	 -185418->|Richard_Warren|
+	 -870914->|Eddie_Thompson|
+|Paul_Huff|
+	 -82865->|Chris_Henderson|
+	 -722526->|Adam_Porter|
+	 -551993->|Tillie_Norris|
+|Bruce_Hunt|
+	 -943189->|Marcus_Duncan|
+	 -313781->|Gordon_Love|
+	 -230545->|Raymond_Perez|
+	 -639986->|Adeline_Herrera|
+|Clifford_Vasquez|
+	 -678987->|Alice_Carlson|
+	 -829469->|Sean_Poole|
+	 -173969->|Cameron_Jennings|
+	 -92816->|Victor_Summers|
+	 -658581->|Clyde_Cook|
+|Jayden_Estrada|
+	 -635416->|Steve_Hamilton|
+	 -787925->|Maggie_Andrews|
+	 -489873->|Jesse_Newton|
+	 -320638->|Jerome_Peterson|
+|Susie_McCormick|
+	 -11497->|Ellen_Byrd|
+	 -9497->|Devin_Foster|
+	 -788522->|Franklin_Gibson|
+	 -108806->|Antonio_Santiago|
+	 -612987->|Leila_Ramsey|
+	 -19459->|Harriett_Graves|
+|Sara_Jacobs|
+	 -979151->|Minnie_Underwood|
+	 -540242->|Luella_Phelps|
+	 -713720->|Lydia_Carroll|
+	 -876295->|Etta_Norman|
+	 -870281->|Glenn_Mack|
+|Leo_Sullivan|
+	 -86120->|Madge_Pena|
+	 -145076->|Jeremy_Figueroa|
+	 -24849->|Allen_Santos|
+	 -563797->|Gabriel_Fitzgerald|
+|Hilda_Cruz|
+	 -342518->|Mario_Conner|
+	 -103885->|Dollie_Burton|
+	 -987171->|Leon_Chambers|
+	 -635163->|Harry_Franklin|
+	 -247586->|Robert_Foster|
+	 -922450->|Robert_Hawkins|
+|Lois_Morrison|
+	 -521909->|Emilie_Horton|
+	 -280488->|Hunter_Ramos|
+	 -428596->|Myrtle_Summers|
+	 -946965->|Mason_Drake|
+	 -563582->|Arthur_Wade|
+	 -731805->|Adam_Adams|
+|Roxie_Simon|
+	 -701379->|Louisa_Roy|
+|Nora_Lawrence|
+	 -660622->|Mason_Drake|
+	 -22354->|Pauline_Kim|
+	 -498647->|Glen_Baker|
+	 -503011->|Jack_Johnston|
+|Robert_Hawkins|
+	 -159534->|Eliza_Williamson|
+	 -77064->|Mabel_Williams|
+	 -228284->|Gavin_Stephens|
+	 -245940->|Harriet_Klein|
+|Charles_Andrews|
+	 -923082->|Betty_Hubbard|
+	 -62461->|Steve_Dennis|
+	 -909945->|Duane_Newton|
+	 -459976->|Gary_Ford|
+	 -774952->|Corey_Chandler|
+	 -461160->|Olive_Casey|
+	 -953537->|Linnie_Ellis|
+	 -491755->|Nellie_Fitzgerald|
+	 -727496->|Gabriel_Davidson|
+	 -170274->|Jon_Barnett|
+	 -383550->|Ola_Rios|
+	 -315888->|Eddie_Hodges|
+|Carolyn_Thomas|
+	 -778756->|Harriett_Graves|
+	 -641283->|Bradley_Collier|
+	 -704892->|Eugenia_Ward|
+	 -717815->|Essie_Jones|
+	 -331837->|Evelyn_Fitzgerald|
+|Eddie_Hodges|
+	 -492419->|Steve_Murray|
+	 -825196->|Ronnie_Greer|
+	 -65183->|Lula_Nguyen|
+	 -360934->|Marion_Perkins|
+|Jeremy_Figueroa|
+	 -271553->|Adele_Banks|
+	 -495495->|Ian_Clark|
+	 -425714->|Glenn_Goodman|
+	 -550459->|Ricardo_Benson|
+	 -863501->|Jean_Dixon|
+	 -550501->|Lina_Green|
+	 -872020->|Bryan_Harris|
+	 -756014->|Lula_Thompson|
+|Calvin_Fletcher|
+	 -93029->|Joseph_Hicks|
+	 -469864->|Mason_Drake|
+	 -602275->|Myrtle_Brewer|
+	 -643860->|Nathaniel_Gilbert|
+	 -528500->|Florence_Riley|
+	 -644846->|Margaret_Jenkins|
+	 -685101->|Inez_Johnston|
+	 -22255->|Robert_Hawkins|
+|Millie_Cox|
+	 -437583->|Annie_Fields|
+	 -872873->|Randy_Paul|
+	 -354576->|Annie_Allen|
+	 -48801->|Stanley_Lindsey|
+	 -855070->|Cameron_Curry|
+|Warren_Carlson|
+	 -907948->|Eliza_Brewer|
+	 -758266->|Martha_Bates|
+|Christian_Yates|
+	 -884763->|Alex_Herrera|
+	 -541950->|Sophia_Potter|
+	 -692691->|Josie_Burke|
+	 -153968->|Alice_Greene|
+	 -732124->|Shawn_Tyler|
+	 -524614->|Joel_Summers|
+	 -334218->|Bill_Burke|
+|Johanna_Ryan|
+	 -322313->|Devin_Keller|
+	 -927833->|Gary_Bowman|
+	 -907739->|Glenn_Fitzgerald|
+	 -639562->|Julian_Gray|
+	 -365767->|Johanna_Ryan|
+	 -687002->|Kenneth_Poole|
+	 -683504->|Rosa_Austin|
+|Oscar_Bailey|
+	 -861025->|Mamie_Burgess|
+	 -65530->|Pearl_Rodgers|
+	 -789705->|Douglas_Schwartz|
+	 -305160->|Evan_Kennedy|
+	 -626434->|Betty_Hubbard|
+|Shawn_Ford|
+	 -765038->|Jose_Ingram|
+	 -28918->|Addie_Nichols|
+	 -915937->|Leonard_Goodman|
+|Jonathan_Stevens|
+	 -879403->|Hattie_May|
+	 -895299->|Mollie_Potter|
+	 -904818->|Tony_Jackson|
+	 -378389->|Martin_Scott|
+	 -749850->|Blake_Wood|
+	 -671096->|Eliza_Brewer|
+	 -931258->|Leonard_Goodman|
+|Herbert_Mann|
+	 -159689->|Pearl_Rodgers|
+	 -987928->|Agnes_Holt|
+	 -702128->|Glenn_Fitzgerald|
+	 -79423->|Julian_Gray|
+	 -569101->|Bertha_Hicks|
+	 -948946->|Chester_Cooper|
+	 -636322->|Adrian_Hernandez|
+|Susie_Nunez|
+	 -262489->|Millie_Armstrong|
+	 -221934->|Minnie_Underwood|
+	 -985613->|Victoria_Hammond|
+	 -504647->|Jack_Howard|
+	 -363730->|Allen_Santos|
+	 -379555->|Gordon_Owen|
+	 -529477->|Adam_Caldwell|
+	 -77354->|Devin_Foster|
+|Carlos_Warren|
+	 -383745->|Douglas_Moreno|
+	 -733102->|Edward_Vasquez|
+	 -423347->|Billy_Weber|
+	 -153645->|Virgie_Shelton|
+	 -414175->|Logan_Jacobs|
+|Alice_Edwards|
+	 -729797->|Margaret_Jenkins|
+	 -873532->|David_Larson|
+	 -502917->|Jose_Blair|
+	 -536152->|Henry_Hall|
+|Leona_Lawrence|
+	 -966924->|Leona_Stone|
+	 -323893->|Gene_Lyons|
+	 -41907->|Eliza_Burgess|
+	 -419467->|Donald_Walsh|
+	 -839331->|Lucinda_Reyes|
+	 -95944->|Rose_Adams|
+|Leo_Parsons|
+	 -337852->|Mabelle_Bryan|
+	 -83612->|Edna_Valdez|
+	 -990003->|Gordon_Palmer|
+	 -67094->|Charles_Parker|
+	 -339841->|Jack_Green|
+	 -251644->|Mark_Simpson|
+|Grace_Schultz|
+	 -282933->|Viola_Griffin|
+	 -151969->|Vernon_Jones|
+	 -127781->|Gilbert_Massey|
+	 -879909->|Lee_Williams|
+|Bill_Burke|
+	 -784380->|Hallie_Perkins|
+	 -361075->|Vera_Moran|
+	 -638177->|Lola_Bowman|
+	 -783847->|Hallie_Pierce|
+	 -406345->|Millie_Armstrong|
+	 -172748->|Estella_Hale|
+|Lula_Myers|
+	 -216157->|Rosa_Hodges|
+	 -875979->|Max_Boone|
+|Dylan_Baker|
+	 -977861->|Alvin_Perkins|
+	 -798901->|Ellen_Nichols|
+	 -891477->|Della_Cobb|
+	 -180797->|Christopher_Colon|
+	 -605329->|Lizzie_Carter|
+	 -221270->|Ada_Thomas|
+	 -920477->|Joe_Berry|
+	 -358340->|Estella_Beck|
+|Marian_Craig|
+	 -453090->|Max_Craig|
+	 -964387->|Harry_Kelly|
+	 -184036->|Herbert_Robinson|
+	 -581421->|Bertha_Hicks|
+	 -691893->|Fannie_Park|
+	 -79449->|Herman_Drake|
+	 -132046->|Scott_Neal|
+|Kenneth_Poole|
+	 -812360->|Pearl_George|
+	 -616031->|Kenneth_Norris|
+|Billy_Coleman|
+	 -179094->|Rodney_Fletcher|
+	 -441434->|Glen_Simon|
+	 -428786->|Mable_Banks|
+	 -938074->|Dylan_Klein|
+	 -369150->|Gordon_Robinson|
+	 -606652->|Tillie_Welch|
+	 -123675->|Mabelle_Bryan|
+|Celia_Cummings|
+	 -23781->|Robert_Foster|
+	 -874022->|Verna_Bishop|
+	 -403990->|Leo_Burton|
+	 -417505->|Georgie_Jenkins|
+|Marcus_Barrett|
+	 -515066->|Mable_Banks|
+	 -983808->|Estella_Beck|
+	 -187860->|Lewis_Hansen|
+	 -547588->|Josie_Burke|
+	 -432393->|Derrick_Oliver|
+	 -429989->|Irene_Weaver|
+	 -672527->|Leon_Chambers|
+	 -694072->|Evan_Richardson|
+	 -752722->|Leila_Ramsey|
+	 -162352->|Chris_Henderson|
+|Allie_Knight|
+	 -381583->|Susan_Meyer|
+	 -764305->|Evan_Kennedy|
+	 -780761->|Marie_Holt|
+	 -290167->|Jesse_Newton|
+	 -362256->|Eula_Mack|
+|Roy_Mendoza|
+	 -508434->|Sophia_Norman|
+	 -558314->|Evelyn_Zimmerman|
+|Callie_Brady|
+	 -461681->|Bettie_Keller|
+	 -749376->|Sue_Ferguson|
+	 -18648->|Glen_Simon|
+|Sara_Huff|
+	 -634921->|Herman_Drake|
+	 -255745->|Carolyn_Thomas|
+|Andre_Parsons|
+	 -452858->|David_Porter|
+	 -772940->|Robert_Hawkins|
+	 -200071->|Leah_McKenzie|
+	 -618794->|Annie_Jones|
+	 -342363->|Calvin_Fletcher|
+	 -499416->|Myrtle_Brewer|
+|Chris_Johnston|
+	 -131478->|Clifford_Vasquez|
+	 -602511->|Duane_Bowers|
+	 -758377->|Frances_Walker|
+	 -960345->|Inez_Hanson|
+|Jayden_Summers|
+	 -823093->|Margaret_Hernandez|
+	 -820666->|Danny_Gordon|
+	 -398793->|Cordelia_Walsh|
+	 -293820->|Evan_Richardson|
+	 -333702->|Jon_Ellis|
+	 -667495->|Rachel_Perry|
+|Isaiah_Wilkins|
+	 -272406->|Leah_McKenzie|
+	 -10357->|Jose_Blair|
+	 -824028->|Susan_Meyer|
+	 -171067->|Vernon_Jones|
+	 -126022->|Marion_Parks|
+	 -814202->|Darrell_Nguyen|
+	 -637044->|Calvin_Baker|
+|Clayton_Dean|
+	 -712446->|Billy_Weber|
+	 -381882->|Nora_Hudson|
+	 -998236->|Amy_Ingram|
+	 -303080->|Chad_McGee|
+	 -728662->|Anne_Matthews|
+	 -943880->|Hallie_Pierce|
+|Edna_Valdez|
+	 -864312->|Lettie_Carroll|
+	 -825892->|Herman_Cole|
+	 -777988->|Billy_Coleman|
+	 -255406->|Etta_Norman|
+	 -545934->|Donald_Gomez|
+|Maude_Gross|
+	 -17713->|Leroy_Arnold|
+	 -241574->|Johanna_Tran|
+	 -134585->|Bettie_Collins|
+	 -212572->|Bruce_Phelps|
+|Craig_Fuller|
+	 -300820->|Ora_Price|
+	 -857864->|Nell_McCoy|
+	 -807807->|Hunter_Potter|
+	 -621296->|Ricardo_Hopkins|
+	 -819166->|Frances_Davis|
+	 -664728->|Rebecca_Hubbard|
+	 -266052->|Annie_Fields|
+	 -369637->|Martin_Scott|
+	 -120802->|Mabel_Williams|
+	 -625802->|Ray_Huff|
+	 -144209->|Nelle_Harper|
+	 -865293->|Walter_McBride|
+|Owen_Mann|
+	 -538337->|Kyle_Cook|
+	 -45213->|Madge_Jimenez|
+	 -237419->|David_Larson|
+|Jay_Simmons|
+	 -340319->|Marie_Holt|
+	 -694667->|Marie_Holt|
+	 -845074->|Jon_Bowen|
+	 -856952->|Aiden_Watts|
+	 -602263->|Adeline_Hammond|
+	 -905160->|Jay_Simmons|
+	 -458943->|Johanna_Lindsey|
+	 -666513->|Derek_Benson|
+|Lydia_Pittman|
+	 -354178->|Essie_Cruz|
+	 -875904->|Sara_Jacobs|
+	 -562949->|Roxie_Day|
+	 -723521->|Hunter_Ramos|
+	 -762922->|Callie_Brock|
+	 -434273->|Herman_Dunn|
+	 -227103->|Eliza_Burgess|
+|Lulu_Oliver|
+	 -226682->|Christopher_Colon|
+	 -69444->|Terry_Reeves|
+	 -416269->|Bill_Mullins|
+	 -601566->|Emilie_Curry|
+	 -381430->|Emma_Fields|
+|Jerry_McBride|
+	 -850052->|Oscar_Austin|
+	 -242045->|Steve_Hamilton|
+	 -112224->|Rosetta_Riley|
+	 -417844->|Mae_Becker|
+	 -111537->|Minnie_Wise|
+	 -159505->|Dylan_Baker|
+|Lora_Guzman|
+	 -122569->|Allie_Knight|
+	 -653587->|Celia_Spencer|
+	 -276513->|Sally_Sherman|
+	 -371602->|Glenn_Anderson|
+	 -395934->|Bruce_Valdez|
+|Kathryn_Cole|
+	 -893301->|Ricky_Bates|
+	 -814358->|Vincent_Owens|
+	 -220882->|Sally_Porter|
+	 -966245->|Lizzie_Carter|
+	 -105179->|Sue_Kennedy|
+	 -575458->|Lottie_Maldonado|
+	 -715402->|Viola_Cruz|
+	 -712423->|Andrew_Bennett|
+	 -1283->|Lucas_Weaver|
+	 -580165->|Mason_Nunez|
+	 -162023->|Rosalie_Mitchell|
+|Augusta_Carr|
+	 -311381->|Evan_Richardson|
+	 -554300->|Ophelia_Dixon|
+	 -824763->|Glenn_Mack|
+	 -28556->|Tom_Casey|
+	 -264888->|Jonathan_Morris|
+	 -329100->|Harriet_Klein|
+	 -172843->|Madge_Pena|
+	 -67961->|Lillian_Coleman|
+	 -191705->|Jacob_Parsons|
+|Phoebe_Garcia|
+	 -635745->|Lucile_Barnes|
+	 -5250->|Jay_Parsons|
+|Ruth_Stephens|
+	 -963824->|Abbie_Hawkins|
+	 -67969->|Phillip_Harrison|
+|Timothy_Cox|
+	 -702221->|Adelaide_Hernandez|
+	 -538328->|Christine_Holland|
+	 -530964->|Maggie_Andrews|
+	 -932232->|Luella_Parsons|
+	 -120075->|Cecelia_Hardy|
+	 -81735->|Martha_Bates|
+|Nicholas_Henry|
+	 -589854->|Jim_Johnston|
+	 -262523->|Violet_Reeves|
+	 -131448->|Tom_Frank|
+|Stephen_Marshall|
+	 -480408->|Allie_Knight|
+	 -114495->|Dominic_Owen|
+	 -314129->|Marion_Klein|
+	 -386134->|Maud_Ramos|
+|Virgie_Walsh|
+	 -303027->|Brent_Bowman|
+	 -764905->|Abbie_Fleming|
+	 -971574->|Millie_Summers|
+	 -717235->|Frank_Floyd|
+|Winifred_Green|
+	 -703049->|Ora_Perry|
+	 -191829->|Mary_Meyer|
+	 -765202->|Jeffery_Francis|
+|Ronald_Garrett|
+	 -54495->|Francisco_Bowen|
+	 -560161->|Sallie_Schwartz|
+	 -644621->|Lillie_Morgan|
+	 -616154->|Verna_Bishop|
+	 -832363->|Herbert_Lynch|
+	 -398184->|Bernard_Medina|
+	 -923469->|Isabelle_Daniels|
+	 -688->|Myrtle_Black|
+|Johanna_Austin|
+	 -480720->|Amy_Ingram|
+	 -511872->|Adele_Ramos|
+	 -760578->|Arthur_Wade|
+	 -589242->|Mario_Conner|
+|Bertie_Gray|
+	 -838924->|Glenn_Fitzgerald|
+	 -396885->|Anne_Abbott|
+	 -92125->|Abbie_Hawkins|
+	 -908429->|Christopher_Massey|
+	 -676067->|Beatrice_Logan|
+	 -716504->|Paul_Huff|
+	 -745440->|Isabella_Zimmerman|
+|Caroline_Coleman|
+	 -951166->|Duane_Newton|
+	 -740349->|Lucille_Maxwell|
+	 -130489->|Harry_Park|
+	 -368189->|Cameron_Curry|
+	 -12185->|Mary_Meyer|
+	 -836334->|Bruce_Phelps|
+	 -404132->|Bill_Burke|
+|Sean_McCoy|
+	 -254111->|Hunter_Ramos|
+	 -733300->|Loretta_Schultz|
+	 -856121->|Francis_Curtis|
+	 -306934->|Evelyn_Brock|
+	 -965101->|Georgie_Wade|
+	 -356321->|Donald_Salazar|
+	 -187348->|Glen_Baker|
+	 -59655->|Isabella_Howard|
+|Joel_Jensen|
+	 -73172->|Duane_Chambers|
+	 -544207->|Callie_Brock|
+	 -59132->|Emily_Parker|
+	 -799558->|Mason_Drake|
+	 -242924->|Ricardo_Moss|
+	 -963360->|Nora_Rice|
+	 -193817->|Joe_Berry|
+|Ora_Price|
+	 -393054->|Norman_Stone|
+	 -658082->|Estella_Johnson|
+	 -635584->|Nelle_Byrd|
+|Ethel_Jordan|
+	 -697065->|Martin_Scott|
+	 -456067->|Sally_Porter|
+	 -133785->|Cameron_Jennings|
+	 -730449->|Lucinda_Reyes|
+|Herbert_Lynch|
+	 -68960->|Louis_Phelps|
+	 -551309->|Allie_Knight|
+	 -841566->|Aiden_Mitchell|
+|Cecelia_Sullivan|
+	 -894007->|Rhoda_Webb|
+	 -392078->|Jason_Herrera|
+|Bryan_Harris|
+	 -133588->|Raymond_Foster|
+|Estella_Hale|
+	 -288896->|Oscar_Austin|
+	 -113720->|Jonathan_Morris|
+	 -828922->|Justin_Keller|
+	 -90993->|Johanna_Lindsey|
+	 -508768->|Emilie_Curry|
+	 -168025->|Eddie_Griffith|
+	 -310556->|Wayne_McBride|
+	 -465254->|Gabriel_Watson|
+	 -804785->|Joseph_Drake|
+	 -310181->|Rebecca_Soto|
+|Pauline_Dunn|
+	 -602299->|Vincent_Owens|
+	 -536780->|Joshua_Malone|
+|Clarence_Brady|
+	 -401871->|Louis_Baldwin|
+	 -473116->|Lucas_Weaver|
+	 -649236->|Steven_George|
+|Nicholas_Allison|
+	 -399947->|Cecilia_Delgado|
+	 -145261->|Hettie_Vargas|
+|Jack_Nunez|
+	 -673673->|Chester_Hudson|
+	 -646838->|Connor_Aguilar|
+	 -287585->|Franklin_Simpson|
+	 -219071->|Glenn_Goodman|
+	 -170430->|Evan_Kennedy|
+	 -133312->|John_Lopez|
+|Myrtle_Foster|
+	 -845837->|Lola_Blair|
+	 -243678->|Lula_Thompson|
+	 -119198->|Ola_Rios|
+	 -855583->|Mabelle_Bryan|
+	 -738811->|Luis_Higgins|
+	 -390739->|Justin_Moreno|
+|Vera_Moran|
+	 -544340->|Bettie_Hamilton|
+	 -989408->|Mark_Simpson|
+	 -294937->|Sarah_Russell|
+	 -405638->|Peter_Lyons|
+	 -966582->|Jacob_Parsons|
+	 -687489->|Jerome_Dawson|
+|Fanny_Watkins|
+	 -331996->|Lelia_Parker|
+	 -74822->|Hulda_Torres|
+	 -916804->|Lelia_Parker|
+	 -456676->|Etta_Sanchez|
+	 -454670->|Anne_Matthews|
+	 -839246->|Nannie_Garza|
+	 -328611->|Dominic_Ellis|
+|Brian_Thompson|
+	 -122766->|Georgia_Wood|
+	 -429333->|Fannie_Nelson|
+	 -19737->|Sue_Kennedy|
+	 -680990->|Hulda_Zimmerman|
+|Augusta_Bradley|
+	 -715627->|Jay_Long|
+	 -548711->|Susie_McCormick|
+	 -970212->|Pauline_Kim|
+	 -152428->|Max_Boone|
+	 -528360->|Stephen_Goodman|
+	 -388127->|Maud_Ramos|
+	 -883087->|Clyde_Hudson|
+	 -20992->|Francisco_Fletcher|
+	 -771701->|Lydia_Pittman|
+|Nannie_Garza|
+	 -854577->|Andre_Parsons|
+	 -110121->|Nancy_Olson|
+	 -594741->|Gary_Campbell|
+|Ellen_Byrd|
+	 -200992->|Georgie_Wade|
+	 -844649->|Cecilia_Delgado|
+	 -459429->|Lucy_Cohen|
+|Willie_Larson|
+	 -687853->|Andrew_Bates|
+	 -562440->|Steve_Murray|
+	 -560865->|Violet_Reeves|
+	 -506682->|Vera_Moran|
+	 -644663->|Gavin_Stephens|
+	 -694781->|Vincent_Owens|
+	 -251249->|Millie_Cox|
+	 -60499->|Beulah_Dean|
+	 -467318->|Josie_Perez|
+	 -649617->|Rodney_Vega|
+	 -239804->|Caroline_Coleman|
+|Danny_Gordon|
+	 -988818->|Millie_Armstrong|
+	 -857749->|Christian_Love|
+	 -352498->|Hulda_Zimmerman|
+	 -999755->|Stella_Stone|
+	 -840772->|Elizabeth_Chambers|
+	 -561500->|Julia_Spencer|
+|Clyde_Hudson|
+	 -958784->|Luis_Malone|
+	 -174778->|Ricky_Gonzalez|
+|Fanny_Simmons|
+	 -639466->|Max_Craig|
+	 -193821->|Anthony_Rowe|
+	 -457132->|Louisa_Roy|
+	 -277332->|Johnny_Mack|
+|Sally_Sherman|
+	 -636499->|Billy_Weber|
+	 -247146->|Maria_Montgomery|
+	 -799501->|Emma_Fields|
+	 -308740->|Ola_Rios|
+	 -130507->|Ray_Huff|
+	 -34785->|Vincent_Obrien|
+	 -163892->|Jean_Bowman|
+	 -159666->|Hulda_Zimmerman|
+|Scott_Neal|
+	 -776026->|Ellen_Nichols|
+	 -582185->|Marion_Beck|
+	 -83386->|Essie_Jones|
+|Wayne_McGuire|
+	 -595546->|Glen_Simon|
+	 -38198->|Cody_Mendez|
+	 -10637->|Emily_Parker|
+	 -399468->|Norman_Henry|
+	 -684118->|Justin_Moreno|
+	 -944044->|Donald_Walsh|
+	 -762207->|Georgia_Bridges|
+|Jim_Jacobs|
+	 -385066->|Alan_Ryan|
+	 -173763->|Beulah_Dean|
+	 -157739->|Adam_Caldwell|
+	 -481913->|Marion_Nunez|
+	 -871677->|Cameron_Curry|
+	 -167672->|Mamie_Simmons|
+	 -576373->|Devin_Foster|
+|Angel_Erickson|
+	 -567831->|Ricky_Gonzalez|
+	 -166328->|Edith_Marshall|
+	 -514998->|Lura_Garner|
+	 -3845->|Roxie_Simon|
+	 -294441->|Wesley_Jensen|
+	 -548799->|Rhoda_Webb|
+|Cora_Welch|
+	 -898114->|Adele_Banks|
+	 -108261->|Gabriel_Watson|
+	 -400186->|Clifford_Garcia|
+	 -24299->|Tom_Frank|
+	 -745191->|Craig_Fuller|
+	 -263307->|Mitchell_Washington|
+	 -306300->|Joel_Pierce|
+	 -953674->|Irene_Weaver|
+|Stella_Ballard|
+	 -618874->|Clarence_Ingram|
+	 -155628->|Lizzie_Robbins|
+	 -392777->|Marcus_Barrett|
+	 -743030->|Chris_Reid|
+	 -863734->|Adrian_Stewart|
+	 -148402->|Dean_Fields|
+	 -215158->|Warren_Mack|
+|Daniel_Ramirez|
+	 -691171->|Sue_Spencer|
+	 -826508->|Lora_Guzman|
+	 -29587->|Tommy_Briggs|
+	 -192486->|Harvey_Francis|
+	 -506250->|Jeff_Moran|
+|Vincent_Delgado|
+	 -664927->|Barry_Carpenter|
+	 -265814->|Kevin_Owens|
+|Agnes_Holt|
+	 -217262->|Eula_Payne|
+	 -49365->|Dylan_Baker|
+	 -941756->|Cameron_Jennings|
+	 -204533->|Tillie_Welch|
+	 -913964->|Josie_Burke|
+|Andrew_Bates|
+	 -819181->|Susie_Garza|
+	 -34499->|Lucile_Carr|
+	 -986370->|Bettie_Hamilton|
+	 -950239->|Norman_Henry|
+|Alma_Garner|
+	 -102042->|Chris_Johnston|
+	 -559532->|Isabel_Maldonado|
+	 -545550->|Susie_Dean|
+	 -125891->|Fannie_Nelson|
+	 -382742->|Irene_Goodman|
+	 -88344->|Nellie_Fitzgerald|
+|Victoria_Jordan|
+	 -310764->|May_Ramsey|
+	 -564172->|Ray_Huff|
+	 -566422->|Franklin_Simpson|
+	 -517286->|Allie_Knight|
+|Julia_Spencer|
+	 -461024->|Marian_Lawson|
+	 -336608->|Adrian_Stewart|
+	 -852320->|Martin_Scott|
+|Myrtle_Black|
+	 -936858->|Jose_Ingram|
+	 -230088->|Ada_Briggs|
+	 -827650->|Roy_Cobb|
+	 -119526->|Marcus_Park|
+	 -931629->|Oscar_Austin|
+|Winnie_McCormick|
+	 -581196->|Winnie_Sutton|
+	 -806191->|Glen_Lawrence|
+	 -167807->|Lloyd_Gilbert|
+	 -314993->|Craig_Fuller|
+	 -122155->|Eddie_Thompson|
+|Nellie_Ramsey|
+	 -585599->|Adrian_Hernandez|
+	 -246227->|Rose_Adams|
+	 -41621->|Lillie_Morgan|
+	 -542018->|Jay_Hines|
+	 -785491->|Gavin_Cox|
+|Ada_Briggs|
+	 -5132->|Lena_Townsend|
+|Floyd_Tucker|
+	 -920474->|Nicholas_Henry|
+	 -794024->|Sadie_Palmer|
+	 -694975->|Nathaniel_Gilbert|
+	 -711719->|Joseph_Drake|
+	 -647049->|Steve_Dennis|
+	 -394069->|Ola_Schultz|
+	 -617619->|Nora_Lawrence|
+	 -963429->|Paul_Huff|
+|Dominic_Ellis|
+	 -940741->|Rodney_Fletcher|
+	 -655044->|Madge_Pena|
+	 -656916->|Randy_Rodgers|
+	 -583089->|Mamie_Simmons|
+	 -606400->|Virgie_Shelton|
+	 -909868->|Jordan_George|
+|Emilie_Curry|
+	 -220088->|Chester_Foster|
+	 -232429->|Mittie_Norton|
+	 -339597->|Susan_Morrison|
+	 -873973->|Jay_Parsons|
+|Jesse_Fields|
+	 -804522->|Lydia_Carroll|
+	 -689005->|Rosalie_Ford|
+	 -592953->|Louis_Phelps|
+	 -430552->|Nellie_Ramsey|
+	 -667246->|Ernest_Evans|
+|Mary_Bowen|
+	 -880829->|Estella_Johnson|
+	 -63116->|Melvin_Newton|
+	 -460769->|Harriett_Graves|
+	 -294529->|Dennis_Ortega|
+	 -274397->|Antonio_Santiago|
+|Darrell_Nguyen|
+	 -250873->|Abbie_Hawkins|
+	 -931011->|Ola_Rose|
+	 -852140->|Irene_Weaver|
+|Leonard_Reeves|
+	 -306157->|Kenneth_Marsh|
+	 -184500->|Joel_Pierce|
+	 -641269->|Brandon_Craig|
+|Mittie_Allen|
+	 -488112->|Jack_Hawkins|
+	 -626331->|Devin_Foster|
+	 -235890->|Leo_Sullivan|
+	 -827100->|Jason_Hubbard|
+	 -803356->|Agnes_Holt|
+	 -453196->|Emma_Fields|
+	 -161614->|Allie_Phillips|
+	 -74486->|Bertie_Hamilton|
+	 -929496->|Theodore_Turner|
+|Ethan_Jennings|
+	 -729777->|Gabriel_Fitzgerald|
+|Rosa_Hodges|
+	 -185411->|Eliza_Kelly|
+	 -146541->|Ola_Schultz|
+	 -93885->|Henry_Boone|
+	 -845470->|Bradley_Gibson|
+	 -628483->|Mable_Frazier|
+	 -97573->|Derek_Snyder|
+|Stephen_Goodman|
+	 -980336->|Nicholas_Allison|
+	 -113069->|Amanda_Simpson|
+	 -71438->|Martha_Bates|
+	 -124148->|Dora_Webb|
+	 -973803->|Milton_Hudson|
+	 -994218->|Chester_Cooper|
+|Sallie_Copeland|
+	 -78478->|Chad_McGee|
+	 -599371->|Lula_Thompson|
+	 -318673->|Mary_Bowen|
+	 -536671->|Hester_Abbott|
+	 -204400->|Josephine_Williamson|
+	 -118705->|Lewis_Hansen|
+|Mayme_Hansen|
+	 -789507->|Claudia_Caldwell|
+	 -689770->|Andrew_Johnson|
+	 -637272->|Madge_Jimenez|
+	 -852199->|Winifred_Ellis|
+	 -314611->|Luis_Patton|
+	 -513491->|Leila_Ramsey|
+	 -80135->|Tony_Jackson|
+|Alice_Greene|
+	 -884397->|Hester_Abbott|
+	 -32920->|Owen_Jefferson|
+	 -799623->|Lelia_Parker|
+	 -486716->|Carolyn_Copeland|
+	 -635564->|Carl_Nunez|
+	 -311466->|Carrie_Russell|
+	 -235875->|Clayton_Williams|
+	 -570289->|Wayne_Stokes|
+|Marian_Oliver|
+	 -112410->|Benjamin_Santiago|
+	 -285662->|Louis_Phelps|
+	 -225335->|Christina_Hart|
+	 -782816->|William_Reeves|
+	 -812044->|Marie_Elliott|
+	 -138758->|Ronnie_Greer|
+	 -894227->|Hester_Abbott|
+	 -755067->|Millie_Armstrong|
+	 -952298->|Christian_Yates|
+	 -678962->|Lulu_Oliver|
+|Beatrice_Reid|
+	 -817706->|Cody_Francis|
+	 -959481->|Harriet_Vega|
+	 -821880->|Anthony_Rowe|
+	 -463266->|Andre_Parsons|
+	 -12327->|Ora_Price|
+	 -795666->|Rhoda_Webb|
+	 -326112->|Jeremiah_Sullivan|
+	 -447498->|Jim_Johnston|
+	 -279199->|Amelia_Chandler|
+	 -495935->|Alice_Cruz|
+	 -468249->|Alex_Herrera|
+	 -4451->|Josephine_Murray|
+	 -722572->|Nellie_Ramsey|
+	 -655688->|Marian_Craig|
+|Marian_Lawson|
+	 -975286->|Keith_Beck|
+	 -547105->|Joel_Jensen|
+	 -784960->|Abbie_Gordon|
+	 -751299->|Jose_Ingram|
+	 -178275->|Clarence_Ingram|
+|Glen_Baker|
+	 -967923->|Randy_Armstrong|
+	 -585682->|Mayme_Hogan|
+	 -323160->|Martha_Bates|
+	 -484621->|Gabriel_Wallace|
+	 -61707->|Leila_Hodges|
+	 -91625->|Rosa_Ellis|
+	 -472937->|Bill_Mullins|
+|Franklin_Gibson|
+	 -430281->|Lula_Nguyen|
+	 -996613->|Della_Day|
+	 -625438->|Donald_Walsh|
+|Lina_Johnston|
+	 -351045->|Ralph_Long|
+	 -276591->|Richard_Warren|
+	 -927302->|Adele_Banks|
+|Jayden_Day|
+	 -243155->|Harriett_Graves|
+	 -324095->|Terry_Warren|
+	 -535981->|Vincent_Delgado|
+	 -588967->|Cynthia_Holmes|
+	 -770204->|Marie_Elliott|
+	 -985978->|Ada_Thomas|
+	 -880361->|Mittie_Norton|
+	 -93192->|Clifford_Garcia|
+	 -201457->|Ada_Briggs|
+|Glenn_Fitzgerald|
+	 -508226->|Anthony_Rowe|
+	 -381875->|Paul_Huff|
+	 -522314->|Edward_Vasquez|
+	 -747455->|Georgie_Wade|
+	 -481651->|Mittie_Norton|
+|Lucy_Hammond|
+	 -245846->|Andrew_Bates|
+	 -547524->|Beulah_Dean|
+	 -496726->|Ola_Rios|
+|Troy_Lambert|
+	 -677598->|Nora_Ray|
+	 -333281->|Glen_Lawrence|
+	 -401972->|Tillie_Welch|
+	 -615611->|Josie_Burke|
+	 -446707->|Glenn_Goodman|
+|Seth_Wright|
+	 -153584->|Callie_Brady|
+	 -364748->|Ricardo_Hopkins|
+	 -775749->|Zachary_Parks|
+	 -998707->|Ora_Hampton|
+	 -76447->|Pearl_Dunn|
+|Carolyn_Copeland|
+	 -186777->|Duane_Aguilar|
+	 -98278->|Ada_Thomas|
+	 -955621->|Evan_Kennedy|
+	 -375195->|Stephen_Gray|
+|Harvey_Allen|
+	 -679075->|Ida_Guzman|
+	 -466913->|Charles_Andrews|
+	 -172700->|Jay_Long|
+	 -425987->|Jon_Barnett|
+	 -704242->|Adrian_Hernandez|
+|Victor_Smith|
+	 -348037->|Ina_Price|
+|Lucile_Carr|
+	 -900809->|Minerva_Casey|
+	 -171602->|Leon_Berry|
+	 -423739->|Nelle_Harper|
+|Josephine_Williamson|
+	 -915168->|Jordan_George|
+	 -77584->|Zachary_Duncan|
+|Jane_Murphy|
+	 -419045->|Christina_Lopez|
+	 -287008->|Herbert_Tran|
+	 -989350->|Phoebe_Meyer|
+	 -811507->|Kevin_Owens|
+|Lee_Williams|
+	 -768857->|Nicholas_Henry|
+	 -371940->|Mable_Banks|
+|Jorge_Daniel|
+	 -65865->|Gordon_Owen|
+	 -554053->|Ella_Garrett|
+	 -634082->|Inez_Hanson|
+	 -739004->|Devin_Keller|
+|Christine_Holland|
+	 -184681->|Joshua_Floyd|
+	 -896504->|Ella_Caldwell|
+	 -503433->|Billy_Coleman|
+|Willie_Jennings|
+	 -893615->|Marie_Holt|
+	 -746537->|Bryan_Reyes|
+	 -257859->|Nora_Hughes|
+	 -704341->|Ada_Briggs|
+	 -312413->|Jay_Roy|
+|Norman_Henry|
+	 -393986->|Angel_Erickson|
+	 -587594->|Jay_Parsons|
+	 -353530->|Herman_Dunn|
+	 -329171->|Anne_Matthews|
+	 -65287->|Ian_Shelton|
+	 -308164->|Evan_Kennedy|
+|Ora_Perry|
+	 -6527->|Rosetta_Morrison|
+	 -756127->|Lina_Bennett|
+	 -273040->|Ruth_Ruiz|
+|Essie_Jones|
+	 -593498->|Franklin_Gibson|
+	 -557389->|Bertha_May|
+	 -834714->|Jeremiah_Sullivan|
+	 -78994->|Max_Boone|
+|Marion_Klein|
+	 -864066->|Glenn_Fitzgerald|
+	 -40981->|Antonio_Santiago|
+	 -596181->|Adeline_Hammond|
+	 -873734->|Viola_Griffin|
+|Gene_Vega|
+	 -279447->|Marc_Haynes|
+	 -177327->|Marion_Perkins|
+	 -146239->|Chad_Dawson|
+	 -47571->|Pearl_Rodgers|
+	 -478453->|Harriet_Wong|
+	 -671237->|Lola_Blair|
+|Ollie_Simon|
+	 -331101->|Eula_Mack|
+	 -318826->|Joel_Pierce|
+	 -831752->|Mable_Banks|
+	 -625259->|Rebecca_Newman|
+	 -948729->|Roxie_Simon|
+|Evelyn_Zimmerman|
+	 -770171->|Jonathan_Diaz|
+	 -819036->|Gavin_Cox|
+	 -441346->|Billy_Coleman|
+	 -950272->|Leila_Rose|
+	 -284611->|Patrick_Harmon|
+|Ola_Reid|
+	 -983002->|Allen_Hopkins|
+	 -289098->|Bertie_Hamilton|
+	 -827413->|Joshua_Malone|
+	 -449954->|Beulah_Alvarez|
+	 -878382->|Harriet_Vega|
+	 -258018->|Beatrice_Reid|
+	 -979882->|Barry_Tyler|
+	 -983015->|Randy_Armstrong|
+	 -325749->|Josephine_Murray|
+	 -266947->|Virgie_Walsh|
+	 -728039->|Victor_Summers|
+	 -273362->|Patrick_Walters|
+|Jason_Herrera|
+	 -838441->|Gavin_Fields|
+	 -387706->|Jean_Bowman|
+	 -123632->|Lee_Williams|
+	 -543712->|Stephen_Gray|
+	 -908384->|Bill_Burke|
+|Jonathan_Brady|
+	 -679877->|Estella_Beck|
+	 -551922->|Hester_Tucker|
+	 -283427->|Daniel_Bowman|
+	 -268936->|Duane_Bowers|
+|Josie_Burke|
+	 -836856->|Irene_Goodman|
+	 -173303->|Marion_Parks|
+	 -764883->|Ruby_George|
+	 -917639->|Christina_Lopez|
+	 -719342->|Julia_Spencer|
+	 -869975->|Charlotte_Gill|
+	 -89170->|Mittie_Allen|
+	 -798193->|Bryan_Reyes|
+	 -740090->|Chester_Cooper|
+	 -232848->|Herman_Cole|
+|Benjamin_Santiago|
+	 -855026->|Jesus_Garcia|
+	 -634621->|Hettie_Vargas|
+	 -63583->|Nancy_Olson|
+	 -187904->|Nathaniel_Walton|
+	 -859379->|Verna_Bishop|
+	 -978219->|Steve_Murray|
+	 -184148->|Nelle_Byrd|
+|Raymond_Foster|
+	 -736976->|Emily_Page|
+	 -234455->|Gavin_Fields|
+	 -210714->|Luis_Patton|
+	 -601278->|Janie_Lloyd|
+	 -272935->|Chris_Wood|
+	 -503841->|Sara_Huff|
+	 -412508->|Vincent_Brooks|
+|Susan_Morrison|
+	 -657926->|Cordelia_Dean|
+	 -838598->|Corey_Holmes|
+	 -723666->|Nellie_Fitzgerald|
+|Ollie_Blake|
+	 -820447->|Cecelia_Cook|
+	 -566468->|Barry_Carpenter|
+	 -521991->|Brent_Potter|
+	 -945429->|Paul_Hill|
+	 -728659->|Benjamin_Santiago|
+|Etta_Norman|
+	 -37594->|Janie_Lloyd|
+	 -627662->|Rosetta_Riley|
+	 -463342->|Wesley_McDaniel|
+	 -698521->|Bettie_Collins|
+|Myrtle_Brewer|
+	 -251110->|Harvey_Francis|
+	 -293949->|Justin_Horton|
+	 -66981->|Callie_Brady|
+	 -601883->|Willie_Burton|
+	 -247002->|Sara_Huff|
+	 -122083->|Ina_Price|
+|Hulda_Zimmerman|
+	 -614615->|Oscar_Austin|
+	 -590023->|Jeremiah_Doyle|
+	 -837032->|Addie_Chapman|
+	 -49674->|Louisa_Roy|
+	 -478799->|Maude_Gross|
+	 -586977->|Anne_Abbott|
+	 -344811->|Duane_Chambers|
+	 -914009->|Marie_McDaniel|
+|Augusta_Nelson|
+	 -693896->|Nancy_Olson|
+	 -888897->|Howard_Mendez|
+	 -652818->|Harriet_Wong|
+|Susie_Dean|
+	 -326928->|Marion_Parks|
+	 -119045->|Abbie_Fleming|
+	 -484975->|Walter_McBride|
+|Luella_Parsons|
+	 -563784->|Chester_Cooper|
+	 -976783->|Adrian_Hernandez|
+	 -47424->|Henrietta_Vega|
+	 -171050->|Eugenia_Huff|
+|Marion_Beck|
+	 -18467->|Celia_Cummings|
+	 -985636->|Allie_Phillips|
+	 -840087->|Johanna_Lindsey|
+	 -95073->|Ricardo_Moss|
+	 -282495->|Ruth_Stephens|
+	 -997050->|Carrie_Russell|
+|Nora_Hudson|
+	 -401652->|Raymond_Thomas|
+	 -899009->|Callie_Nelson|
+	 -126925->|Duane_Newton|
+|Maud_Ramos|
+	 -800387->|Minnie_Wise|
+	 -951251->|Mike_Wilkerson|
+	 -332224->|Carolyn_Tran|
+	 -841852->|Della_Cobb|
+	 -842222->|Isaiah_Powell|
+	 -246489->|Adeline_Hammond|
+	 -969657->|Lena_Townsend|
+	 -805100->|Minnie_Little|
+|Leon_Conner|
+	 -523952->|Dominic_Meyer|
+	 -370346->|Myrtle_Black|
+	 -608394->|Vera_Ford|
+	 -730276->|Alvin_Perkins|
+|Adeline_Hammond|
+	 -784552->|Etta_Norman|
+	 -565215->|Helena_Carson|
+	 -864675->|Dean_Olson|
+	 -845026->|Roxie_Simon|
+	 -218930->|Cecelia_Park|
+	 -927490->|Ray_Huff|
+|Wesley_McDaniel|
+	 -376798->|Dennis_Gross|
+	 -973792->|Mason_Drake|
+	 -724731->|Tom_Frank|
+	 -437167->|Christian_Yates|
+	 -122883->|Norman_Walker|
+	 -84806->|Rodney_Vega|
+|Jeffrey_Holloway|
+	 -991807->|Victoria_Mitchell|
+	 -852240->|Christopher_Warren|
+	 -805177->|Louisa_Roy|
+	 -416901->|Alice_Cruz|
+	 -748877->|Joe_Berry|
+	 -368082->|Cordelia_Walsh|
+	 -837719->|Francis_Curtis|
+|Sara_Simmons|
+	 -713392->|Christopher_Massey|
+	 -632085->|Lizzie_Carter|
+	 -520315->|Hilda_Cruz|
+	 -582478->|Mabel_Williams|
+	 -597888->|Ian_Clark|
+	 -180570->|Kyle_Cook|
+	 -247219->|Leona_Sanders|
+	 -499462->|Ora_Lane|
+|Melvin_Newton|
+	 -453198->|Christopher_Massey|
+	 -3760->|Mamie_Simmons|
+|Harry_Kelly|
+	 -94431->|Sallie_Schwartz|
+	 -826252->|Susan_Meyer|
+	 -315020->|Minerva_Casey|
+	 -235343->|Nelle_Stevens|
+	 -583861->|Sally_Sherman|
+	 -600769->|Hettie_Vargas|
+	 -768606->|Beulah_Dean|
+|Cordelia_Walsh|
+	 -481364->|Joe_Berry|
+	 -36891->|Andrew_Bennett|
+|Bettie_Collins|
+	 -359019->|Lola_Blair|
+	 -903533->|Bruce_Valdez|
+	 -842220->|Lucy_Wagner|
+|Joseph_Drake|
+	 -546471->|Nathaniel_Hubbard|
+	 -562479->|Betty_Hubbard|
+	 -587236->|Rosie_Barnett|
+	 -696107->|Lucas_Diaz|
+	 -204487->|Marie_Simpson|
+	 -995632->|Nora_Rice|
+	 -599278->|Willie_Burton|
+	 -864411->|Jean_Bowman|
+	 -74500->|Jonathan_Diaz|
+|Justin_Moreno|
+	 -203896->|Angel_Bowen|
+	 -16929->|Mason_Drake|
+	 -807858->|Shawn_Tyler|
+	 -958032->|Irene_Alvarado|
+	 -129193->|Addie_Nichols|
+	 -506119->|Ronnie_Neal|
+	 -940891->|Martha_McCarthy|
+	 -54194->|Joel_Pierce|
+	 -998924->|Ola_Rose|
+	 -218636->|Victoria_Gibson|
+	 -578371->|Georgia_Bridges|
+|Hannah_Brown|
+	 -386115->|Tony_Jackson|
+	 -553395->|Gordon_Owen|
+	 -544466->|Marion_Klein|
+	 -162975->|Lettie_Carroll|
+	 -870718->|Lydia_Carroll|
+	 -426351->|Brent_Potter|
+	 -465315->|Leroy_Arnold|
+	 -505229->|Estella_Beck|
+	 -299593->|Abbie_Hawkins|
+	 -8670->|Brian_Thompson|
+|Georgie_Wade|
+	 -377419->|Ronnie_Greer|
+	 -122641->|Jack_Gill|
+	 -602672->|Lydia_Carroll|
+	 -849432->|Jack_Hawkins|
+	 -521454->|Ricardo_Kelley|
+	 -958396->|Lula_Thompson|
+	 -155650->|Derek_Benson|
+	 -338036->|Luella_Wallace|
+|Vincent_Brooks|
+	 -389857->|Mamie_Gomez|
+	 -650131->|Chris_Johnston|
+	 -17193->|Olga_Johnston|
+	 -598073->|Barry_Gonzales|
+	 -62065->|Eula_Mack|
+	 -419222->|Christopher_Colon|
+|Milton_Hudson|
+	 -475257->|Leo_Sullivan|
+	 -962558->|Rose_Adams|
+|Keith_Beck|
+	 -106713->|Rosa_Ellis|
+	 -368330->|Kenneth_Poole|
+	 -272562->|Rachel_Tucker|
+	 -541463->|Allen_Santos|
+	 -217204->|Clyde_Hudson|
+	 -359705->|Jeffrey_Holloway|
+|Bryan_Rodgers|
+	 -737959->|Devin_Foster|
+	 -665378->|Fanny_Watkins|
+	 -985792->|Allen_Alvarez|
+	 -492805->|Eula_Mack|
+|Marie_Simpson|
+	 -830025->|Jean_Wood|
+	 -831835->|Nell_McCoy|
+	 -916865->|Pearl_George|
+	 -45678->|Bettie_Hamilton|
+	 -496561->|Sarah_Russell|
+	 -308347->|Evan_Kennedy|
+|Ray_Howell|
+	 -634576->|Johanna_Hubbard|
+	 -155068->|Gary_Hopkins|
+	 -33539->|Sallie_Schwartz|
+	 -71192->|Lura_Garner|
+	 -663375->|Gilbert_Massey|
+	 -416257->|Florence_Riley|
+	 -331582->|Mason_Ross|
+|Myrtie_Roberts|
+	 -862791->|Fannie_McLaughlin|
+	 -75877->|Phillip_Harrison|
+	 -83162->|Georgia_Hernandez|
+	 -64098->|Danny_Gordon|
+|Roxie_Day|
+	 -16920->|Lena_Townsend|
+	 -483398->|Anne_Matthews|
+	 -471067->|Scott_Neal|
+	 -325220->|David_Higgins|
+	 -26521->|Josie_Perez|
+|Ralph_Long|
+	 -440990->|Wayne_Crawford|
+	 -65368->|Jeffery_Francis|
+	 -198263->|Leon_Chambers|
+	 -700991->|Ricardo_Moss|
+	 -634850->|Clifford_Garcia|
+	 -498820->|Millie_Armstrong|
+	 -609461->|Myrtie_Roberts|
+|Ida_Guzman|
+	 -612373->|Ernest_Waters|
+	 -129688->|Allen_Hopkins|
+	 -954361->|Olga_Lamb|
+	 -67658->|Andre_Parsons|
+	 -404084->|Gabriel_Fitzgerald|
+|Eugenia_Ward|
+	 -175292->|John_Barker|
+	 -538556->|Rhoda_Davidson|
+	 -474448->|Justin_Moreno|
+	 -475844->|Mollie_Potter|
+	 -957856->|Marian_Wilkins|
+	 -412174->|Emilie_Horton|
+	 -736335->|Rosa_Austin|
+	 -607291->|Miguel_Guerrero|
+|Inez_Johnston|
+	 -64971->|David_Larson|
+	 -449800->|George_Matthews|
+	 -934462->|Ora_Hampton|
+	 -726901->|Jacob_Osborne|
+	 -542726->|Bettie_Hamilton|
+|Roy_Norton|
+	 -954432->|Leila_Rose|
+	 -209677->|Stanley_Gilbert|
+	 -41197->|Gary_Campbell|
+	 -769448->|Paul_Huff|
+	 -538365->|Edith_Marshall|
+|Addie_Chapman|
+	 -834641->|Augusta_Snyder|
+	 -65856->|Jimmy_Delgado|
+	 -596188->|Violet_Larson|
+	 -123395->|Celia_Spencer|
+	 -181616->|Hannah_Brown|
+|Gabriel_Watson|
+	 -539095->|Phillip_Harrison|
+	 -718481->|Linnie_Ellis|
+	 -452736->|Pearl_Rodgers|
+	 -601971->|Zachary_Yates|
+	 -100137->|Antonio_Santiago|
+|Clyde_Stephens|
+	 -100850->|Jonathan_Brady|
+	 -244296->|Marion_Klein|
+	 -496808->|Aiden_Mitchell|
+	 -405782->|Theresa_Martinez|
+|Mollie_Potter|
+	 -514527->|Benjamin_Santiago|
+	 -207179->|Isabella_Howard|
+	 -610059->|Hilda_Cruz|
+	 -459128->|Gilbert_Massey|
+|Rosetta_Parsons|
+	 -385682->|Tom_Casey|
+	 -184264->|Clyde_Stephens|
+	 -681179->|Jay_Parsons|
+	 -223022->|Chester_Hudson|
+	 -262131->|Randy_Paul|
+	 -932929->|Melvin_Murphy|
+	 -965473->|Peter_Lyons|
+|Tony_Jackson|
+	 -411334->|Rosalie_Mitchell|
+	 -947761->|Norman_Henry|
+|Rosa_May|
+	 -990850->|Dominic_Meyer|
+	 -636120->|Andrew_Johnson|
+	 -312725->|Jonathan_Morris|
+	 -627240->|Sally_Ingram|
+	 -978647->|Emilie_Soto|
+	 -574262->|Ola_Schultz|
+	 -362819->|Alma_Garner|
+	 -894463->|Mollie_Gonzalez|
+	 -446317->|Brian_Thompson|
+|Adrian_Roberson|
+	 -960913->|Olive_Pena|
+	 -290131->|Nora_Rice|
+	 -195836->|Mathilda_Little|
+	 -187134->|Susan_Yates|
+	 -338068->|Nelle_Long|
+|Eddie_Thompson|
+	 -20612->|Inez_Hanson|
+	 -175604->|Lottie_Rogers|
+	 -891076->|Cecelia_Hardy|
+	 -330999->|Melvin_Newton|
+	 -359212->|Gordon_Love|
+|Irene_Weaver|
+	 -197822->|William_Lawrence|
+	 -321322->|Alice_Greene|
+	 -4830->|Ola_Schultz|
+	 -461653->|Irene_Goodman|
+	 -700561->|Elnora_King|
+	 -997195->|Dominic_Meyer|
+	 -622219->|Gabriel_Watson|
+	 -39253->|Lula_Thompson|
+|Nora_Rice|
+	 -671109->|Marion_Perkins|
+|Glenn_Goodman|
+	 -92833->|Dora_Williamson|
+	 -516356->|Jean_Bowman|
+	 -397078->|Angel_Erickson|
+	 -11059->|Lena_Townsend|
+|Isabella_Benson|
+	 -7244->|Eugene_Flowers|
+	 -995273->|Nora_Ray|
+	 -605138->|Ora_Lane|
+	 -480137->|Gordon_Robinson|
+	 -442815->|Betty_Brock|
+	 -579148->|Isabella_Benson|
+	 -151092->|Marcus_Barrett|
+	 -587696->|Randy_Armstrong|
+|Pauline_Kim|
+	 -169370->|Stanley_Horton|
+	 -469363->|Victoria_Hammond|
+	 -342461->|Josephine_Murray|
+	 -296954->|Marcus_Duncan|
+	 -435686->|Rosetta_Morrison|
+	 -297201->|Isabel_Horton|
+	 -120361->|Jack_Nunez|
+	 -805167->|Bill_Burke|
+	 -99600->|Fanny_Simmons|
+|Jorge_Dunn|
+	 -400784->|Ronnie_Neal|
+|Lou_Grant|
+	 -254482->|Nancy_Sandoval|
+	 -944073->|Rosa_Hodges|
+	 -499399->|Donald_Walsh|
+	 -389779->|Harry_Park|
+	 -965888->|Etta_Nguyen|
+	 -802020->|Loretta_Bowen|
+	 -786435->|Virginia_Bass|
+|Lucile_Moreno|
+	 -12694->|Leo_Parsons|
+	 -928717->|Ricky_Bates|
+	 -177454->|Rebecca_Soto|
+|Mason_Nunez|
+	 -916700->|Emily_Parker|
+|Lewis_Hansen|
+	 -83570->|Angel_Bowen|
+	 -173142->|Raymond_Thomas|
+	 -379866->|Alice_Cruz|
+|Fannie_Nelson|
+	 -873482->|Victor_Smith|
+	 -451191->|Shawn_Ford|
+	 -614266->|Verna_Ray|
+	 -944170->|Rosie_Webster|
+	 -886049->|Adele_Banks|
+|Lottie_Burgess|
+	 -334977->|Joshua_Floyd|
+	 -963047->|Mable_Frazier|
+	 -384932->|Eleanor_Walsh|
+	 -105226->|Stanley_Gilbert|
+|Bill_Mullins|
+	 -41929->|Stephen_Goodman|
+	 -725780->|Mayme_Hogan|
+	 -651671->|Eddie_Thompson|
+	 -321417->|Leonard_Goodman|
+|Leona_Sanders|
+	 -788525->|Willie_Jordan|
+	 -561787->|Francisco_Bowen|
+	 -484701->|Bertha_Hicks|
+	 -483473->|Patrick_Harmon|
+	 -765981->|Sally_Sherman|
+	 -4176->|Mable_Banks|
+	 -501435->|Gabriel_Fitzgerald|
+|Gary_Bowman|
+	 -925371->|Bertie_Hamilton|
+	 -203076->|Gene_Floyd|
+	 -644471->|Clayton_Dean|
+	 -25858->|Lula_Myers|
+	 -90588->|Chris_Reid|
+	 -788273->|Lettie_Graham|
+	 -798906->|Victoria_Jordan|
+	 -505773->|John_Kennedy|
+	 -708531->|Ronnie_Neal|
+|Mayme_Hogan|
+	 -310788->|Lola_Blair|
+	 -212593->|Bettie_Collins|
+	 -290494->|Francisco_Fletcher|
+	 -114298->|Victor_Summers|
+|Lina_Bennett|
+	 -482603->|Bradley_Collier|
+	 -371451->|Susan_Yates|
+	 -330407->|Charlie_Howell|
+	 -365994->|Ronald_Harper|
+|Tom_Frank|
+	 -47366->|Cody_Holland|
+	 -835427->|Nicholas_Henry|
+	 -133083->|Timothy_Cox|
+	 -990635->|Nora_Moss|
+|Rhoda_Davidson|
+	 -125931->|Jean_Bowman|
+	 -280455->|Mario_Conner|
+	 -840048->|Gary_Campbell|
+	 -937255->|Anthony_Rowe|
+|Tommy_Wilson|
+	 -33822->|Angel_Bowen|
+	 -81831->|Emma_Gomez|
+	 -669709->|Beatrice_Reid|
+	 -768376->|Rodney_Fletcher|
+	 -603229->|John_Kennedy|
+	 -343927->|Isabelle_Daniels|
+	 -319949->|David_Frazier|
+	 -12627->|Myrtle_Foster|
+	 -985260->|Violet_Reeves|
+|Emilie_Horton|
+	 -961681->|Brent_Bowman|
+	 -270512->|Augusta_Carr|
+	 -683948->|Estella_Beck|
+	 -667023->|Florence_Gardner|
+	 -102529->|Hunter_Potter|
+|Jacob_Parsons|
+	 -18395->|Richard_Warren|
+	 -816201->|Pearl_Dunn|
+	 -194298->|Myrtle_Brewer|
+|Anthony_Gilbert|
+	 -488428->|Ola_Schultz|
+	 -745743->|Christian_Yates|
+	 -36748->|Chester_Steele|
+	 -990041->|Marie_Simpson|
+	 -244399->|Cora_Ross|
+	 -872591->|Harriet_Wong|
+	 -727181->|Agnes_Holt|
+|Lottie_Hunt|
+	 -666144->|Lula_Nguyen|
+	 -878653->|Derrick_Oliver|
+	 -685997->|Victor_Smith|
+|Madge_Pena|
+	 -759355->|Leah_McKenzie|
+	 -932321->|Melvin_Murphy|
+	 -592407->|Ophelia_Carr|
+	 -403992->|Nell_McCoy|
+	 -742693->|Charlotte_Gill|
+	 -698204->|Estella_Johnson|
+	 -396769->|Kyle_Baldwin|
+|Rosie_Jensen|
+	 -339222->|Julian_Gray|
+	 -81302->|Ronald_Garrett|
+	 -555346->|Julian_Gray|
+	 -608323->|Victoria_Hammond|
+|Raymond_Perez|
+	 -631973->|Lou_Grant|
+	 -51941->|Jesse_Fields|
+	 -72284->|Louis_Baldwin|
+	 -837769->|Hunter_Ramos|
+	 -358621->|Linnie_Ellis|
+	 -999097->|Rosalie_Ford|
+|Anne_Matthews|
+	 -268995->|Rosetta_Parsons|
+|David_Porter|
+	 -185782->|Susan_Yates|
+	 -385141->|Maude_Gross|
+|Nathaniel_Walton|
+	 -357793->|Myrtle_Foster|
+	 -969875->|Verna_Bishop|
+	 -767156->|John_Barker|
+	 -89221->|Verna_Bishop|
+	 -113587->|Vernon_Cannon|
+|Elnora_King|
+	 -801975->|Matthew_Hunt|
+	 -244125->|Marcus_Salazar|
+	 -492053->|Gary_Hopkins|
+	 -437816->|Lottie_Hunt|
+	 -278315->|Adele_Banks|
+	 -205979->|Clifford_Garcia|
+|Howard_Robinson|
+	 -108483->|Marian_Oliver|
+	 -308994->|Adele_Hubbard|
+	 -798726->|Ora_Hampton|
+	 -120816->|Jesse_Fields|
+	 -991135->|Bryan_Harris|
+	 -455674->|Johanna_Tran|
+	 -502513->|Gene_Vega|
+	 -307207->|Loretta_Flowers|
+|Sallie_Schwartz|
+	 -147903->|Marie_Delgado|
+	 -964274->|Marion_Klein|
+	 -159602->|Lloyd_Gilbert|
+	 -878904->|Florence_Sutton|
+	 -418003->|Bettie_Curry|
+|Leo_Burton|
+	 -336599->|Georgie_Wade|
+	 -178016->|Maria_Montgomery|
+	 -293069->|Loretta_Flowers|
+|Allen_Alvarez|
+	 -342215->|Sadie_Palmer|
+	 -558568->|Ruby_Holland|
+	 -667897->|Warren_Mack|
+	 -408227->|Nicholas_Pearson|
+	 -665747->|Nettie_Brewer|
+|Herman_Drake|
+	 -408181->|Maud_Ramos|
+	 -272583->|Marian_Oliver|
+	 -752459->|Catherine_Vaughn|
+	 -942753->|May_Ramsey|
+|Nathaniel_Gilbert|
+	 -580435->|Hester_Abbott|
+	 -558793->|Jay_Roy|
+	 -860230->|Agnes_Holt|
+	 -845605->|Fred_Hart|
+|Ray_Huff|
+	 -172291->|Margaret_Hernandez|
+	 -505558->|Lucas_Diaz|
+	 -798088->|Fannie_Park|
+	 -716409->|Jessie_Boyd|
+	 -386824->|Devin_Keller|
+	 -571964->|Fanny_Watkins|
+	 -951217->|Hattie_May|
+|Oscar_Austin|
+	 -565327->|Theresa_Nguyen|
+	 -743458->|Craig_Richardson|
+	 -316264->|Jayden_Estrada|
+	 -461381->|Calvin_Baker|
+	 -185528->|Estella_Johnson|
+	 -311405->|Bill_Burke|
+	 -751012->|Roy_Cobb|
+|Florence_Sutton|
+	 -431253->|Florence_Riley|
+	 -273859->|Etta_Norman|
+	 -871399->|David_Palmer|
+	 -945765->|Susie_McCormick|
+	 -692994->|Beulah_Alvarez|
+|Stanley_Lindsey|
+	 -795503->|Craig_Fuller|
+	 -267422->|Beatrice_Reid|
+	 -118855->|Connor_Aguilar|
+	 -32596->|Ronald_Harper|
+	 -922821->|Luis_Patton|
+	 -436130->|Adele_Banks|
+|Maggie_Davidson|
+	 -961130->|Gordon_Robinson|
+	 -194221->|Barry_Hughes|
+	 -569617->|Harriet_Vega|
+	 -170992->|Isaac_Berry|
+	 -88658->|Isabella_Benson|
+|Eula_Payne|
+	 -469830->|Anne_Abbott|
+	 -226703->|William_Lawrence|
+	 -556703->|Janie_Lloyd|
+	 -349298->|Glenn_Goodman|
+	 -763977->|Clyde_Stephens|
+	 -992081->|Elnora_Fowler|
+	 -657876->|Jonathan_Hampton|
+	 -330684->|Helen_Lindsey|
+|Mike_Wilkerson|
+	 -348184->|Jorge_Daniel|
+	 -555273->|Isabel_Horton|
+	 -95918->|Virginia_Bass|
+	 -731052->|Dominic_Ellis|
+|Rosie_Barnett|
+	 -582774->|Mae_Becker|
+	 -917911->|Clyde_Hudson|
+|Lettie_Carroll|
+	 -68181->|Bernice_Gross|
+	 -945580->|Evelyn_Brock|
+	 -826908->|Dean_Fields|
+	 -585028->|Shawn_Ford|
+	 -644684->|Ina_Price|
+	 -728112->|Verna_Bishop|
+	 -809642->|Fanny_Simmons|
+|Clayton_Williams|
+	 -964767->|Brent_Bowman|
+	 -908195->|Evan_Kennedy|
+	 -14090->|Angel_Bowen|
+	 -678640->|Hettie_Blair|
+	 -492065->|Melvin_Greene|
+	 -160317->|Jorge_Daniel|
+	 -156631->|Ruby_Holland|
+	 -227859->|Steven_George|
+	 -36549->|Myrtle_Brewer|
+	 -749581->|Rosa_Hodges|
+|Florence_Gardner|
+	 -712620->|Isaac_Berry|
+	 -766297->|Lelia_Parker|
+	 -819338->|Lucille_Maxwell|
+	 -657441->|Cordelia_Burke|
+	 -466608->|Alexander_Joseph|
+|Callie_Brock|
+	 -103629->|Lula_Nguyen|
+	 -740373->|Melvin_Murphy|
+	 -783171->|Zachary_Parks|
+	 -409416->|Sean_McCoy|
+	 -507626->|Jonathan_Stanley|
+|Rosetta_Morrison|
+	 -710699->|Lydia_Silva|
+	 -796672->|Victoria_Gibson|
+	 -108416->|Hattie_May|
+|Ophelia_Dixon|
+	 -533927->|Lizzie_Carter|
+	 -688385->|Jon_Bowen|
+	 -657681->|Chad_McGee|
+	 -52567->|Sally_Sherman|
+	 -80125->|William_Reeves|
+	 -952772->|Eliza_Burgess|
+	 -574737->|Walter_McBride|
+|Randy_Rodgers|
+	 -263996->|Olive_Pena|
+	 -625654->|Tillie_Welch|
+|Essie_Cruz|
+	 -390137->|Lucille_Maxwell|
+	 -163601->|Marie_McDaniel|
+	 -233316->|Luella_Parsons|
+	 -478365->|Beulah_Dean|
+	 -138399->|Myrtle_Summers|
+	 -502844->|Marie_Carroll|
+|Daniel_Gibbs|
+	 -226327->|Franklin_Gibson|
+	 -959523->|Gabriel_Ellis|
+	 -76649->|Marie_Simpson|
+	 -644534->|Clayton_Dean|
+|Mario_Conner|
+	 -412046->|Dora_Marshall|
+	 -66618->|Mitchell_Washington|
+	 -703932->|Nora_Ray|
+	 -689255->|Franklin_Anderson|
+	 -63427->|Mario_Conner|
+|Calvin_Baker|
+	 -322050->|Cora_Ross|
+	 -99859->|Melvin_Newton|
+	 -33694->|Lina_Green|
+	 -445485->|Gary_Campbell|
+	 -366357->|Bill_Berry|
+|Lydia_Silva|
+	 -305579->|Phoebe_Garcia|
+	 -216000->|Gary_Bowman|
+	 -305936->|Victoria_Mitchell|
+	 -955262->|Theresa_Nguyen|
+|Lillian_Coleman|
+	 -383396->|Leon_Conner|
+	 -321482->|Adrian_Hernandez|
+|Glenn_Anderson|
+	 -286634->|Christian_Love|
+	 -154518->|Ernest_Waters|
+	 -538055->|Lottie_Hunt|
+	 -16911->|Johanna_Ryan|
+	 -352387->|Nicholas_Allison|
+	 -580304->|Susie_Garza|
+	 -709080->|Ricardo_Moss|
+	 -771253->|Gavin_Stephens|
+	 -337878->|Jose_Blair|
+|Steve_Murray|
+	 -409577->|Isabelle_Norris|
+	 -1506->|Terry_Reeves|
+	 -156129->|Mike_Gibbs|
+	 -659366->|Clifford_Garcia|
+	 -725375->|Wayne_Crawford|
+	 -8402->|Clyde_Cook|
+	 -796817->|Hilda_Greene|
+	 -398699->|Carolyn_Tran|
+	 -852089->|Elnora_King|
+	 -434789->|Lottie_Burgess|
+|Henry_Boone|
+	 -476362->|Terry_Reeves|
+	 -120296->|Emma_Gomez|
+	 -607006->|Florence_Riley|
+	 -309199->|Jane_Murphy|
+	 -332940->|Hattie_May|
+	 -689838->|Dollie_Burton|
+|Minnie_Little|
+	 -624415->|Sarah_Russell|
+	 -954587->|Vincent_Torres|
+	 -784603->|Ann_Pope|
+	 -269582->|Edward_Vasquez|
+	 -256466->|Addie_Nichols|
+	 -883111->|Mamie_Simmons|
+|Anthony_Anderson|
+	 -151035->|Stanley_Lindsey|
+	 -654234->|Agnes_Holt|
+	 -190102->|Johanna_Lindsey|
+	 -603942->|Sara_Jacobs|
+	 -994943->|Harvey_Allen|
+	 -844088->|Floyd_Riley|
+	 -544257->|Billy_Weber|
+	 -876736->|Isaiah_Powell|
+	 -992918->|Winnie_Sutton|
+	 -400204->|Beulah_Alvarez|
+|Elnora_Pratt|
+	 -61125->|Pearl_Dunn|
+	 -874057->|Clyde_Hudson|
+|Allie_Phillips|
+	 -796712->|Hester_Abbott|
+	 -340676->|Marcus_Moss|
+	 -666680->|Clayton_Williams|
+	 -756956->|Nicholas_Allison|
+	 -458030->|Mike_Gibbs|
+|Floyd_McCarthy|
+	 -292774->|Melvin_Newton|
+|Josephine_Murray|
+	 -90646->|Willie_Jordan|
+	 -89208->|Beatrice_Reid|
+	 -312488->|Marie_Simpson|
+	 -997882->|Kyle_Baldwin|
+	 -113134->|Harriet_Wong|
+|Lucille_Maxwell|
+	 -67204->|Warren_Carlson|
+	 -804772->|Allen_Alvarez|
+	 -244626->|Joseph_Hicks|
+	 -202040->|Violet_Larson|
+	 -471123->|Michael_Waters|
+	 -725356->|Rhoda_Webb|
+	 -261996->|Ophelia_Dixon|
+	 -237869->|Tom_Fletcher|
+	 -296943->|George_Patrick|
+	 -148883->|Jorge_Daniel|
+	 -271368->|Willie_Jordan|
+	 -484912->|Vernon_Jones|
+|Mitchell_Washington|
+	 -334600->|Inez_Arnold|
+	 -387581->|Joe_Norman|
+	 -867367->|Duane_Boyd|
+	 -753131->|Jerome_Peterson|
+|Steven_George|
+	 -472860->|Ronald_Flores|
+	 -285068->|Cameron_Curry|
+	 -95969->|Rebecca_Wolfe|
+	 -819547->|Irene_Alvarado|
+|Rachel_Brown|
+	 -793212->|Gary_Bowman|
+	 -963041->|Augusta_Nelson|
+	 -980231->|Susie_McCormick|
+	 -490858->|Pearl_George|
+|Willie_Burton|
+	 -810893->|Troy_Lambert|
+	 -910704->|Ida_Allen|
+	 -665514->|Lillie_Morgan|
+	 -190563->|Alma_Hines|
+|Beulah_Dean|
+	 -504269->|Rosalie_Kennedy|
+	 -38790->|Allen_Santos|
+	 -361526->|Bryan_Reyes|
+	 -504915->|Olive_Casey|
+	 -413123->|Owen_Mann|
+	 -213003->|Jorge_Daniel|
+	 -415690->|Pauline_Kim|
+|Marcus_Duncan|
+	 -294706->|Brian_Thompson|
+	 -519157->|Mollie_Potter|
+	 -357542->|Fanny_Watkins|
+|Loretta_Flowers|
+	 -604833->|Dominic_Meyer|
+	 -556439->|Chad_McGee|
+	 -93233->|Leah_McKenzie|
+	 -629849->|Victor_Summers|
+|Elizabeth_Quinn|
+	 -428138->|Leon_Berry|
+	 -424540->|Ola_Rose|
+	 -303807->|Rosa_May|
+	 -108144->|Cody_Holland|
+	 -724787->|Luella_Wallace|
+|Dollie_Burton|
+	 -814583->|Kevin_Owens|
+	 -656698->|Paul_Hill|
+	 -932304->|Herman_Dunn|
+	 -535203->|Steve_Hamilton|
+	 -422888->|Sue_Ferguson|
+	 -511929->|Violet_Larson|
+	 -769454->|Cordelia_Dean|
+	 -749308->|Fannie_Nelson|
+|Theresa_Martinez|
+	 -613732->|Gabriel_Wallace|
+	 -78208->|Eugene_Flowers|
+	 -493973->|Harry_Franklin|
+|Virginia_Bass|
+	 -919653->|Duane_Newton|
+	 -715466->|Bruce_Valdez|
+	 -919183->|Minerva_Casey|
+	 -379819->|Adam_Adams|
+	 -604281->|Amy_Summers|
+|Bertie_Hamilton|
+	 -407304->|Eliza_Burgess|
+	 -776196->|Tony_Jackson|
+	 -669301->|Nelle_Byrd|
+|Lena_Carlson|
+	 -629946->|Ruth_Stephens|
+	 -288254->|David_Porter|
+	 -74908->|Addie_Miles|
+	 -913440->|Emilie_Curry|
+	 -144305->|Lena_Carlson|
+	 -219474->|Florence_Sutton|
+	 -562825->|Ricky_Bates|
+|Pearl_Dunn|
+|Ronald_Collier|
+	 -16037->|Ronald_Flores|
+	 -522214->|Ellen_Nichols|
+	 -243462->|Bill_Evans|
+|Adam_Caldwell|
+	 -947073->|Duane_Newton|
+	 -76049->|Lena_Townsend|
+	 -728172->|Marie_Holt|
+|Mason_Ross|
+	 -405320->|Adam_Porter|
+|Carrie_Russell|
+	 -685568->|Beatrice_Hopkins|
+	 -723256->|Jackson_Christensen|
+|Myrtle_Summers|
+	 -686260->|Mittie_Allen|
+	 -985678->|John_Barker|
+	 -107140->|Jose_Ingram|
+	 -486268->|Lelia_Parker|
+	 -72297->|Ronald_Flores|
+	 -696112->|Luis_Malone|
+	 -683122->|May_Ramsey|
+	 -360722->|Olive_Casey|
+	 -147414->|Beatrice_Reid|
+	 -119983->|Olive_Casey|
+|Roy_Cobb|
+	 -576288->|Willie_Burton|
+	 -196970->|Ruby_George|
+	 -713417->|Lettie_Carroll|
+	 -220586->|Emilie_Soto|
+	 -646427->|Jeffrey_Holloway|
+	 -622393->|Christopher_Massey|
+|Marie_Holt|
+	 -979014->|Hester_Abbott|
+	 -7343->|Ora_Perry|
+	 -919199->|Antonio_Santiago|
+	 -426800->|Bertha_Hicks|
+	 -9879->|Susie_Garza|
+	 -834645->|Henry_Hall|
+	 -111741->|Hettie_Blair|
+	 -421374->|Chester_Steele|
+	 -947843->|Adeline_Herrera|
+	 -971011->|Jeremiah_Sullivan|
+	 -52720->|Tom_Casey|
+	 -809371->|Eugenia_Huff|
+	 -405584->|Eliza_Brewer|
+	 -599068->|Ernest_Waters|
+|Gavin_Fields|
+	 -975579->|Vincent_Owens|
+	 -708946->|Josephine_Williamson|
+	 -494035->|Terry_Thornton|
+	 -545537->|Harry_Franklin|
+	 -294983->|Julian_Gray|
+|Ernest_Evans|
+	 -638094->|Jeffrey_Holloway|
+	 -135218->|Francisco_Bowen|
+	 -370476->|Theodore_Turner|
+|Lula_Nguyen|
+	 -260043->|Virginia_Bass|
+	 -527784->|Emilie_Soto|
+	 -507328->|Alma_Garner|
+	 -784155->|Mathilda_Little|
+	 -8527->|Mittie_Norton|
+	 -309498->|Leon_Conner|
+	 -619903->|Mamie_Gomez|
+	 -948858->|Ethan_Norton|
+	 -702746->|Jack_Nunez|
+|Marion_Parks|
+	 -353903->|Madge_Jimenez|
+	 -788870->|Rachel_Tucker|
+	 -317366->|Corey_Chandler|
+	 -4341->|Gordon_Love|
+	 -421392->|Leon_Berry|
+|Marcus_Salazar|
+	 -896759->|Mitchell_Washington|
+	 -506788->|Hallie_Pierce|
+	 -277439->|Glenn_Goodman|
+	 -499205->|Shane_Hardy|
+|Isabelle_Daniels|
+	 -55071->|Cordelia_Burke|
+	 -350967->|Stanley_Horton|
+	 -541176->|Anthony_Anderson|
+	 -843946->|Jose_Fernandez|
+	 -506535->|Ora_Perry|
+|Hunter_Potter|
+	 -934796->|Logan_Jacobs|
+	 -104094->|Maggie_Andrews|
+	 -97477->|Gabriel_Watson|
+	 -983507->|Alma_Boyd|
+	 -965512->|Nancy_Olson|
+	 -348096->|Addie_Nichols|
+|Cameron_Jennings|
+	 -875245->|Bruce_Phelps|
+	 -853642->|Lizzie_Robbins|
+	 -387786->|Joe_Berry|
+	 -206763->|Nicholas_Allison|
+|Logan_Colon|
+	 -294719->|Christopher_Colon|
+	 -603899->|David_Palmer|
+	 -849293->|Marie_Holt|
+|Florence_Bennett|
+	 -591896->|Stella_Stone|
+	 -825441->|Leo_Burton|
+	 -15219->|Harry_Franklin|
+	 -531276->|Fannie_Nelson|
+|Leila_Kim|
+	 -156722->|Anne_Matthews|
+	 -15326->|Carrie_Russell|
+	 -936346->|Maria_Moss|
+|Phoebe_Meyer|
+	 -967345->|Hulda_Torres|
+	 -918790->|Warren_Carlson|
+	 -399402->|Anne_Abbott|
+	 -555925->|Ernest_Cannon|
+|Chester_Foster|
+	 -453751->|Randy_Paul|
+	 -854447->|Callie_Brock|
+	 -644046->|Vernon_Jones|
+|Steve_Hamilton|
+	 -619600->|Leona_Schneider|
+	 -834129->|Pauline_Dunn|
+	 -683160->|Augusta_Douglas|
+	 -702087->|Adele_Gregory|
+	 -606573->|Lucinda_Reyes|
+|Carl_Kim|
+	 -695215->|Landon_Hudson|
+	 -553944->|Zachary_Yates|
+	 -727542->|Logan_Hardy|
+|Lou_Patterson|
+	 -692675->|Cody_Francis|
+	 -281270->|Ronald_Harper|
+	 -833055->|Lawrence_Gilbert|
+	 -470120->|Lina_Johnston|
+	 -701773->|Isabel_Maldonado|
+	 -775058->|Troy_Luna|
+|Nelle_Harper|
+	 -736080->|Edna_Valdez|
+	 -537645->|Sam_Jefferson|
+	 -309986->|Mittie_Norton|
+	 -163041->|Allie_Knight|
+	 -575113->|Owen_Hart|
+	 -497853->|Mark_Simpson|
+	 -868205->|Nora_Lawrence|
+|Leona_Stone|
+	 -236087->|Hunter_Potter|
+	 -266745->|Joshua_Owen|
+	 -444341->|Luis_Malone|
+	 -196043->|Jerome_Wise|
+	 -300622->|Ethan_Norton|
+	 -130060->|Jeremiah_Doyle|
+|William_Reeves|
+	 -639581->|Louis_Phelps|
+	 -212492->|Victoria_Hammond|
+	 -543002->|Cameron_Curry|
+	 -565127->|Mayme_Hansen|
+	 -776028->|Devin_Keller|
+|Justin_Keller|
+	 -706300->|Evelyn_Zimmerman|
+	 -564598->|Jorge_Dunn|
+	 -117343->|Vera_Moran|
+	 -931909->|Evelyn_Zimmerman|
+	 -254665->|Hilda_Cruz|
+	 -194253->|Charles_Paul|
+|Rosalie_Kennedy|
+	 -953459->|Leo_Burton|
+	 -626462->|Mason_Drake|
+	 -365473->|Susie_Nunez|
+	 -847344->|Jordan_George|
+	 -667297->|Estella_Johnson|
+	 -37271->|Bruce_Valdez|
+	 -886260->|Ricardo_Benson|
+	 -130903->|Mamie_Simmons|
+	 -279392->|Jordan_George|
+	 -921251->|Ethan_Jennings|
+	 -490737->|Stephen_Conner|
+|Nancy_McLaughlin|
+	 -798286->|Wayne_McGuire|
+	 -377344->|Franklin_Simpson|
+	 -711706->|Raymond_Perez|
+	 -892407->|Chester_Hudson|
+	 -599698->|Ethan_Norton|
+|Aiden_Nguyen|
+	 -885996->|Herman_Drake|
+	 -320718->|Jose_Ingram|
+	 -169391->|Derrick_Oliver|
+|Donald_Hill|
+	 -972541->|Alice_Greene|
+	 -552091->|Howard_Robinson|
+	 -100214->|Bradley_Campbell|
+	 -867202->|Lucile_Barnes|
+	 -473923->|Joshua_Owen|
+	 -761452->|Ora_Price|
+	 -696501->|Zachary_Parks|
+	 -172427->|Leo_Parsons|
+	 -64780->|Randy_Armstrong|
+|May_Ramsey|
+	 -933245->|Herman_Drake|
+	 -80206->|David_Porter|
+	 -708408->|Billy_Weber|
+|Stella_Stone|
+	 -599178->|Leonard_Bush|
+	 -352747->|Violet_Montgomery|
+	 -285121->|Lola_Bowman|
+	 -739671->|Martha_Bates|
+|Alma_Hines|
+	 -685147->|Randy_Armstrong|
+	 -182079->|Mamie_Burgess|
+	 -59792->|Douglas_Moreno|
+	 -468953->|Leila_Rose|
+	 -949800->|Bruce_Valdez|
+	 -898422->|Leo_Burton|
+	 -457029->|Etta_Sanchez|
+	 -271843->|Herman_Cole|
+	 -154002->|Maria_Montgomery|
+	 -700967->|Clarence_Brady|
+	 -358674->|Jayden_Day|
+	 -999261->|Kyle_Baldwin|
+|Raymond_Meyer|
+	 -779305->|Ann_Pope|
+	 -239270->|Isaiah_Powell|
+	 -940789->|Caroline_Coleman|
+	 -864086->|Vincent_Delgado|
+	 -616656->|Cordelia_Walsh|
+|Edward_Vasquez|
+	 -618528->|Helen_Lindsey|
+	 -125640->|Loretta_Bowen|
+	 -330798->|Arthur_Wade|
+	 -799573->|Susan_Morrison|
+|Lina_Green|
+	 -632687->|Richard_Hamilton|
+|Minnie_Wise|
+	 -260179->|Essie_Jones|
+|Nina_Goodwin|
+	 -982080->|Christopher_Colon|
+	 -529881->|Lawrence_Page|
+	 -204041->|Virgie_Walsh|
+	 -110911->|Raymond_Meyer|
+	 -128440->|Mary_Bowen|
+|Phillip_Parsons|
+	 -639747->|Rosa_May|
+	 -204739->|Gary_Campbell|
+	 -815350->|Mathilda_Little|
+	 -266198->|Emilie_Horton|
+|Bradley_Gibson|
+	 -645019->|Phillip_Harrison|
+	 -219753->|Adeline_Herrera|
+	 -444544->|Kyle_Cook|
+	 -985046->|Emily_Page|
+|Adam_Adams|
+	 -476417->|Tony_Jackson|
+	 -713770->|Rosalie_Kennedy|
+	 -912221->|Leona_Schneider|
+	 -612045->|Franklin_Anderson|
+	 -560517->|Augusta_Bradley|
+|Leo_Gibson|
+	 -9956->|Tony_Jackson|
+	 -239368->|Kenneth_Poole|
+	 -436865->|Beatrice_Reid|
+|Mamie_Simmons|
+	 -986784->|Nettie_Brewer|
+	 -964030->|Nellie_Fitzgerald|
+	 -186498->|Mollie_Gonzalez|
+	 -276987->|Leila_Ramsey|
+	 -231814->|Sam_Jefferson|
+	 -49620->|Myrtle_Brewer|
+	 -76580->|Myrtle_Brewer|
+	 -804780->|Ophelia_Dixon|
+	 -220387->|Rebecca_Soto|
+|Leonard_Bush|
+	 -350647->|Essie_Jones|
+	 -769907->|Glenn_Mack|
+	 -740702->|Georgie_Wade|
+	 -964091->|Adeline_Allison|
+	 -142213->|Adeline_Hammond|
+	 -188986->|Leroy_Arnold|
+|Peter_Lyons|
+	 -282990->|Willie_Larson|
+	 -379396->|Jane_Murphy|
+	 -651765->|Bruce_Hunt|
+	 -810621->|Cynthia_Holmes|
+	 -893792->|Francis_Curtis|
+	 -316710->|Franklin_Simpson|
+	 -902905->|Lina_Johnston|
+|Christopher_Warren|
+	 -98576->|Carolyn_Copeland|
+	 -14901->|Gary_Bowman|
+	 -25092->|Duane_Newton|
+	 -838668->|Jonathan_Stanley|
+	 -306123->|Gertrude_Norton|
+	 -645256->|Isabel_Horton|
+	 -376553->|Harry_Black|
+	 -836227->|Lizzie_Robbins|
+	 -515471->|Keith_Beck|
+	 -301362->|Violet_Montgomery|
+|Aiden_Watts|
+	 -131256->|Gene_Vega|
+	 -316137->|Henry_Hall|
+|Addie_Miles|
+	 -692587->|Joel_Pierce|
+	 -149588->|Ernest_Evans|
+	 -258082->|Sadie_Johnson|
+|Rebecca_Hubbard|
+	 -819430->|Emily_Page|
+	 -501958->|Adeline_Herrera|
+	 -44502->|Eliza_Burgess|
+	 -937797->|Marguerite_Weaver|
+|Barry_Gonzales|
+	 -983045->|Miguel_Guerrero|
+	 -412951->|Josephine_Murray|
+	 -488408->|Dean_Fields|
+	 -308515->|Rosie_Barnett|
+|Myra_Burke|
+	 -144766->|Sylvia_Arnold|
+|Jean_Dixon|
+	 -895152->|Sue_Ferguson|
+	 -993210->|Ora_Hampton|
+	 -798758->|Landon_Hudson|
+|Sylvia_Arnold|
+	 -93149->|Leona_Schneider|
+	 -954713->|Nathaniel_Mathis|
+	 -136288->|Minerva_Casey|
+	 -430823->|Minnie_Little|
+	 -55665->|Marcus_Salazar|
+|Elmer_Duncan|
+	 -248063->|Florence_Riley|
+	 -848891->|Donald_Hill|
+	 -197469->|Adeline_Allison|
+	 -87308->|Harry_Park|
+|Alexander_Hudson|
+	 -473111->|Anthony_Gilbert|
+	 -25958->|Millie_Cox|
+	 -626204->|Elmer_Duncan|
+	 -108443->|Bertie_Gray|
+	 -769446->|Nelle_Long|
+	 -990390->|Sue_Spencer|
+|Annie_Jones|
+	 -732109->|Louis_Phelps|
+	 -382959->|Jim_Johnston|
+	 -470604->|Wesley_Jensen|
+	 -838947->|Leila_Ramsey|
+	 -270677->|Olive_Casey|
+|Roger_Morton|
+	 -883463->|Franklin_Gibson|
+	 -593344->|Sean_Poole|
+	 -503916->|Gilbert_Massey|
+	 -86115->|Margaret_Hernandez|
+	 -710073->|Joshua_Floyd|
+	 -65880->|Jay_Simmons|
+	 -13954->|Peter_Lyons|
+	 -843909->|Joe_Norman|
+|Jennie_Howard|
+	 -919056->|Agnes_Holt|
+	 -871863->|Gene_Vega|
+	 -809297->|Blake_Wood|
+	 -553034->|Nora_Rice|
+	 -209942->|Leona_Stone|
+	 -86918->|Helen_Lindsey|
+|Ernest_Cannon|
+	 -802611->|Jesus_Cox|
+	 -234445->|Ricardo_Moss|
+	 -106259->|Paul_Huff|
+	 -942876->|Millie_Herrera|
+|Raymond_Thomas|
+	 -574747->|Abbie_Fleming|
+	 -520096->|Cora_Welch|
+	 -777016->|Michael_Waters|
+	 -704874->|Josephine_Williamson|
+	 -208635->|Seth_Moore|
+	 -484232->|Callie_Wise|
+|Harriet_Wong|
+	 -518534->|Agnes_Holt|
+	 -716272->|Sara_Huff|
+	 -387654->|Keith_Vasquez|
+	 -277639->|Chris_Wood|
+|Sean_Poole|
+	 -683904->|Dylan_Brown|
+	 -361098->|Ronald_Harper|
+	 -689495->|Mary_Bowen|
+	 -673403->|Ada_Thomas|
+	 -973305->|Maud_Ramos|
+	 -217684->|Lura_Garner|
+|Ian_Shelton|
+	 -418018->|Duane_Newton|
+	 -737407->|Jimmy_Delgado|
+	 -995734->|Mamie_Simmons|
+	 -4949->|Agnes_Holt|
+	 -609723->|Adeline_Allison|
+	 -335614->|Della_Day|
+	 -646674->|Vera_Ford|
+	 -610919->|Daniel_Ramirez|
+	 -61538->|Ola_Rose|
+	 -902758->|Paul_Huff|
+	 -995255->|Lydia_Pittman|
+	 -82265->|Hester_Abbott|
+	 -400430->|Harry_Franklin|
+|Zachary_Yates|
+	 -667312->|Callie_Nelson|
+	 -734242->|Myrtle_Summers|
+	 -672286->|Lucy_Hammond|
+	 -172780->|Nell_McCoy|
+	 -253833->|Jay_Simmons|
+	 -371550->|Ian_Shelton|
+|Duane_Boyd|
+|Victor_Summers|
+	 -695569->|Lura_Garner|
+	 -338674->|Sophia_Norman|
+	 -570906->|Cameron_Jennings|
+	 -371983->|Helena_Carson|
+	 -574615->|Luis_Higgins|
+|Gary_Hopkins|
+	 -841478->|Ricardo_Benson|
+	 -981807->|Danny_Gordon|
+	 -286011->|Winifred_Ellis|
+	 -344331->|Jean_Wood|
+	 -313603->|Joel_McKenzie|
+|Rodney_Fletcher|
+	 -304893->|Adele_Ramos|
+	 -372238->|Mike_Wilkerson|
+	 -207266->|Owen_Mann|
+	 -688674->|Ora_Lane|
+	 -128636->|John_Barker|
+	 -920055->|Sara_Huff|
+	 -99825->|Mathilda_Little|
+	 -463666->|Dominic_Meyer|
+|Jesus_Garcia|
+	 -439688->|Adeline_Herrera|
+	 -30191->|Kyle_Cook|
+	 -840892->|Ann_Pope|
+	 -389741->|Calvin_Baker|
+	 -259962->|Verna_Bishop|
+	 -919590->|Marion_Perkins|
+	 -763821->|Richard_Warren|
+|Emilie_Soto|
+	 -503471->|Marvin_Henderson|
+	 -488848->|Andrew_Bates|
+	 -59426->|Chester_McBride|
+	 -110793->|Callie_Nelson|
+	 -538988->|Bill_Burke|
+	 -83007->|Charlotte_Gill|
+|Eliza_Kelly|
+	 -287627->|Harry_Black|
+	 -737837->|Eddie_Thompson|
+	 -30248->|Ella_Caldwell|
+	 -238248->|Marian_Lawson|
+	 -56613->|Jeremiah_Sullivan|
+|Etta_Sanchez|
+	 -55809->|Luella_Phelps|
+	 -714180->|Harriet_Klein|
+	 -790145->|Wesley_Jensen|
+|Chris_Henderson|
+	 -259845->|Dorothy_Wong|
+|Georgie_Jenkins|
+	 -428276->|Jean_Wood|
+	 -784199->|Marc_Haynes|
+	 -796453->|Charlotte_Gill|
+	 -756171->|Callie_Brady|
+|Rosie_Castillo|
+	 -89434->|Nelle_Byrd|
+	 -169423->|David_Sanders|
+	 -259059->|Cameron_Jennings|
+|Fred_Hart|
+	 -682200->|Dylan_Brown|
+	 -41702->|Augusta_Snyder|
+	 -806098->|Theodore_Turner|
+	 -513650->|Maria_Moss|
+|Wesley_Jensen|
+	 -760791->|Dora_Webb|
+	 -170997->|Mathilda_Little|
+|Carlos_Jacobs|
+	 -698975->|Marion_Parks|
+	 -595136->|David_Sanders|
+|Adele_Hubbard|
+	 -522472->|Marion_Beck|
+	 -715237->|Rachel_Tucker|
+	 -769379->|Ethan_Jennings|
+	 -61927->|Theresa_Nguyen|
+	 -947201->|Clyde_Cook|
+	 -584808->|Callie_Brock|
+	 -308321->|Roxie_Simon|
+	 -308667->|Nora_Lawrence|
+	 -340795->|Tommy_Wilson|
+	 -266481->|Ophelia_Carr|
+	 -955653->|Lois_Morrison|
+|Stanley_Gilbert|
+	 -407132->|Marion_Klein|
+	 -61972->|Kyle_Baldwin|
+	 -278518->|Ricky_Gonzalez|
+|George_Patrick|
+	 -39434->|Justin_Moreno|
+	 -843886->|Norman_Stone|
+	 -157661->|Rosetta_Parsons|
+	 -877662->|Emma_Gomez|
+|Stanley_Horton|
+	 -763134->|Myrtle_Black|
+	 -426524->|Raymond_Perez|
+	 -563224->|Johanna_Austin|
+	 -428404->|Barbara_Henderson|
+	 -882114->|Christopher_Warren|
+	 -334662->|Leah_McKenzie|
+	 -281643->|Brandon_Stone|
+	 -892807->|Ellen_Byrd|
+	 -910516->|Jonathan_Shaw|
+|Abbie_Gordon|
+	 -759749->|Corey_Holmes|
+	 -838900->|Jerome_Wise|
+	 -758119->|Cordelia_Burke|
+	 -830716->|Brandon_Craig|
+	 -568580->|Adrian_Stewart|
+	 -293829->|Lawrence_Wilkins|
+|Maggie_Andrews|
+	 -228593->|Georgie_Wade|
+	 -697554->|Wesley_Jensen|
+	 -520804->|Raymond_Meyer|
+|Louisa_Roy|
+	 -200288->|Adele_Ramos|
+	 -304908->|Victoria_Gibson|
+	 -476236->|Alexander_Joseph|
+	 -911453->|Sara_Huff|
+	 -506228->|Mittie_Allen|
+	 -441855->|Ruby_George|
+	 -46751->|Janie_Warner|
+	 -290468->|Winifred_Ellis|
+|Logan_Hardy|
+	 -816295->|Augusta_Bradley|
+	 -557985->|Cora_Welch|
+	 -698545->|Jonathan_Stanley|
+	 -665378->|Isaiah_Wilkins|
+	 -92194->|Hulda_Torres|
+|Blake_Wood|
+	 -136752->|Jayden_Summers|
+	 -738047->|Carlos_Warren|
+	 -652601->|Chester_Steele|
+	 -536160->|Lulu_Oliver|
+	 -161354->|Leo_Burton|
+	 -995656->|Etta_Sanchez|
+|Adrian_Hernandez|
+	 -598214->|Jesse_Newton|
+	 -42349->|Nellie_Ramsey|
+	 -851536->|Georgie_Wade|
+|Sam_Jefferson|
+	 -612025->|Herman_Cole|
+	 -711315->|Isaiah_Powell|
+	 -596237->|Lloyd_Gilbert|
+	 -71795->|Augusta_Douglas|
+|Lester_Knight|
+	 -33383->|Marion_Perkins|
+|Dennis_Ortega|
+	 -653788->|Rebecca_Wolfe|
+	 -743887->|Calvin_Baker|
+	 -984477->|Leroy_Arnold|
+	 -792279->|Lizzie_Carter|
+	 -993065->|Mollie_Gomez|
+	 -845631->|Rebecca_Newman|
+|Cynthia_Holmes|
+	 -245796->|Alexander_Joseph|
+	 -231973->|Lewis_Hansen|
+	 -998110->|Chester_Hudson|
+	 -877371->|Douglas_Moreno|
+	 -462430->|Troy_Lambert|
+	 -390108->|Isabelle_Daniels|
+|Bruce_Valdez|
+	 -398625->|Callie_Brady|
+	 -129371->|Theodore_Turner|
+	 -929670->|Adrian_Hernandez|
+|Angel_Bowen|
+	 -437615->|Florence_Sutton|
+	 -595614->|Raymond_Foster|
+	 -415355->|Rachel_Tucker|
+	 -716672->|Susan_Yates|
+	 -542811->|Virginia_Bass|
+|Hilda_Greene|
+	 -741577->|John_Barker|
+	 -640790->|Nancy_McLaughlin|
+	 -112848->|Addie_Nichols|
+	 -773267->|Lula_Thompson|
+	 -325219->|Marcus_Barrett|
+	 -730003->|Jerry_McBride|
+	 -723753->|Francis_Curtis|
+|Derek_Benson|
+	 -204537->|Cecelia_Sullivan|
+	 -450731->|Annie_Fields|
+	 -285347->|Bessie_Glover|
+	 -585770->|Lawrence_Page|
+|Antonio_Santiago|
+	 -747874->|Joseph_Hicks|
+	 -25061->|Bettie_Curry|
+|Sue_Chambers|
+	 -446675->|Marion_Klein|
+|Ola_Rose|
+	 -113791->|Essie_Jones|
+	 -138207->|Marion_Parks|
+	 -410654->|Inez_Johnston|
+	 -156329->|Betty_Brock|
+	 -410202->|Sylvia_Arnold|
+	 -232505->|Sallie_Schwartz|
+|Alan_Ryan|
+	 -425418->|Wesley_Jensen|
+	 -975689->|Ian_Shelton|
+	 -706353->|Marie_McDaniel|
+|Eula_Mack|
+	 -13758->|Ronald_Collier|
+	 -823679->|Alma_Boyd|
+|Jorge_Douglas|
+	 -624349->|Georgie_Wade|
+	 -83413->|Jonathan_Stanley|
+	 -592249->|Frances_Davis|
+	 -303534->|Eugene_Flowers|
+	 -53584->|David_Larson|
+	 -571021->|Addie_Wright|
+	 -590694->|Hallie_Perkins|
+	 -333673->|Sally_Ingram|
+	 -755579->|Max_Craig|
+	 -448147->|Nancy_Olson|
+	 -346083->|Derrick_Oliver|
+|Rosalie_Ford|
+	 -970757->|Bertha_May|
+	 -188170->|Christopher_Warren|
+	 -128316->|Warren_Carlson|
+	 -990946->|Etta_Nguyen|
+	 -133852->|Ann_Sharp|
+	 -917741->|Hester_Tucker|
+	 -213054->|Virgie_Walsh|
+|Luella_Phelps|
+	 -194188->|Luella_Parsons|
+	 -693989->|Todd_Park|
+	 -394097->|Bernard_Medina|
+	 -820925->|Isaiah_Wilkins|
+	 -787678->|Stanley_Lindsey|
+	 -141642->|Leo_Sullivan|
+	 -392722->|Isaiah_Powell|
+|Marie_Carroll|
+	 -66610->|Cameron_Jennings|
+	 -792910->|Viola_Griffin|
+	 -23298->|Elizabeth_Chambers|
+	 -589611->|Addie_Nichols|
+	 -936848->|Bettie_Keller|
+	 -42032->|Luella_Parsons|
+	 -912813->|Jason_Herrera|
+	 -334437->|Carrie_Gibson|
+|Harriet_Klein|
+	 -714081->|Lucas_Weaver|
+	 -718169->|Isabel_Horton|
+|Francis_Curtis|
+	 -536062->|Charles_Paul|
+	 -762138->|Emilie_Horton|
+	 -718299->|Daniel_Bowman|
+	 -951733->|Wayne_Crawford|
+	 -479841->|Cordelia_Walsh|
+|Leona_Schneider|
+	 -68192->|Wayne_Stokes|
+	 -730069->|Josephine_Williamson|
+	 -903509->|Della_Day|
+	 -352874->|Lettie_Graham|
+	 -573326->|Olga_Lamb|
+	 -797154->|Susan_Meyer|
+	 -993056->|Callie_Nelson|
+	 -96595->|Susie_McCormick|
+|Nora_Ray|
+	 -617198->|Mayme_Hogan|
+	 -468746->|Fannie_Nelson|
+	 -347444->|Millie_Cox|
+	 -987347->|Richard_Hamilton|
+|Lucas_Weaver|
+	 -354639->|Myrtie_Roberts|
+	 -355578->|Gabriel_Wallace|
+	 -848139->|Virgie_Walsh|
+	 -906445->|Alice_Cruz|
+	 -533694->|Lelia_Parker|
+	 -685779->|Madge_Jimenez|
+	 -454885->|Fannie_McLaughlin|
+	 -872598->|Chester_Steele|
+|Logan_Parker|
+	 -639118->|Essie_Cruz|
+	 -117932->|Edward_Vasquez|
+	 -736214->|Harvey_Francis|
+	 -594216->|Adeline_Herrera|
+	 -916302->|Augusta_Snyder|
+	 -316619->|Terry_Smith|
+	 -126939->|Darrell_Nguyen|
+	 -942555->|Alexander_Hudson|
+	 -991692->|Matthew_Reyes|
+|Barbara_Henderson|
+	 -776482->|Frank_Floyd|
+	 -792400->|Millie_Cox|
+	 -966757->|Carolyn_Tran|
+	 -932169->|Josephine_Murray|
+	 -287149->|Martha_Bates|
+|Sophia_Potter|
+	 -648877->|Rosetta_Morrison|
+	 -303274->|Olive_Casey|
+	 -907160->|Vernon_Jones|
+	 -12919->|Eddie_Griffith|
+	 -231772->|Cecelia_Park|
+	 -554879->|Logan_Parker|
+	 -328732->|Cora_Ross|
+|Donald_Gomez|
+	 -37510->|Minnie_Little|
+	 -322709->|Donald_Hill|
+	 -853342->|Lawrence_Page|
+	 -602601->|Gabriel_Ellis|
+|Stephen_Gray|
+	 -189107->|Lawrence_Gilbert|
+	 -621587->|Viola_Cruz|
+|Irene_Goodman|
+|Owen_Jefferson|
+	 -534714->|Beulah_Dean|
+	 -136601->|Walter_McBride|
+	 -31362->|Timothy_Cox|
+	 -143797->|Susie_Dean|
+	 -177710->|Herbert_Robinson|
+	 -786802->|Luella_Wallace|
+	 -332039->|Sally_Ingram|
+|Joseph_Hicks|
+	 -565066->|Ethan_Jennings|
+	 -546187->|Gilbert_Gibbs|
+	 -560543->|Cameron_Griffin|
+	 -482765->|Ada_Briggs|
+	 -233359->|Lura_Garner|
+	 -322132->|Ethel_Nelson|
+|Arthur_Wade|
+	 -721828->|Irene_Goodman|
+	 -824193->|Duane_Newton|
+	 -519914->|Kyle_Baldwin|
+	 -340180->|Devin_Foster|
+	 -34745->|Herman_Drake|
+	 -501012->|Erik_Rios|
+	 -228986->|David_Sanders|
+	 -24388->|Pearl_Rodgers|
+|Nancy_Sandoval|
+	 -372588->|Ryan_Medina|
+	 -210452->|Floyd_McCarthy|
+	 -977672->|Ricardo_Moss|
+	 -370125->|Minnie_Little|
+	 -623959->|Lucile_Carr|
+	 -864822->|Pauline_Kim|
+	 -665404->|Herman_Drake|
+|Connor_Aguilar|
+	 -225715->|Nora_Moss|
+	 -869523->|Anne_Abbott|
+	 -378529->|Jeremiah_Doyle|
+	 -45827->|Alex_Herrera|
+|Emily_Page|
+	 -643186->|Dennis_Ortega|
+	 -882817->|Danny_Gordon|
+	 -269947->|Jason_Hubbard|
+	 -886561->|Tom_Casey|
+	 -869746->|Rosetta_Parsons|
+|Dominic_Owen|
+	 -623661->|Isaiah_Powell|
+	 -233059->|Gabriel_Ellis|
+	 -562447->|Jean_Bowman|
+	 -988390->|Donald_Gomez|
+	 -946368->|Essie_Cruz|
+|Mollie_Gonzalez|
+	 -784265->|Jorge_Daniel|
+	 -180894->|Hettie_Blair|
+	 -633392->|Marguerite_Weaver|
+	 -725869->|Dale_Bennett|
+	 -392818->|Rebecca_Soto|
+	 -684824->|Ola_Reid|
+	 -100128->|Sarah_Atkins|
+	 -947727->|Gavin_Stephens|
+	 -768960->|Isabelle_Daniels|
+	 -967312->|Jane_Murphy|
+	 -223040->|Violet_Larson|
+|Teresa_Phillips|
+	 -974017->|Stella_Ballard|
+	 -254167->|Kevin_Hughes|
+	 -290841->|Wayne_Stokes|
+	 -266954->|Bettie_Hamilton|
+	 -525743->|Mabelle_Bryan|
+	 -700153->|Lora_Guzman|
+	 -112680->|Ruby_George|
+	 -400662->|Ronnie_Greer|
+|Mathilda_Little|
+	 -329387->|Beatrice_Hopkins|
+|Harold_Nash|
+	 -565538->|Irene_Goodman|
+|Mittie_Norton|
+	 -897701->|Rachel_Perry|
+	 -858924->|Lawrence_Page|
+	 -916936->|David_Larson|
+|Adeline_Allison|
+	 -759703->|Jason_Hubbard|
+	 -100216->|Lloyd_Gilbert|
+|Millie_Herrera|
+	 -114118->|Marian_Lawson|
+	 -922113->|Charlie_Howell|
+	 -420440->|Ricardo_Moss|
+	 -288580->|Callie_Wise|
+	 -22906->|Logan_Jacobs|
+	 -407914->|Augusta_Snyder|
+	 -5976->|Eddie_Griffith|
+|Brett_Marsh|
+	 -484248->|Rachel_Brown|
+	 -236143->|Susan_Meyer|
+|Michael_Waters|
+	 -930209->|Jack_Gill|
+	 -369955->|Rosalie_Mitchell|
+|Mason_Drake|
+	 -569177->|Theresa_Nguyen|
+	 -613324->|Lucy_Hammond|
+	 -421640->|Frances_Davis|
+	 -998409->|Floyd_Riley|
+	 -527327->|Marie_Delgado|
+	 -974268->|Verna_Ray|
+	 -995851->|Jonathan_Brady|
+|Billy_Weber|
+	 -310328->|Mamie_Simmons|
+	 -267000->|Zachary_Yates|
+	 -978950->|Luella_Wallace|
+	 -962228->|Lydia_Carroll|
+	 -584999->|Gary_Hopkins|
+	 -257941->|Isaiah_Wilkins|
+|Olga_Johnston|
+	 -584442->|Isabelle_Norris|
+	 -366884->|Nora_Welch|
+	 -932556->|Marion_Perkins|
+	 -156522->|Jerry_McBride|
+	 -956780->|Duane_Aguilar|
+	 -782079->|Arthur_Wade|
+	 -48309->|Beatrice_Hopkins|
+	 -661811->|Chester_McBride|
+	 -369608->|Nora_Welch|
+	 -559754->|Virginia_Dunn|
+	 -908651->|Adam_Caldwell|
+	 -606214->|Wayne_Crawford|
+|Marie_Elliott|
+	 -733210->|Jesse_Newton|
+	 -298980->|Francisco_Bowen|
+	 -544500->|Christian_Love|
+|Herman_Cole|
+	 -849195->|Loretta_Schultz|
+	 -513593->|Barry_Tyler|
+	 -601817->|Bruce_Valdez|
+	 -912922->|Joe_Walton|
+	 -187201->|Georgia_Hernandez|
+|Verna_Bishop|
+	 -814394->|Georgie_Wade|
+	 -245440->|Melvin_Murphy|
+|Wayne_Crawford|
+	 -198224->|Marc_Haynes|
+	 -312688->|Luella_Phelps|
+	 -301679->|Ronald_Garrett|
+	 -278697->|Carlos_Jacobs|
+	 -490373->|Amanda_Simpson|
+	 -676459->|Leo_Sullivan|
+	 -369581->|Andrew_Bates|
+|Tommy_Briggs|
+	 -578764->|Rosalie_Ford|
+	 -640632->|Myrtle_Black|
+	 -961865->|Clarence_Ingram|
+	 -225019->|Rosetta_Parsons|
+|Thomas_Hodges|
+	 -42533->|Duane_Chambers|
+	 -190625->|Linnie_Ellis|
+	 -715534->|Leon_Conner|
+	 -733376->|Fannie_Nelson|
+	 -716636->|Barry_Tyler|
+	 -706831->|Dorothy_Wong|
+	 -405033->|Carolyn_Copeland|
+	 -667830->|Lucile_Moreno|
+|Beatrice_Hopkins|
+	 -931162->|Susie_Garza|
+	 -258455->|Derrick_Oliver|
+	 -186520->|Nina_Goodwin|
+	 -791485->|Matthew_Hunt|
+	 -609074->|Josephine_Murray|
+|Rosetta_Riley|
+	 -583588->|Maria_Moss|
+	 -666146->|Leona_Sanders|
+	 -17091->|Elnora_King|
+	 -481138->|Sadie_Palmer|
+	 -416767->|Gilbert_Gibbs|
+	 -484959->|Marcus_Park|
+	 -635072->|Jose_Fernandez|
+	 -803568->|Norman_Walker|
+	 -456822->|Louis_Phelps|
+	 -481170->|Aiden_Nguyen|
+|Ian_Clark|
+	 -695262->|Joel_McKenzie|
+	 -854548->|Miguel_Guerrero|
+|Rachel_Tucker|
+	 -955667->|Joshua_Malone|
+	 -129573->|Amy_Barber|
+	 -505064->|Jay_Parsons|
+	 -868257->|Corey_Chandler|
+	 -787911->|Corey_Chandler|
+|Adele_Banks|
+	 -970990->|Clayton_Dean|
+	 -779058->|Bill_Mullins|
+	 -606268->|Addie_Wright|
+	 -62696->|Clyde_Stephens|
+	 -882321->|Phoebe_Meyer|
+|Florence_Riley|
+	 -267790->|Ronald_Harper|
+	 -795397->|Edward_Vasquez|
+	 -727555->|Donald_Salazar|
+	 -292431->|Betty_Brock|
+	 -496977->|Danny_Gordon|
+	 -431849->|Barry_Hughes|
+|Leah_McKenzie|
+	 -33292->|Adeline_Hammond|
+	 -116932->|Dominic_Owen|
+	 -31753->|Emilie_Soto|
+|Marian_Morgan|
+	 -529754->|Mable_Banks|
+	 -143257->|Grace_Schultz|
+	 -457259->|Mae_Becker|
+	 -581154->|Rosie_Webster|
+|Sadie_Johnson|
+	 -640279->|Rosetta_Riley|
+	 -453582->|Joshua_Floyd|
+	 -620190->|Bertie_Hamilton|
+	 -705747->|Ora_Lane|
+|Bill_Berry|
+	 -545715->|Bradley_Gibson|
+	 -333767->|Evelyn_Brock|
+	 -355995->|Jim_Jacobs|
+	 -425738->|Ola_Rios|
+	 -415888->|Evelyn_Zimmerman|
+	 -984758->|Julia_Spencer|
+	 -555819->|Justin_Moreno|
+|Alexander_Joseph|
+	 -916961->|Nathaniel_Gilbert|
+	 -520037->|Max_Craig|
+	 -453464->|Nelle_Byrd|
+	 -576968->|Ollie_Simon|
+|Estella_Johnson|
+	 -187381->|Carlos_Jacobs|
+	 -838500->|Lily_Walton|
+	 -991295->|Kenneth_Marsh|
+|Ophelia_Atkins|
+	 -21413->|Vincent_Delgado|
+	 -504474->|Mattie_Crawford|
+	 -112598->|Chad_Dawson|
+	 -231776->|Adeline_Herrera|
+|Dora_Marshall|
+	 -252016->|Max_Craig|
+	 -887832->|Violet_Reeves|
+	 -456222->|Jacob_Parsons|
+	 -694811->|John_Barker|
+|Ruth_Ruiz|
+	 -755376->|Rhoda_Davidson|
+	 -799260->|Evan_Kennedy|
+	 -208494->|Marie_Elliott|
+	 -435763->|Keith_Beck|
+	 -218219->|Ida_Kelly|
+|Lola_Bowman|
+	 -666532->|Rachel_Briggs|
+	 -529013->|Isaiah_Norman|
+	 -748470->|Gilbert_Massey|
+	 -382232->|Minnie_Wise|
+	 -600033->|Mable_Banks|
+	 -233431->|Essie_Cruz|
+|Lettie_Graham|
+	 -635807->|Steven_George|
+	 -740590->|Daniel_Bowman|
+	 -408256->|Lucy_Wagner|
+	 -430395->|Jorge_Douglas|
+	 -802292->|Nettie_Brewer|
+	 -987455->|Maria_Montgomery|
+	 -215780->|Jay_Long|
+	 -175472->|Melvin_Murphy|
+|Alvin_Perkins|
+	 -610593->|Chris_Wood|
+	 -963496->|Jay_Roy|
+|Mabel_Williams|
+	 -48452->|Sophia_Norman|
+	 -466284->|Mabelle_Bryan|
+	 -615801->|Christina_Wilkerson|
+	 -838257->|Lester_Arnold|
+	 -415799->|Marcus_Hayes|
+	 -40592->|Lester_Arnold|
+|Randy_Paul|
+	 -799443->|Augusta_Douglas|
+	 -914869->|Andre_Parsons|
+	 -684396->|Owen_Hart|
+|Patrick_Walters|
+	 -934183->|Bertha_May|
+	 -207187->|Tommy_Wilson|
+	 -610666->|Phillip_Harrison|
+	 -463567->|Rosetta_Parsons|
+	 -833916->|Georgie_Wade|
+	 -193174->|Bill_Berry|
+|Bettie_Keller|
+	 -61935->|Christine_Holland|
+	 -616425->|Connor_Aguilar|
+	 -541373->|Mollie_Potter|
+	 -656604->|Christopher_Massey|
+|Kyle_Baldwin|
+	 -950885->|Herbert_Tran|
+	 -860968->|Charles_Andrews|
+	 -948539->|Lola_Blair|
+	 -850533->|Mayme_Hogan|
+|Terry_Thornton|
+	 -901771->|Clarence_Ingram|
+	 -764833->|Isabel_Maldonado|
+	 -361937->|Herbert_Tran|
+	 -663099->|Nora_Lawrence|
+	 -137206->|Lilly_Sandoval|
+	 -792843->|Jim_Johnston|
+	 -783297->|Ethel_Jordan|
+	 -693103->|Isabella_Zimmerman|
+	 -373176->|Lilly_Sandoval|
+	 -581229->|Celia_Spencer|
+|Hester_Abbott|
+	 -379592->|Ina_Waters|
+	 -603518->|Clyde_Cook|
+	 -910223->|Sallie_Copeland|
+	 -557160->|Seth_Wright|
+	 -60719->|Herbert_Tran|
+	 -554792->|Sylvia_Arnold|
+|John_Kennedy|
+	 -590323->|Inez_Johnston|
+	 -547610->|Ophelia_Carr|
+	 -583210->|Chris_Reid|
+	 -401294->|Alice_Carlson|
+	 -700042->|Fanny_Watkins|
+	 -845799->|Jonathan_Stevens|
+	 -28153->|Norman_Walker|
+	 -655011->|Paul_Huff|
+	 -148484->|Minnie_Underwood|
+	 -564251->|Adrian_Stewart|
+	 -881158->|Stephen_Conner|
+|Clifford_Garcia|
+	 -537980->|Adrian_Stewart|
+|Clarence_Ingram|
+	 -693207->|Evelyn_Wood|
+	 -37126->|Jerome_Wise|
+	 -879639->|Emma_Fields|
+	 -302360->|Seth_Moore|
+	 -111917->|Della_Cobb|
+	 -54471->|Lester_Knight|
+|Jack_Green|
+	 -156441->|Justin_Moreno|
+	 -865288->|Hester_Tucker|
+|Joe_Walton|
+	 -725706->|Glenn_Mack|
+	 -915248->|Hester_Abbott|
+	 -6891->|Stephen_Conner|
+	 -275663->|Evan_Kennedy|
+	 -198448->|Jessie_Boyd|
+	 -775128->|Tillie_Welch|
+	 -763411->|Jay_Parsons|
+|Carrie_McKenzie|
+	 -55220->|Mario_Conner|
+	 -202316->|Brian_Thompson|
+	 -3125->|Tom_Casey|
+	 -148354->|Lois_Morrison|
+	 -455110->|Mollie_Gonzalez|
+	 -354686->|Marcus_Park|
+|Bettie_Hamilton|
+	 -861619->|Herbert_Mann|
+	 -315->|Betty_Hubbard|
+	 -896892->|Lou_Patterson|
+	 -769226->|Florence_Gardner|
+	 -327719->|Lucas_Diaz|
+	 -971648->|Amelia_Chandler|
+|Lydia_Carroll|
+	 -197569->|Adele_Ramos|
+	 -595429->|Jonathan_Shaw|
+	 -53882->|Luella_Wallace|
+	 -752379->|Jason_Hubbard|
+	 -567519->|Mike_Gibbs|
+	 -596673->|Steve_Hamilton|
+	 -299732->|Myrtle_Black|
+	 -331549->|Sarah_Russell|
+|Lawrence_Wilkins|
+	 -491806->|Keith_Vasquez|
+	 -103693->|Lucille_Maxwell|
+	 -376460->|Wayne_Crawford|
+|Johanna_Lindsey|
+	 -243406->|Lester_Knight|
+	 -340376->|Mary_Bowen|
+	 -766815->|Jack_Nunez|
+	 -176546->|Wesley_Jensen|
+	 -442175->|Jayden_Estrada|
+	 -843676->|Jeffery_Francis|
+	 -608200->|Leroy_Arnold|
+|Robert_Foster|
+	 -538847->|Ronald_Harper|
+	 -337902->|Carolyn_Thomas|
+	 -504173->|Ann_Pope|
+	 -561875->|Adrian_Roberson|
+	 -154253->|Mattie_Crawford|
+	 -962487->|Nell_McCoy|
+	 -370256->|Isabelle_Daniels|
+|Callie_Nelson|
+	 -317067->|Stella_Robinson|
+	 -474806->|Jay_Long|
+	 -655107->|Ora_Lane|
+|Lola_Bass|
+	 -854542->|Jesse_Fields|
+	 -47646->|Betty_Brock|
+	 -285150->|Alexander_Joseph|
+	 -636111->|Roxie_Simon|
+	 -529803->|Raymond_Perez|
+	 -111034->|Annie_Benson|
+	 -311592->|Johanna_Lindsey|
+	 -300080->|Adelaide_Hernandez|
+	 -62957->|Ola_Reid|
+	 -729558->|Cecelia_Hardy|
+	 -473885->|Etta_Nguyen|
+|Lester_Arnold|
+	 -686398->|Lois_Morrison|
+|Isaiah_Powell|
+	 -655540->|Leila_Hodges|
+	 -884226->|Francis_Curtis|
+	 -769389->|Shane_Hardy|
+|Lucy_Cohen|
+	 -530095->|Jimmy_Delgado|
+	 -190274->|Stanley_Lindsey|
+	 -634895->|Allie_Phillips|
+	 -452860->|Josephine_Murray|
+	 -339044->|Michael_Waters|
+|Carrie_Gibson|
+	 -458354->|Stella_Stone|
+	 -231218->|Francisco_Fletcher|
+	 -173941->|Owen_Hart|
+	 -917334->|Rachel_Tucker|
+	 -931993->|Leroy_Arnold|
+	 -3365->|Edna_Valdez|
+	 -488051->|Celia_Cummings|
+|Jason_Hubbard|
+	 -617978->|Gabriel_Wallace|
+	 -162709->|Eleanor_Walsh|
+	 -880790->|Violet_Logan|
+|Bradley_Campbell|
+	 -324625->|Shawn_Ford|
+	 -343101->|Nicholas_Henry|
+	 -184672->|Luke_Gilbert|
+	 -422993->|Susie_Nunez|
+	 -83908->|Jane_Murphy|
+	 -345210->|Lulu_Oliver|
+	 -337936->|Carolyn_Tran|
+|Donald_Walsh|
+	 -918239->|Brett_Marsh|
+	 -250688->|Miguel_Guerrero|
+	 -911779->|Fanny_Watkins|
+	 -986643->|Myrtle_Brewer|
+	 -814661->|Luis_Patton|
+	 -70900->|Ricardo_Moss|
+	 -19966->|David_Sanders|
+	 -970138->|Shawn_Tyler|
+	 -913352->|Matthew_Hunt|
+|Chester_McBride|
+	 -392228->|Leo_Sullivan|
+	 -637266->|Ollie_Simon|
+	 -531315->|Adrian_Roberson|
+	 -473164->|Hettie_Blair|
+	 -581970->|Eliza_Brewer|
+	 -722535->|Lily_Walton|
+	 -781483->|Marion_Nunez|
+	 -496446->|Jimmy_Delgado|
+	 -170026->|Fred_Hart|
+	 -504046->|Lucy_Hammond|
+	 -739930->|Logan_Colon|
+	 -207877->|Lawrence_Wilkins|
+	 -538262->|Logan_Jacobs|
+|Joe_Norman|
+	 -677434->|Gabriel_Davidson|
+	 -219068->|Mamie_Burgess|
+	 -785484->|Isaiah_Powell|
+	 -577544->|Dominic_Ellis|
+	 -708316->|Evan_Richardson|
+|Margaret_Hernandez|
+	 -430044->|Nelle_Stevens|
+	 -310532->|Jeremiah_Doyle|
+	 -48024->|Corey_Chandler|
+	 -730763->|Christine_Holland|
+|Brent_Bowman|
+	 -155935->|Ida_Allen|
+	 -148590->|Patrick_Harmon|
+	 -363172->|Billy_Coleman|
+	 -978292->|Ethan_Norton|
+	 -824997->|Augusta_Carr|
+|Duane_Bowers|
+	 -49437->|Marion_Beck|
+	 -892779->|Lou_Patterson|
+|Cordelia_Burke|
+	 -440872->|Gary_Ford|
+	 -113071->|Ethel_Jordan|
+	 -832682->|Marguerite_Weaver|
+|Paul_Hill|
+	 -731657->|Raymond_Foster|
+	 -587675->|Troy_Wheeler|
+	 -981932->|Jonathan_Morris|
+	 -303911->|Henry_Hall|
+	 -852929->|Clifford_Garcia|
+	 -639852->|Emily_Parker|
+|Ida_Kelly|
+	 -868164->|Bryan_Harris|
+	 -875675->|Adele_Gregory|
+	 -959001->|Bernice_Gross|
+|Marie_Delgado|
+	 -349938->|Bradley_Briggs|
+	 -662570->|Lottie_Rogers|
+	 -447115->|Margaret_Yates|
+	 -900977->|Lillie_Morgan|
+	 -930929->|Justin_Keller|
+|Ella_Caldwell|
+	 -320258->|Carrie_Russell|
+	 -691670->|Sean_Poole|
+	 -608579->|Paul_Huff|
+|Dorothy_Mendoza|
+	 -489796->|Douglas_Schwartz|
+	 -627060->|Glen_Edwards|
+	 -319732->|Bill_Evans|
+	 -324964->|Jon_Bowen|
+	 -907786->|Mario_Conner|
+|Ruby_Holland|
+	 -502115->|Roy_Cobb|
+|Rena_Brady|
+	 -396357->|Leonard_Goodman|
+	 -771438->|Elnora_Fowler|
+	 -258998->|Lola_Bass|
+	 -634773->|Lucille_Maxwell|
+	 -275219->|Nathaniel_Walton|
+	 -505740->|Marion_Klein|
+	 -56526->|Tom_Fletcher|
+|Eliza_Brewer|
+	 -24957->|Glen_Baker|
+	 -58018->|Susan_Morrison|
+	 -459514->|Anthony_Anderson|
+	 -365796->|Bertie_Gray|
+|Nellie_Fitzgerald|
+	 -448283->|Duane_Boyd|
+	 -625850->|Willie_Jordan|
+	 -623068->|Lee_Williams|
+	 -873038->|Luella_Parsons|
+|Matthew_Hunt|
+	 -405874->|David_Larson|
+	 -912583->|Ronnie_Neal|
+	 -754012->|Inez_Arnold|
+	 -288193->|Ronnie_Greer|
+	 -932028->|Matthew_Hunt|
+|John_Barker|
+	 -704801->|Maude_Gross|
+	 -862476->|Christina_Lopez|
+	 -640405->|Ricardo_Kelley|
+	 -812207->|Alice_Greene|
+	 -168798->|Charlotte_Gill|
+|Claudia_Caldwell|
+	 -134433->|Cordelia_Walsh|
+	 -427482->|Calvin_Fletcher|
+	 -945889->|Hulda_Zimmerman|
+	 -669195->|Marc_Haynes|
+	 -860945->|Lettie_Graham|
+	 -889092->|Pearl_Rodgers|
+	 -845524->|Alma_Boyd|
+	 -37731->|Susie_Garza|
+|David_Sanders|
+	 -708965->|Melvin_Murphy|
+	 -986975->|Randy_Armstrong|
+	 -570677->|Stephen_Gray|
+	 -939883->|Leila_Kim|
+	 -775316->|Duane_Newton|
+|Todd_Park|
+	 -730571->|Ophelia_Atkins|
+	 -719807->|Marie_Holt|
+	 -314732->|Vera_Ford|
+	 -668448->|Beulah_Dean|
+	 -878768->|Ann_Sharp|
+|Mable_Frazier|
+	 -53298->|Luis_Higgins|
+	 -696217->|Jim_Johnston|
+	 -777927->|Tommy_Wilson|
+	 -556804->|Marie_Holt|
+	 -85442->|Essie_Jones|
+|Marian_Wilkins|
+	 -571148->|Sallie_Copeland|
+	 -719537->|Francis_Curtis|
+	 -197771->|Dora_Marshall|
+	 -847901->|Anthony_Anderson|
+	 -554721->|Jack_Hawkins|
+	 -68359->|Nicholas_Pearson|
+	 -885600->|David_Palmer|
+	 -314054->|Clyde_Stephens|
+	 -267416->|Eula_Mack|
+|Norman_Walker|
+	 -936503->|Marion_Parks|
+	 -924959->|Owen_Jefferson|
+	 -610424->|Evan_Richardson|
+	 -656693->|Luis_Malone|
+	 -754976->|Harriett_Graves|
+	 -867452->|Chris_Henderson|
+	 -408876->|Lucy_Hammond|
+|Ricardo_Kelley|
+	 -751832->|David_Higgins|
+	 -641323->|Todd_Park|
+	 -997112->|Alice_Greene|
+	 -82915->|Lucas_Weaver|
+	 -178441->|Gordon_Robinson|
+	 -115715->|Keith_Beck|
+	 -17128->|Marcus_Barrett|
+|Leon_Berry|
+	 -864770->|Tom_Casey|
+	 -765434->|Maud_Ramos|
+	 -85354->|Donald_Salazar|
+	 -763126->|Loretta_Bowen|
+	 -31976->|Lydia_Silva|
+|Amelia_Chandler|
+	 -389314->|Mamie_Gomez|
+	 -918594->|Myra_Turner|
+	 -785574->|Elmer_Duncan|
+|Gilbert_Massey|
+	 -779193->|Ada_Vargas|
+	 -58637->|Callie_Brock|
+	 -741052->|Catherine_Vaughn|
+	 -527091->|Chris_Henderson|
+	 -132136->|Harry_Park|
+	 -449009->|Charles_Andrews|
+	 -334844->|Lola_Bass|
+	 -44223->|Lucinda_Reyes|
+|Leroy_Arnold|
+	 -943996->|Loretta_Schultz|
+	 -42839->|Jorge_Dunn|
+|Lloyd_Gilbert|
+	 -649323->|Hattie_May|
+|Eugene_Flowers|
+	 -82902->|Luis_Malone|
+	 -252084->|Sue_Chambers|
+	 -334671->|Isabel_Horton|
+	 -773574->|Herbert_Mann|
+	 -94875->|Jeffery_Adkins|
+	 -332857->|Helena_Carson|
+	 -362365->|Hettie_Sandoval|
+|Eddie_Griffith|
+	 -316939->|Carrie_Gibson|
+	 -91052->|Adeline_Allison|
+|Glen_Simon|
+	 -265581->|Calvin_Baker|
+	 -87250->|Troy_Wheeler|
+	 -475181->|Ethel_Jordan|
+	 -246537->|Justin_Keller|
+|Virgie_Shelton|
+	 -373712->|Maria_Montgomery|
+	 -931432->|Cora_Ross|
+	 -853264->|Lula_Thompson|
+	 -107532->|Melvin_Greene|
+	 -976874->|Vincent_Torres|
+|Fannie_Park|
+	 -647878->|Ollie_Crawford|
+	 -166114->|Ella_Caldwell|
+	 -246441->|Gary_Campbell|
+	 -945459->|Gabriel_Davidson|
+	 -55687->|Danny_Gordon|
+|Nell_McCoy|
+	 -439557->|Jay_Simmons|
+	 -851661->|Dylan_Baker|
+	 -750579->|Lula_Myers|
+	 -664264->|Steve_Dennis|
+|Herman_Dunn|
+	 -724618->|Marie_Carroll|
+|Johanna_Hubbard|
+	 -243811->|Verna_Bishop|
+|Gene_Floyd|
+	 -401398->|Jonathan_Diaz|
+	 -350525->|Harriett_Graves|
+	 -221596->|Gordon_Palmer|
+|Vernon_Jones|
+	 -214143->|Fanny_Watkins|
+	 -900836->|Emilie_Soto|
+	 -334327->|Harry_Park|
+	 -65987->|Chester_McBride|
+|Christina_Lopez|
+	 -992760->|Hester_Abbott|
+	 -229151->|Joshua_Owen|
+	 -137019->|Lora_Guzman|
+	 -656587->|Jeff_Moran|
+	 -74493->|Nelle_Stevens|
+	 -491089->|Myra_Burke|
+|Isabel_Horton|
+	 -591168->|Olive_Pena|
+	 -584075->|Mathilda_Little|
+	 -635356->|Leo_Gibson|
+|Adele_Gregory|
+	 -429028->|Rachel_Tucker|
+	 -971603->|Marie_Elliott|
+	 -945212->|Ray_Howell|
+	 -11137->|Tony_Jackson|
+|Louis_Baldwin|
+	 -851985->|Jack_Hawkins|
+	 -455686->|Alexander_Joseph|
+	 -331164->|Scott_Neal|
+	 -446748->|Joe_Walton|
+	 -141891->|Jon_Barnett|
+	 -641679->|Larry_Norton|
+|Sally_Thompson|
+	 -123318->|Chester_Foster|
+	 -906802->|Warren_Carlson|
+	 -176091->|Gabriel_Davidson|
+	 -42630->|Ina_Price|
+	 -470189->|Tom_Casey|
+|Dora_Williamson|
+	 -917056->|Gene_Floyd|
+	 -255987->|Mary_Meyer|
+	 -267249->|Marcus_Duncan|
+	 -90092->|Chester_McBride|
+	 -857353->|Alexander_Hudson|
+|Charlie_Howell|
+	 -863374->|Callie_Wise|
+	 -178576->|Gordon_Palmer|
+	 -322605->|Marcus_Duncan|
+	 -479734->|Rebecca_Soto|
+|Etta_Nguyen|
+	 -409925->|Harry_Franklin|
+	 -667719->|Glen_Simon|
+	 -7739->|Jack_Howard|
+	 -54378->|Hallie_Pierce|
+|Eleanor_Walsh|
+	 -361204->|Jean_Wood|
+	 -274892->|Gabriel_Wallace|
+	 -880995->|Jose_Fernandez|
+	 -125630->|Jesse_Newton|
+	 -910079->|Alvin_Perkins|
+	 -65945->|Jay_Hines|
+|Nathaniel_Mathis|
+	 -474648->|Bettie_Curry|
+	 -722137->|Della_Day|
+	 -177735->|Devin_Foster|
+|Andrew_Johnson|
+	 -806881->|Wesley_McDaniel|
+	 -342673->|Fred_Hart|
+	 -966181->|Celia_Cummings|
+|Ola_Rios|
+	 -934822->|Leroy_Arnold|
+	 -601896->|Joel_Summers|
+	 -471214->|Derek_Snyder|
+	 -303090->|Marion_Perkins|
+|Hettie_Blair|
+	 -30872->|Eddie_Thompson|
+	 -874465->|Adele_Banks|
+	 -99939->|Jonathan_Shaw|
+	 -792980->|Lydia_Silva|
+	 -407362->|Adam_Caldwell|
+	 -382699->|Barbara_Henderson|
+|Sally_Ingram|
+	 -446425->|Jon_Bowen|
+	 -978114->|Stanley_Horton|
+	 -753807->|Tom_Casey|
+	 -442658->|Carl_Kim|
+	 -379594->|Lou_Patterson|
+	 -569373->|Adam_Adams|
+	 -269842->|Della_Day|
+|Sue_Ferguson|
+	 -129802->|Max_Craig|
+	 -624429->|Elmer_Pierce|
+	 -221232->|Alma_Garner|
+	 -13989->|Loretta_Schultz|
+	 -197419->|Cora_Shelton|
+	 -820601->|Gene_Lyons|
+|Francisco_Fletcher|
+	 -106695->|Augusta_Snyder|
+	 -232749->|Victoria_Hammond|
+	 -116544->|Gary_Ford|
+|Jordan_George|
+	 -396827->|Pearl_Dunn|
+	 -522492->|Allen_Alvarez|
+	 -604114->|Roy_Norton|
+	 -697286->|Charles_Parker|
+	 -271632->|Hester_Schultz|
+	 -372492->|Dylan_Klein|
+|Lottie_Maldonado|
+	 -721336->|Dominic_Ellis|
+	 -294746->|Ola_Rose|
+	 -190635->|Ophelia_Carr|
+	 -607471->|Bryan_Rodgers|
+	 -413569->|Douglas_Moreno|
+	 -31825->|Willie_Burton|
+|Dylan_Klein|
+	 -563556->|Logan_Hardy|
+	 -753860->|Donald_Gomez|
+	 -114262->|Sean_McCoy|
+	 -635772->|Carolyn_Copeland|
+	 -215382->|Louis_Baldwin|
+|Violet_Reeves|
+	 -423213->|Gary_Bowman|
+	 -707551->|Ada_Briggs|
+|Ada_Vargas|
+	 -410318->|Owen_Mann|
+	 -643920->|Eugene_Flowers|
+	 -746290->|Lois_Morrison|
+	 -818599->|Joe_Berry|
+	 -307896->|Ryan_Medina|
+	 -703155->|Jayden_Day|
+	 -757672->|Johanna_Lindsey|
+|Dean_Fields|
+	 -201484->|Glen_Simon|
+	 -192701->|Connor_Aguilar|
+	 -203680->|Rebecca_Hubbard|
+	 -356318->|Marvin_Henderson|
+	 -203643->|Fannie_Nelson|
+	 -499156->|Herman_Dunn|
+	 -91854->|Lottie_Rogers|
+	 -90123->|Hettie_Sandoval|
+	 -383185->|Lucy_Wagner|
+|Lizzie_Carter|
+	 -981604->|Ophelia_Dixon|
+	 -314643->|Bertie_Hamilton|
+	 -140442->|Gabriel_Wallace|
+	 -616302->|Leah_McKenzie|
+	 -284167->|Alma_Hines|
+	 -444844->|Susie_Carroll|
+	 -601943->|Brandon_Craig|
+|Cameron_Curry|
+	 -220223->|Leon_Conner|
+	 -646827->|Clyde_Cook|
+	 -298687->|Cecelia_Cook|
+	 -210271->|Dylan_Klein|
+	 -431367->|Lura_Garner|
+|Nelle_Long|
+	 -524324->|Ethel_Nelson|
+	 -701483->|Lola_Bass|
+	 -720954->|Jose_Ingram|
+	 -886406->|Addie_Nichols|
+	 -261550->|Marian_Craig|
+|Nicholas_Pearson|
+	 -76935->|Louis_Baldwin|
+	 -482875->|Winifred_Green|
+	 -579556->|Cecelia_Park|
+	 -43203->|Fannie_Nelson|
+	 -252075->|Harry_Franklin|
+	 -74161->|Lewis_Hansen|
+	 -494783->|Ophelia_Carr|
+	 -437129->|Lola_Blair|
+	 -928387->|Marion_Nunez|
+	 -890014->|Nicholas_Allison|
+|Beatrice_Logan|
+	 -303317->|Gabriel_Ellis|
+	 -633822->|Louis_Phelps|
+	 -970922->|Gary_Bowman|
+	 -503110->|Bettie_Curry|
+	 -374073->|Randy_Adams|
+|Dennis_Gross|
+	 -264479->|Allie_Knight|
+	 -980068->|Pearl_George|
+	 -408660->|Clyde_Cook|
+	 -467372->|Emma_Fields|
+	 -184609->|Georgie_Jenkins|
+	 -115989->|Vincent_Owens|
+	 -460685->|Mason_Drake|
+	 -842968->|Cynthia_Holmes|
+	 -394664->|Alice_Cruz|
+	 -695159->|Bradley_Campbell|
+|Jim_Johnston|
+	 -392525->|Rhoda_Davidson|
+	 -676755->|Nelle_Harper|
+	 -912456->|Lawrence_Gilbert|
+	 -455669->|Jack_Gill|
+	 -89212->|Rhoda_Webb|
+	 -914790->|Andrew_Johnson|
+	 -726845->|Essie_Cruz|
+	 -438115->|Bradley_Campbell|
+|Cordelia_Dean|
+	 -417475->|Nina_Goodwin|
+	 -843878->|Rosa_Hodges|
+	 -434839->|Leonard_Goodman|
+	 -757939->|Anthony_Gilbert|
+	 -169157->|Joshua_Malone|
+|Jessie_Boyd|
+	 -670107->|Sally_Ingram|
+	 -74679->|Della_Day|
+	 -904530->|Jayden_Estrada|
+	 -8362->|Beatrice_Reid|
+	 -958057->|David_Frazier|
+	 -225993->|Jeremiah_Sullivan|
+	 -402796->|Margaret_Hernandez|
+	 -839961->|Myrtle_Brewer|
+	 -460708->|Nina_Goodwin|
+|Cecilia_Delgado|
+	 -569380->|Lillie_Morgan|
+	 -389708->|Martha_McCarthy|
+	 -308193->|Jeffery_Walters|
+|Howard_Mendez|
+	 -359838->|Evan_Richardson|
+	 -589082->|Ada_Briggs|
+|Hester_Tucker|
+	 -1542->|George_Matthews|
+	 -655004->|Ola_Rose|
+	 -559136->|Allie_Phillips|
+	 -950786->|Cecelia_Cook|
+|Chester_Hudson|
+	 -135747->|Leo_Gibson|
+	 -646751->|Bill_Evans|
+	 -45697->|Emma_Martinez|
+	 -724906->|Cora_Welch|
+	 -986550->|Roxie_Simon|
+	 -533628->|Lucinda_Reyes|
+|Lizzie_Robbins|
+	 -641775->|Ada_Vargas|
+	 -665095->|Ruby_George|
+	 -962084->|Rachel_Briggs|
+	 -735205->|Lula_Thompson|
+	 -720758->|Charles_Parker|
+	 -29406->|Essie_Jones|
+	 -789336->|Jorge_Dunn|
+	 -245198->|Georgia_Bridges|
+|Gary_Campbell|
+	 -227340->|Dylan_Baker|
+	 -260831->|Daniel_Ramirez|
+	 -397194->|Evan_Richardson|
+	 -372581->|Dennis_Gross|
+	 -366801->|Marguerite_Weaver|
+|Rosie_Webster|
+	 -531429->|Howard_Mendez|
+	 -637455->|Ora_Hampton|
+	 -860448->|Benjamin_Santiago|
+	 -650965->|Myrtie_Roberts|
+	 -406951->|Estella_Beck|
+|Gordon_Owen|
+	 -621562->|Kevin_Owens|
+	 -756425->|Jerome_Dawson|
+	 -847783->|Herbert_Mann|
+	 -64089->|Roxie_Ruiz|
+	 -138443->|Victoria_Gibson|
+|Winnie_Sutton|
+	 -451813->|Lola_Blair|
+	 -190412->|Emma_Gomez|
+	 -327717->|Marian_Lawson|
+	 -792122->|David_Palmer|
+	 -511589->|David_Palmer|
+	 -626420->|Myra_Turner|
+|Kevin_Hughes|
+	 -558652->|Dominic_Ellis|
+	 -743403->|Leo_Burton|
+|Emma_Martinez|
+	 -538459->|Phillip_Parsons|
+	 -78266->|Elnora_King|
+	 -89954->|Cody_Francis|
+|Josie_Perez|
+	 -424101->|Pearl_Dunn|
+	 -83406->|Dorothy_Wong|
+	 -820069->|Hettie_Sandoval|
+	 -463649->|Cameron_Griffin|
+|Christopher_Massey|
+	 -583504->|Shane_Hardy|
+	 -564611->|Oscar_Austin|
+	 -956604->|Melvin_Newton|
+	 -323661->|Logan_Hardy|
+	 -943900->|Lily_Walton|
+	 -624337->|Eliza_Williamson|
+	 -400547->|Violet_Logan|
+|Luke_Gilbert|
+	 -407977->|Dominic_Owen|
+	 -354945->|Millie_Armstrong|
+	 -378406->|Isabella_Maldonado|
+	 -960497->|Alice_Cruz|
+|Jonathan_Diaz|
+	 -745846->|Olive_Pena|
+	 -274116->|Marion_Parks|
+	 -170019->|Norman_Henry|
+	 -664206->|Duane_Newton|
+|Nelle_Stevens|
+	 -61509->|Marcus_Moss|
+	 -218714->|Logan_Parker|
+	 -318707->|Donald_Salazar|
+	 -855982->|Lucile_Carr|
+|Virginia_Dunn|
+	 -578456->|Joe_Walton|
+	 -288117->|Hester_Tucker|
+|Zachary_Duncan|
+	 -983884->|Roy_Mendoza|
+	 -857459->|Jason_Herrera|
+	 -575280->|Brandon_Stone|
+	 -686989->|Gordon_Love|
+	 -154868->|Adam_Caldwell|
+	 -751770->|Derrick_Oliver|
+	 -304999->|Jorge_Daniel|
+|Phillip_Harrison|
+	 -782066->|Kenneth_Norris|
+	 -358919->|Lottie_Rogers|
+	 -883584->|Dennis_Ortega|
+	 -758363->|Bettie_Keller|
+	 -94701->|Chris_Reid|
+	 -501869->|Cameron_Jennings|
+|Warren_Mack|
+	 -232145->|Robert_Foster|
+|Emma_Gomez|
+	 -675034->|Lucy_Cohen|
+	 -940725->|Virginia_Bass|
+	 -407734->|Landon_Hudson|
+	 -368096->|Mollie_Potter|
+	 -725586->|Isabella_Maldonado|
+|Jerry_Thornton|
+	 -987517->|Evelyn_Fitzgerald|
+	 -283446->|Jeremy_Figueroa|
+	 -397241->|Bryan_Harris|
+|Rodney_Vega|
+	 -410303->|Fanny_Simmons|
+	 -818534->|Christopher_Warren|
+	 -548474->|Carl_Nunez|
+	 -682648->|Isaiah_Powell|
+	 -510534->|Angel_Bowen|
+	 -732945->|Ernest_Waters|
+|Nelle_Byrd|
+	 -116744->|Victoria_Mitchell|
+	 -694031->|Isaiah_Wilkins|
+	 -570723->|Lena_Townsend|
+	 -802126->|Augusta_Nelson|
+	 -856867->|Nora_Welch|
+|George_Matthews|
+	 -47453->|Emilie_Horton|
+	 -812700->|Seth_Moore|
+	 -262442->|Lloyd_Gilbert|
+	 -780061->|Marian_Morgan|
+	 -511817->|Ricardo_Kelley|
+|Chris_Wood|
+	 -607011->|Sue_Kennedy|
+	 -569188->|Lucille_Maxwell|
+	 -713336->|Steve_Murray|
+	 -844478->|Eugene_Flowers|
+	 -66658->|Bettie_Hamilton|
+	 -317810->|William_Ramsey|
+	 -39678->|Carl_Leonard|
+	 -768764->|Marie_Delgado|
+	 -258278->|Amy_Summers|
+	 -950513->|Keith_Vasquez|
+|Shawn_Tyler|
+	 -284250->|Victoria_Hammond|
+	 -982981->|William_Ramsey|
+	 -215077->|Etta_Nguyen|
+|Leila_Rose|
+	 -93906->|Josephine_Bailey|
+	 -466062->|Nancy_Olson|
+	 -850426->|Elnora_Fowler|
+	 -411217->|Myrtie_Roberts|
+	 -660876->|Nelle_Harper|
+	 -508165->|Leila_Rose|
+	 -944838->|Jonathan_Stanley|
+|Mollie_Gomez|
+	 -398401->|Nelle_Stevens|
+	 -615617->|Susie_McCormick|
+	 -282301->|Luis_Patton|
+	 -963387->|Jerry_McBride|
+	 -122196->|Billy_Weber|
+	 -861567->|Augusta_Bradley|
+|Adelaide_Hernandez|
+	 -683851->|Inez_Hanson|
+	 -325960->|Henry_Hall|
+	 -197047->|Bill_Burke|
+	 -725642->|Derek_Snyder|
+	 -677816->|Nora_Moss|
+|Seth_Moore|
+	 -180510->|Winnie_Sutton|
+	 -424905->|Adrian_Hernandez|
+	 -692896->|Andre_Hawkins|
+|Estella_Beck|
+	 -718884->|Evan_Kennedy|
+	 -173729->|Cordelia_Dean|
+	 -50022->|Alvin_Perkins|
+	 -347956->|Edith_Marshall|
+	 -91806->|Glen_Lawrence|
+	 -516019->|Essie_Cruz|
+	 -146122->|Duane_Newton|
+	 -38996->|Maria_Montgomery|
+|Jeremiah_Doyle|
+	 -347657->|Maud_Ramos|
+	 -754608->|Randy_Paul|
+	 -651393->|Rena_Brady|
+	 -75675->|Floyd_Riley|
+	 -410934->|Alice_Cruz|
+	 -535998->|Todd_Park|
+	 -913770->|Chester_Cooper|
+	 -878744->|Gordon_Love|
+	 -817922->|Sara_Jacobs|
+|Leonard_Goodman|
+	 -153635->|Darrell_Nguyen|
+	 -263239->|Chad_Dawson|
+	 -454762->|Oscar_Bailey|
+	 -589537->|Terry_Smith|
+	 -906343->|Winnie_McCormick|
+	 -231498->|Alice_Cruz|
+	 -895541->|Mark_Simpson|
+	 -859566->|Joel_Summers|
+	 -269233->|Mittie_Norton|
+|Jared_Fernandez|
+	 -970763->|Edith_Edwards|
+	 -127515->|George_Patrick|
+	 -976078->|Floyd_Tucker|
+	 -499715->|Maria_Moss|
+	 -373864->|Ada_Briggs|
+	 -582927->|Lucy_Cohen|
+	 -960517->|Hulda_Torres|
+|Hallie_Pierce|
+	 -142502->|Jay_Long|
+	 -677351->|Grace_Schultz|
+	 -271309->|Gilbert_Gibbs|
+	 -526653->|Steve_Murray|
+	 -769255->|Isaac_Berry|
+	 -927535->|Herman_Drake|
+	 -942577->|Floyd_McCarthy|
+	 -257161->|Jon_Bowen|
+	 -235188->|Jim_Jacobs|
+	 -760369->|Christine_Holland|
+|Jackson_Christensen|
+	 -345168->|Alma_Garner|
+	 -84937->|Hulda_Zimmerman|
+	 -65377->|Clyde_Cook|
+	 -183502->|Chad_McGee|
+|Hester_Schultz|
+	 -90485->|David_Larson|
+	 -284574->|Helen_Lindsey|
+	 -11647->|David_Larson|
+	 -718484->|Ruby_Holland|
+	 -849545->|Dora_Marshall|
+	 -98117->|Christopher_Warren|
+	 -873791->|William_Lawrence|
+	 -104704->|Carrie_Gibson|
+	 -365549->|Addie_Chapman|
+|Terry_Reeves|
+	 -879289->|Craig_Fuller|
+	 -52355->|Bill_Evans|
+	 -422571->|Stanley_Horton|
+|Alice_Carlson|
+	 -804982->|Harry_Franklin|
+	 -530805->|Jack_Johnston|
+	 -187999->|Gabriel_Watson|
+	 -634059->|Rosalie_Kennedy|
+|Louis_Phelps|
+	 -851639->|Devin_Foster|
+	 -311162->|Bruce_Phelps|
+	 -388837->|Ernest_Waters|
+	 -414282->|Gabriel_Fitzgerald|
+	 -250969->|Antonio_Santiago|
+|Jean_Bowman|
+	 -788771->|Kenneth_Norris|
+	 -229201->|Leo_Burton|
+	 -292959->|Jose_Fernandez|
+	 -825832->|Viola_Griffin|
+	 -72652->|Ruby_Holland|
+	 -10541->|Rosetta_Morrison|
+	 -181386->|Cora_Shelton|
+|Millie_Summers|
+	 -552117->|Estella_Johnson|
+	 -306228->|Herbert_Mann|
+	 -364733->|Jack_Howard|
+	 -10473->|Isabelle_Norris|
+	 -950475->|John_Kennedy|
+	 -83544->|Rebecca_Hubbard|
+	 -837016->|David_Larson|
+	 -650722->|Isaiah_Wilkins|
+|Gilbert_Jenkins|
+	 -454858->|Jorge_Douglas|
+	 -553347->|Jeremiah_Sullivan|
+	 -311443->|Ollie_Crawford|
+|Vincent_Obrien|
+	 -469891->|Harriet_Klein|
+	 -108623->|Marian_Craig|
+	 -102471->|Lucy_Cohen|
+	 -207063->|Chester_Foster|
+	 -302767->|Marguerite_Weaver|
+|Duane_Aguilar|
+	 -416131->|Janie_Warner|
+	 -698015->|Bruce_Hunt|
+|Rosa_Austin|
+	 -296411->|Ellen_Nichols|
+	 -63766->|Dora_Marshall|
+	 -871212->|Ellen_Byrd|
+	 -745993->|Victor_Smith|
+	 -970697->|Lottie_Rogers|
+	 -104425->|Rosie_Webster|
+	 -992788->|Bettie_Hamilton|
+	 -941131->|Janie_Lloyd|
+|Lula_Thompson|
+	 -753160->|Rhoda_Webb|
+	 -367021->|Milton_Hudson|
+	 -135411->|Milton_Hudson|
+	 -910889->|Della_Day|
+	 -704524->|Eugenia_Ward|
+|Rebecca_Newman|
+	 -358872->|Richard_Hamilton|
+	 -529318->|Luella_Phelps|
+|Augusta_Snyder|
+	 -944755->|Barry_Carpenter|
+	 -145026->|Leila_Rose|
+	 -350907->|Ricardo_Benson|
+	 -839068->|Charlie_Howell|
+|Bertha_Hicks|
+	 -218429->|Ronald_Garrett|
+|Chris_Reid|
+	 -188202->|Leila_Hodges|
+	 -155281->|Mathilda_Little|
+	 -966067->|Landon_Hudson|
+	 -916517->|Daniel_Ramirez|
+	 -44570->|Addie_Wright|
+	 -998385->|Lola_Blair|
+	 -472895->|Betty_Brock|
+	 -611755->|Lester_Knight|
+|Lelia_Parker|
+	 -325100->|Verna_Bishop|
+	 -997691->|Elizabeth_Quinn|
+	 -930874->|Bertha_Yates|
+	 -646842->|Randy_Paul|
+	 -513516->|Harriett_Mendez|
+	 -710173->|Nicholas_Henry|
+|Lola_Blair|
+	 -591311->|Virgie_Shelton|
+	 -433046->|Nancy_McLaughlin|
+	 -678592->|Phoebe_Meyer|
+|Wayne_McBride|
+	 -739843->|Angel_Bowen|
+	 -101013->|Ophelia_Carr|
+	 -413044->|Dale_Bennett|
+	 -461722->|Christina_Lopez|
+|Isabella_Maldonado|
+	 -763532->|Olive_Casey|
+	 -132094->|Josephine_Murray|
+	 -10614->|Harvey_Allen|
+	 -379205->|Ian_Shelton|
+	 -973434->|Ernest_Evans|
+|Johnny_Mack|
+	 -812587->|Susie_Garza|
+	 -462017->|Carlos_Warren|
+	 -688959->|Derek_Snyder|
+	 -129836->|Maud_Ramos|
+|Shane_Hardy|
+	 -61107->|Brett_Marsh|
+	 -629318->|Carl_Leonard|
+	 -497812->|Lou_Grant|
+	 -392956->|Lucas_Diaz|
+	 -511980->|Lottie_Hunt|
+|Johanna_Tran|
+	 -269654->|Howard_Robinson|
+	 -869415->|Douglas_Schwartz|
+	 -661222->|Willie_Jennings|
+	 -204948->|Addie_Nichols|
+	 -399613->|Rosalie_Kennedy|
+	 -83407->|Raymond_Meyer|
+	 -757975->|Bettie_Collins|
+	 -18124->|Stanley_Horton|
+|Evan_Richardson|
+	 -972279->|Lina_Bennett|
+	 -659814->|Calvin_Fletcher|
+	 -26797->|Maggie_Andrews|
+	 -213763->|Susie_Nunez|
+	 -561210->|Ora_Lane|
+	 -292134->|Elizabeth_Quinn|
+	 -855270->|Clifford_Garcia|
+|Rebecca_Soto|
+	 -189600->|Annie_Benson|
+	 -876439->|Marcus_Moss|
+	 -4790->|Steven_George|
+	 -679007->|Stephen_Goodman|
+	 -100348->|Alice_Underwood|
+	 -636861->|Sally_Porter|
+|Pearl_George|
+	 -308494->|Mae_Becker|
+	 -704861->|Lucas_Weaver|
+	 -184607->|Douglas_Moreno|
+	 -801472->|Emily_Parker|
+|Susie_Garza|
+	 -62402->|Luke_Gilbert|
+	 -503696->|Lula_Myers|
+	 -377027->|Mathilda_Little|
+	 -280332->|Nelle_Long|
+|Rachel_Briggs|
+	 -620603->|Bradley_Campbell|
+	 -597401->|Andrew_Bates|
+	 -787094->|William_Lawrence|
+|Ronnie_Greer|
+	 -375930->|Gene_Lyons|
+	 -439549->|Alice_Greene|
+	 -891906->|Roxie_Day|
+|David_Frazier|
+	 -177229->|Irene_Goodman|
+	 -748329->|Estella_Beck|
+	 -679938->|Allen_Alvarez|
+	 -995457->|Vera_Ford|
+|Hulda_Torres|
+	 -411665->|Stephen_Goodman|
+	 -529052->|Jonathan_Shaw|
+	 -724907->|Francis_Curtis|
+	 -318245->|Bryan_Rodgers|
+	 -854201->|Verna_Duncan|
+	 -587314->|Josephine_Murray|
+	 -248898->|Marc_Haynes|
+	 -594035->|Etta_Norman|
+|Terry_Warren|
+	 -807397->|Isaiah_Wilkins|
+	 -543025->|Alice_Edwards|
+	 -112633->|Hester_Abbott|
+	 -141402->|Millie_Todd|
+|Lizzie_Stevens|
+	 -515194->|Johanna_Lindsey|
+	 -823271->|Jack_Hawkins|
+	 -683081->|Jon_Barnett|
+	 -500155->|Rosa_Austin|
+	 -396955->|Rachel_Perry|
+	 -75651->|Jeff_Moran|
+|Ann_Pope|
+	 -913359->|Sallie_Copeland|
+	 -296033->|Verna_Ray|
+	 -361460->|Kevin_Hughes|
+	 -829020->|Glenn_Mack|
+	 -166098->|David_Palmer|
+	 -156152->|Anthony_Gilbert|
+	 -106391->|Rhoda_Davidson|
+	 -813009->|Troy_Lambert|
+	 -104932->|Jared_Fernandez|
+|Jack_Howard|
+	 -615222->|Stanley_Gilbert|
+	 -165896->|Norman_Henry|
+	 -499906->|Tommy_Wilson|
+	 -881881->|Fred_Hart|
+	 -677336->|Sylvia_Arnold|
+	 -780767->|Kenneth_Norris|
+|Andre_Hawkins|
+	 -993563->|Jesus_Garcia|
+	 -738632->|Stella_Stone|
+	 -138979->|Emma_Fields|
+|Jeffery_Francis|
+	 -698283->|Mary_Meyer|
+	 -26495->|Dora_Marshall|
+	 -244794->|Clyde_Stephens|
+	 -419705->|Ray_Howell|
+	 -945276->|Irene_Weaver|
+	 -222775->|Ethan_Jennings|
+	 -987203->|Jeanette_Ramirez|
+|David_Larson|
+	 -753048->|Lily_Walton|
+	 -220445->|Ronald_Garrett|
+	 -707053->|Ricky_Bates|
+|Ronnie_Neal|
+	 -846743->|Joseph_Drake|
+	 -685696->|Lettie_Graham|
+	 -67469->|Donald_Hill|
+	 -717440->|Ronald_Garrett|
+	 -233689->|Calvin_Fletcher|
+	 -425826->|Johanna_Hubbard|
+|Bradley_Briggs|
+	 -854712->|Josephine_Bailey|
+	 -59924->|Lucille_Maxwell|
+	 -583453->|Brett_Marsh|
+	 -94881->|Derrick_Oliver|
+	 -994977->|Ada_Thomas|
+	 -57084->|Jesse_Fields|
+|Polly_Gregory|
+	 -890510->|Ina_Waters|
+	 -815015->|Brett_Marsh|
+	 -12854->|Adele_Hubbard|
+	 -749556->|Linnie_Ellis|
+	 -655356->|Lucille_Maxwell|
+|Gabriel_Davidson|
+	 -239603->|Gabriel_Wallace|
+	 -876553->|Isabella_Benson|
+|Duane_Chambers|
+	 -98862->|Nathaniel_Mathis|
+	 -18365->|Susan_Meyer|
+	 -975719->|Jack_Gill|
+	 -316829->|Jack_Green|
+|Loretta_Bowen|
+	 -202865->|Donald_Gomez|
+	 -897346->|Brandon_Craig|
+	 -525563->|Johanna_Austin|
+	 -215385->|Maggie_Davidson|
+	 -69978->|Rosie_Barnett|
+	 -24057->|Chris_Johnston|
+	 -958915->|Marc_Haynes|
+|Jon_Barnett|
+	 -858095->|Jerome_Peterson|
+	 -845106->|Aiden_Mitchell|
+	 -384891->|Justin_Keller|
+	 -561348->|Carolyn_Copeland|
+	 -955495->|Logan_Hardy|
+	 -384859->|Charles_Paul|
+	 -981672->|Stephen_Marshall|
+	 -79495->|Ernest_Waters|
+|Ophelia_Carr|
+	 -557420->|Henry_Hall|
+	 -481391->|Lucille_Maxwell|
+	 -594031->|Marian_Craig|
+	 -438749->|Willie_Larson|
+	 -769312->|Phoebe_Meyer|
+	 -210835->|Lucy_Wagner|
+	 -342415->|Lucas_Weaver|
+	 -534445->|Mamie_Burgess|
+|Josephine_Bailey|
+	 -995550->|Marcus_Salazar|
+|Minnie_Underwood|
+	 -367323->|Raymond_Meyer|
+	 -206698->|Ronald_Garrett|
+	 -153850->|Janie_Warner|
+	 -41838->|Alice_Edwards|
+	 -947444->|Eugene_Flowers|
+	 -534936->|Lola_Bass|
+	 -920966->|Gilbert_Jenkins|
+|Jeremiah_Sullivan|
+	 -235688->|Bertie_Hamilton|
+	 -681507->|Edith_Marshall|
+	 -305852->|Lola_Bass|
+	 -439335->|Marie_Delgado|
+	 -724879->|Warren_Carlson|
+	 -535070->|Hilda_Cruz|
+	 -628541->|Alan_Ryan|
+|Mamie_Gomez|
+	 -954616->|Ora_Price|
+	 -327910->|Jacob_Osborne|
+	 -134616->|Luis_Patton|
+	 -85666->|Antonio_Santiago|
+|Nancy_Olson|
+	 -618506->|Francisco_Fletcher|
+	 -431520->|Gary_Ford|
+	 -362060->|Raymond_Perez|
+	 -249111->|Harriet_Vega|
+	 -435247->|Marian_Lawson|
+	 -619993->|Virginia_Dunn|
+	 -30545->|Jeremiah_Doyle|
+|Franklin_Simpson|
+	 -459896->|Glenn_Fitzgerald|
+	 -354478->|Chester_McBride|
+	 -472601->|Glen_Lawrence|
+	 -536362->|Marion_Nunez|
+	 -116397->|Victoria_Mitchell|
+|Jay_Roy|
+	 -747947->|Aiden_Watts|
+	 -849946->|Erik_Houston|
+	 -195320->|Ronald_Collier|
+	 -239426->|Angel_Bowen|
+	 -256022->|Billy_Weber|
+|Mattie_Crawford|
+	 -384352->|Paul_Huff|
+	 -947139->|Hunter_Ramos|
+	 -25609->|Andrew_Bates|
+	 -682232->|Billy_Coleman|
+	 -696196->|Winifred_Ellis|
+	 -555645->|Ollie_Crawford|
+	 -626888->|Ronald_Harper|
+|Lillie_Morgan|
+	 -784463->|Lula_Myers|
+	 -692007->|Wesley_Jensen|
+	 -880866->|Bradley_Campbell|
+	 -622488->|Ray_Huff|
+	 -339439->|Ernest_Waters|
+|Herbert_Robinson|
+	 -847966->|Amanda_Simpson|
+	 -997527->|Bradley_Campbell|
+	 -882786->|Gilbert_Massey|
+	 -879956->|Lucille_Maxwell|
+	 -763782->|Lydia_Silva|
+|Sue_Kennedy|
+	 -315050->|Lucas_Diaz|
+	 -141652->|Erik_Houston|
+	 -893572->|Marian_Lawson|
+	 -41876->|Jay_Hines|
+	 -79268->|Johanna_Lindsey|
+	 -611125->|Lola_Blair|
+	 -446302->|Victor_Smith|
+	 -106458->|Vincent_Torres|
+|Donald_Salazar|
+	 -490912->|Oscar_Bailey|
+	 -932480->|Ricky_Bates|
+	 -302272->|Brent_Bowman|
+	 -445998->|Catherine_Vaughn|
+	 -874771->|Lucy_Cohen|
+	 -733300->|Adele_Hubbard|
+|Lottie_Rogers|
+	 -493334->|Marie_Elliott|
+	 -940075->|Kevin_Hughes|
+	 -273096->|Lily_Walton|
+	 -836572->|Stephen_Conner|
+	 -820146->|Ronnie_Greer|
+	 -365876->|Susie_Garza|
+	 -577957->|Helen_Lindsey|
+	 -720902->|Glen_Edwards|
+	 -846740->|Della_Day|
+|Isaiah_Norman|
+	 -332498->|Beatrice_Hopkins|
+	 -735293->|Fred_Hart|
+	 -164117->|Millie_Todd|
+	 -920262->|Lucas_Weaver|
+|Frances_Davis|
+	 -612567->|Emma_Martinez|
+	 -999453->|Marcus_Salazar|
+	 -551226->|Alex_Herrera|
+	 -721594->|Steve_Hamilton|
+	 -720146->|Hettie_Sandoval|
+	 -896002->|Rosie_Webster|
+|Richard_Hamilton|
+	 -981284->|Ricardo_Kelley|
+	 -89526->|Maud_Ramos|
+	 -660126->|Adrian_Roberson|
+	 -791145->|Luella_Parsons|
+	 -616874->|Alma_Boyd|
+	 -917080->|Amy_Barber|
+	 -971358->|Nora_Hudson|
+	 -179192->|Jorge_Dunn|
+	 -493926->|Mason_Ross|
+|Annie_Allen|
+	 -85550->|David_Porter|
+	 -782344->|Lucas_Diaz|
+|Marcus_Moss|
+	 -14595->|Walter_McBride|
+	 -667472->|Fanny_Simmons|
+	 -428276->|Bernice_Gross|
+	 -764479->|Isabella_Zimmerman|
+	 -947381->|Nathaniel_Walton|
+|Gertrude_Norton|
+	 -223430->|Warren_Mack|
+	 -449239->|Edith_Marshall|
+	 -50750->|Mary_Meyer|
+	 -504352->|Tommy_Briggs|
+	 -562408->|Susan_Meyer|
+	 -54487->|Catherine_Vaughn|
+	 -698287->|Gabriel_Wallace|
+|Troy_Wheeler|
+	 -881410->|Lucile_Moreno|
+	 -696732->|Sadie_Palmer|
+	 -112891->|Ora_Perry|
+	 -34410->|Isabelle_Norris|
+	 -95253->|Madge_Pena|
+|Douglas_Schwartz|
+	 -507121->|Eddie_Hodges|
+	 -115960->|Lawrence_Page|
+	 -800322->|Franklin_Anderson|
+	 -333877->|Johanna_Tran|
+	 -450978->|Marion_Parks|
+	 -866650->|Howard_Robinson|
+	 -292555->|Ollie_Crawford|
+|Charles_Paul|
+	 -399626->|Irene_Weaver|
+	 -848006->|Cody_Holland|
+	 -237982->|Mamie_Gomez|
+	 -453942->|Sally_Ingram|
+	 -365113->|Sally_Porter|
+	 -570702->|Bryan_Reyes|
+|Nathaniel_Hubbard|
+	 -366298->|Peter_Lyons|
+	 -538429->|Ida_Allen|
+	 -754726->|Addie_Nichols|
+	 -565204->|Leon_Conner|
+	 -571168->|Chad_McGee|
+	 -460913->|Dean_Olson|
+	 -482938->|Carolyn_Thomas|
+|Joshua_Floyd|
+	 -79389->|Roy_Norton|
+	 -5983->|Ronnie_Neal|
+	 -662469->|Craig_Richardson|
+	 -973080->|Nettie_Brewer|
+	 -214484->|Henry_Hall|
+	 -620948->|Scott_Neal|
+	 -202457->|Addie_Chapman|
+	 -788844->|Mamie_Gomez|
+	 -280633->|Eugenia_Ward|
+|David_Palmer|
+	 -620270->|Dora_Marshall|
+	 -998856->|Roxie_Simon|
+	 -582187->|Carolyn_Tran|
+	 -297155->|Florence_Gardner|
+	 -668972->|Rodney_Vega|
+|Evelyn_Wood|
+	 -203332->|Dean_Fields|
+	 -305170->|Kevin_Owens|
+	 -820593->|Derek_Snyder|
+	 -442965->|Lewis_Hansen|
+	 -557853->|Susan_Morrison|
+	 -541007->|Henry_Hall|
+	 -330826->|Lee_Williams|
+	 -422421->|Stephen_Marshall|
+	 -227082->|Lucy_Cohen|
+	 -458194->|Henry_Hall|
+|Hettie_Vargas|
+	 -769225->|Seth_Moore|
+	 -815538->|Ollie_Simon|
+	 -280225->|Clayton_Williams|
+	 -517099->|Herbert_Robinson|
+	 -439589->|Vera_Moran|
+	 -850499->|Rachel_Brown|
+	 -221320->|Jerome_Dawson|
+|Daniel_Bowman|
+	 -788049->|Carl_Nunez|
+	 -362688->|Jimmy_Delgado|
+	 -774107->|Wayne_McGuire|
+	 -61508->|Rachel_Tucker|
+	 -759082->|Dennis_Ortega|
+	 -769651->|Jonathan_Shaw|
+	 -220387->|Leonard_Reeves|
+	 -461320->|Elnora_Fowler|
+|Evelyn_Fitzgerald|
+	 -237437->|Evelyn_Brock|
+	 -656732->|Martha_McCarthy|
+	 -351345->|Steve_Dennis|
+	 -319891->|Nora_Hudson|
+	 -758202->|Cynthia_Holmes|
+	 -772946->|Logan_Colon|
+	 -267899->|Justin_Keller|
+|Marguerite_Weaver|
+	 -888493->|Richard_Warren|
+	 -202202->|Ellen_Byrd|
+	 -596809->|Ellen_Nichols|
+	 -400553->|Marian_Wilkins|
+	 -930090->|Keith_Beck|
+|Myra_Turner|
+	 -300361->|Hilda_Cruz|
+	 -615709->|Tommy_Briggs|
+	 -710087->|Chester_Cooper|
+|Vera_Ford|
+	 -109704->|Mittie_Allen|
+	 -554532->|Todd_Park|
+	 -949510->|Troy_Luna|
+	 -300433->|Allen_Santos|
+	 -210452->|David_Porter|
+|Bertha_May|
+	 -329190->|Josephine_Bailey|
+	 -870->|Dean_Fields|
+	 -43698->|Lottie_Maldonado|
+	 -801190->|Clifford_Garcia|
+	 -119088->|Harvey_Francis|
+	 -528360->|Aiden_Mitchell|
+	 -103428->|Mabel_Williams|
+|Randy_Armstrong|
+	 -720215->|Rosie_Jensen|
+	 -48712->|Jessie_Boyd|
+	 -678538->|Emma_Fields|
+	 -583839->|Bryan_Reyes|
+	 -121929->|Stella_Stone|
+	 -871566->|Harriett_Graves|
+	 -676742->|Millie_Cox|
+|Mabelle_Bryan|
+	 -589811->|Florence_Riley|
+	 -781900->|Chris_Wood|
+	 -810293->|Isabel_Maldonado|
+	 -439880->|Ricardo_Moss|
+	 -897378->|Jeff_Moran|
+	 -937568->|Allie_Phillips|
+	 -383651->|Agnes_Holt|
+	 -69893->|Gavin_Cox|
+	 -255006->|Rose_Adams|
+	 -716444->|Addie_Miles|
+|Ryan_Medina|
+	 -927636->|Carl_Kim|
+	 -912883->|Addie_Miles|
+	 -293841->|Troy_Wheeler|
+	 -525500->|Myrtie_Roberts|
+|Melvin_Murphy|
+	 -492214->|Irene_Alvarado|
+	 -593154->|Agnes_Holt|
+	 -815270->|Delia_Schwartz|
+	 -285546->|Minerva_Casey|
+	 -904543->|Jared_Fernandez|
+	 -195861->|Dominic_Ellis|
+|Betty_Brock|
+	 -812254->|Jean_Bowman|
+	 -410059->|Erik_Houston|
+|Mable_Banks|
+	 -222562->|Millie_Herrera|
+	 -178515->|Thomas_Hodges|
+	 -620303->|Marcus_Salazar|
+	 -221784->|Cora_Ross|
+	 -787887->|Margaret_Yates|
+	 -246914->|Nora_Ray|
+|Craig_Richardson|
+	 -456733->|Marie_Carroll|
+	 -995009->|Shawn_Tyler|
+	 -230294->|Landon_Hudson|
+	 -494706->|Sue_Ferguson|
+	 -981437->|Georgie_Jenkins|
+	 -549350->|Dollie_Burton|
+|Bradley_Collier|
+	 -162868->|Herbert_Robinson|
+	 -703940->|Bradley_Collier|
+	 -150865->|Millie_Summers|
+	 -623560->|Paul_Huff|
+	 -798139->|Martha_Bates|
+	 -864034->|Cordelia_Walsh|
+|Leon_Chambers|
+	 -93558->|Hulda_Zimmerman|
+	 -594059->|Derrick_Oliver|
+|Gilbert_Gibbs|
+	 -235909->|Elmer_Pierce|
+	 -70370->|Stanley_Horton|
+	 -262708->|Jason_Hubbard|
+	 -311232->|Rachel_Perry|
+	 -348721->|Jay_Parsons|
+	 -292630->|Christian_Love|
+|Tom_Fletcher|
+	 -562159->|Oscar_Bailey|
+	 -772597->|Norman_Henry|
+	 -79420->|Chad_Dawson|
+|Hettie_Sandoval|
+	 -127264->|Jesus_Cox|
+	 -516032->|Howard_Robinson|
+	 -912871->|Dale_Bennett|
+	 -712733->|Elmer_Pierce|
+	 -780697->|David_Sanders|
+	 -302061->|Ernest_Evans|
+|Leila_Ramsey|
+	 -620809->|Luella_Wallace|
+	 -686343->|Gene_Floyd|
+	 -624789->|Duane_Chambers|
+	 -407285->|Henry_Boone|
+|Carolyn_Tran|
+	 -120733->|Barbara_Henderson|
+	 -643431->|Harry_Park|
+	 -271069->|Marie_Holt|
+	 -652629->|Ricky_Gonzalez|
+|Cora_Ross|
+	 -674751->|Keith_Beck|
+	 -43593->|Duane_Newton|
+	 -904554->|Virginia_Bass|
+	 -480599->|Sara_Jacobs|
+	 -656150->|Harriet_Vega|
+	 -584753->|Pearl_George|
+	 -633509->|Willie_Jennings|
+	 -394686->|Billy_Coleman|
+|Jonathan_Hampton|
+	 -767760->|Rachel_Perry|
+	 -792685->|Adele_Ramos|
+	 -736628->|Eliza_Brewer|
+	 -55096->|Vincent_Obrien|
+	 -807458->|Emma_Fields|
+	 -960228->|Gertrude_Norton|
+	 -509560->|Hulda_Torres|
+	 -414278->|Amy_Summers|
+|Patrick_Harmon|
+	 -701488->|Corey_Chandler|
+	 -453542->|Nelle_Long|
+	 -378399->|Bettie_Keller|
+	 -716315->|Dennis_Ortega|
+	 -489881->|Warren_Carlson|
+	 -992408->|Winifred_Green|
+|Amy_Ingram|
+	 -588560->|Addie_Chapman|
+|Norman_Stone|
+	 -961564->|Lucy_Cohen|
+	 -910296->|Fanny_Watkins|
+	 -968126->|Ola_Schultz|
+	 -868910->|Ida_Kelly|
+	 -145962->|Bernard_Medina|
+|Ronald_Flores|
+	 -830610->|Larry_Norton|
+	 -972505->|Douglas_Schwartz|
+|Ina_Price|
+	 -461524->|Gavin_Cox|
+	 -768650->|Evelyn_Wood|
+	 -574948->|Cecelia_Sullivan|
+	 -78870->|Seth_Wright|
+|Martin_Scott|
+	 -380315->|Ida_Guzman|
+	 -678828->|Mattie_Crawford|
+	 -137258->|Marion_Klein|
+	 -757762->|Adeline_Herrera|
+	 -204687->|Clyde_Hudson|
+	 -943904->|Bessie_Glover|
+|Marvin_Henderson|
+	 -669488->|Nannie_Garza|
+	 -716518->|Loretta_Flowers|
+	 -295->|Beatrice_Reid|
+	 -618772->|Brett_Marsh|
+|Jeffery_Adkins|
+	 -805081->|Luke_Gilbert|
+|Steve_Dennis|
+	 -829479->|Amelia_Chandler|
+	 -981623->|Sally_Ingram|
+|Miguel_Guerrero|
+	 -2979->|Alice_Greene|
+	 -818993->|Terry_Reeves|
+	 -666622->|Verna_Ray|
+|Augusta_Douglas|
+	 -430967->|Elnora_Pratt|
+	 -920444->|Lottie_Hunt|
+	 -60317->|Martha_Bates|
+|Gabriel_Ellis|
+	 -334078->|Kenneth_Norris|
+	 -770147->|Duane_Bowers|
+	 -546622->|Isaiah_Wilkins|
+	 -618167->|Jennie_Howard|
+|Harry_Park|
+	 -501242->|Mason_Nunez|
+	 -607149->|Ray_Howell|
+|Marcus_Hayes|
+	 -470133->|Ellen_Nichols|
+	 -69010->|Wayne_McGuire|
+	 -611948->|Glen_Lawrence|
+	 -910496->|Sue_Kennedy|
+	 -715211->|Alexander_Joseph|
+|Olive_Pena|
+	 -555231->|Leo_Sullivan|
+	 -663136->|Derrick_Oliver|
+	 -807509->|Lucille_Maxwell|
+	 -173402->|Harriett_Mendez|
+|Henry_Hall|
+	 -739339->|Margaret_Jenkins|
+	 -697608->|Adeline_Allison|
+	 -344414->|Clayton_Dean|
+	 -238854->|Arthur_Wade|
+|Barry_Hughes|
+	 -221520->|Randy_Armstrong|
+	 -680536->|Henrietta_Vega|
+|Victoria_Gibson|
+	 -769170->|Erik_Houston|
+	 -98929->|Ophelia_Dixon|
+	 -760995->|Joel_Summers|
+	 -456892->|Grace_Schultz|
+	 -445379->|Sue_Kennedy|
+	 -931161->|Marguerite_Weaver|
+	 -373887->|Fred_Gray|
+	 -508368->|Tillie_Welch|
+|Jay_Long|
+	 -678911->|Rodney_Fletcher|
+	 -95575->|Randy_Paul|
+	 -458314->|Hester_Schultz|
+|Kenneth_Norris|
+	 -109598->|Lou_Grant|
+	 -601781->|Hattie_May|
+	 -507469->|Cora_Shelton|
+	 -114256->|Brett_Marsh|
+|Brent_Potter|
+	 -911648->|Larry_Norton|
+	 -561041->|Caroline_Coleman|
+	 -648870->|Lucy_Wagner|
+	 -951269->|Mamie_Simmons|
+	 -267490->|Julian_Gray|
+	 -561682->|Raymond_Thomas|
+|Dean_Olson|
+	 -954973->|Nettie_Brewer|
+	 -915276->|Isabella_Howard|
+	 -645568->|Callie_Brock|
+	 -507405->|Anthony_Anderson|
+	 -840685->|Marian_Oliver|
+	 -163068->|Tillie_Norris|
+	 -774131->|Beulah_Alvarez|
+	 -566767->|Stephen_Gray|
+	 -801821->|Marian_Morgan|
+	 -336730->|Jonathan_Brady|
+|Millie_Todd|
+	 -921342->|Henrietta_Vega|
+	 -936273->|Jeffery_Francis|
+	 -73421->|Carlos_Jacobs|
+	 -467155->|Mayme_Hogan|
+	 -361037->|Carrie_McKenzie|
+	 -824616->|Rosetta_Parsons|
+	 -404335->|Jay_Parsons|
+	 -167061->|Cecelia_Cook|
+	 -982972->|Lora_Guzman|
+|Victoria_Mitchell|
+	 -190186->|Mabelle_Bryan|
+	 -731835->|John_Lopez|
+	 -24611->|Theresa_Nguyen|
+|Georgia_Bridges|
+	 -198836->|Leah_McKenzie|
+	 -146888->|Marian_Wilkins|
+	 -532701->|Gordon_Palmer|
+	 -461473->|George_Matthews|
+	 -261161->|Roxie_Day|
+	 -447976->|Zachary_Parks|
+|Irene_Alvarado|
+	 -57672->|Beatrice_Hopkins|
+	 -689217->|Roxie_Simon|
+|Ricardo_Benson|
+	 -662201->|Myra_Burke|
+	 -265747->|Jay_Roy|
+	 -599366->|Isaiah_Norman|
+	 -584870->|Erik_Houston|
+	 -917568->|Leo_Gibson|
+	 -945104->|Samuel_Pittman|
+|Andrew_Bennett|
+	 -46398->|Rodney_Vega|
+	 -151519->|Billy_Weber|
+	 -409211->|Justin_Horton|
+	 -720555->|Harry_Franklin|
+	 -357215->|Marian_Lawson|
+	 -329918->|Paul_Huff|
+	 -61000->|Darrell_Nguyen|
+|Devin_Keller|
+	 -707438->|Bettie_Collins|
+	 -196666->|Wayne_McGuire|
+	 -113721->|Cordelia_Burke|
+	 -739728->|Dean_Fields|
+	 -267334->|William_Ramsey|
+	 -864207->|Viola_Cruz|
+	 -169669->|Walter_McBride|
+	 -69029->|Josephine_Williamson|
+	 -969251->|Allen_Santos|
+|Ruby_George|
+	 -311165->|Harry_Black|
+	 -802254->|Nelle_Harper|
+	 -675705->|Cecilia_Delgado|
+	 -242139->|Floyd_McCarthy|
+	 -723621->|Jesus_Garcia|
+	 -347042->|Lilly_Sandoval|
+	 -704252->|Tommy_Wilson|
+|Troy_Luna|
+	 -489926->|Callie_Nelson|
+	 -953900->|Alice_Edwards|
+	 -210945->|Clayton_Williams|
+	 -167691->|Logan_Parker|
+	 -186015->|Charles_Paul|
+|Cora_Shelton|
+	 -974459->|Marian_Lawson|
+	 -539738->|Frances_Davis|
+	 -32388->|Marcus_Hayes|
+	 -347643->|Georgie_Wade|
+	 -500838->|Rose_Adams|
+|Johnny_Barber|
+	 -772243->|Franklin_Anderson|
+	 -816413->|Francis_Curtis|
+	 -598895->|Maggie_Davidson|
+	 -189305->|Brent_Potter|
+	 -469486->|Terry_Smith|
+|Jimmy_Delgado|
+	 -405693->|Charles_Parker|
+	 -579048->|Bill_Burke|
+	 -6109->|John_Kennedy|
+	 -985671->|Elmer_Pierce|
+	 -782979->|Nell_McCoy|
+	 -518353->|Evan_Kennedy|
+	 -433802->|Rhoda_Webb|
+	 -926504->|Vernon_Cannon|
+	 -873203->|Augusta_Nelson|
+	 -335048->|Emilie_Soto|
+	 -822398->|Virgie_Walsh|
+	 -502890->|Sallie_Schwartz|
+	 -639897->|Myrtle_Summers|
+|Ora_Hampton|
+	 -289087->|Hilda_Greene|
+	 -951409->|Keith_Vasquez|
+|Jerome_Wise|
+	 -588249->|Jimmy_Delgado|
+	 -975575->|Sara_Simmons|
+	 -750611->|Jeffery_Francis|
+	 -667192->|Lola_Bowman|
+	 -909752->|Herman_Drake|
+|Jack_Gill|
+	 -995759->|Max_Boone|
+	 -93200->|Beulah_Alvarez|
+	 -721621->|Fred_Gray|
+	 -701519->|Verna_Ray|
+	 -917255->|Madge_Jimenez|
+	 -817669->|Franklin_Anderson|
+	 -325582->|Dennis_Gross|
+|Harry_Franklin|
+	 -93113->|Myrtle_Foster|
+	 -248554->|Ernest_Waters|
+|Cameron_Griffin|
+	 -498597->|Ora_Lane|
+|Amy_Barber|
+	 -824959->|Nancy_McLaughlin|
+	 -866226->|Glen_Edwards|
+	 -631559->|Christopher_Warren|
+|Theresa_Nguyen|
+	 -197269->|Alexander_Joseph|
+	 -337239->|Loretta_Flowers|
+	 -472388->|Dorothy_Mendoza|
+	 -130397->|Roy_Mendoza|
+|Harriet_Vega|
+	 -210772->|Verna_Ray|
+	 -995142->|Sean_Poole|
+	 -59782->|Catherine_Vaughn|
+	 -953494->|Eula_Mack|
+	 -497955->|Nora_Rice|
+|Georgia_Hernandez|
+	 -180400->|Johnny_Mack|
+|Francisco_Bowen|
+	 -926609->|Rosie_Castillo|
+	 -492843->|Bertha_Hicks|
+	 -31693->|Carlos_Jacobs|
+	 -983483->|Inez_Hanson|
+	 -68139->|Nellie_Fitzgerald|
+	 -783792->|Glenn_Anderson|
+|Viola_Griffin|
+	 -391381->|Susan_Meyer|
+	 -970421->|Raymond_Perez|
+	 -370414->|Minerva_Casey|
+	 -91882->|Landon_Hudson|
+	 -782454->|Elnora_King|
+	 -639184->|Sara_Simmons|
+	 -85749->|Sara_Huff|
+|Helena_Carson|
+	 -661184->|Mario_Conner|
+	 -846015->|Matthew_Hunt|
+	 -95720->|Gabriel_Ellis|
+|David_Higgins|
+	 -716175->|Cody_Francis|
+	 -600079->|Lina_Green|
+	 -26860->|Ian_Clark|
+|Bryan_Reyes|
+	 -309194->|Nancy_Sandoval|
+	 -579231->|Mae_Becker|
+	 -989342->|Winifred_Green|
+	 -684437->|Donald_Gomez|
+	 -74803->|Marvin_Henderson|
+	 -799992->|Barbara_Henderson|
+	 -788810->|Terry_Smith|
+	 -842222->|Mittie_Allen|
+	 -70886->|Hester_Schultz|
+|Jonathan_Morris|
+	 -644924->|Ernest_Evans|
+	 -964372->|Jane_Murphy|
+	 -328564->|Johnny_Mack|
+	 -759133->|Alice_Carlson|
+	 -149565->|Marian_Craig|
+	 -468696->|Kenneth_Poole|
+	 -130625->|Ronnie_Neal|
+|Mamie_Burgess|
+	 -733178->|Lee_Williams|
+	 -879930->|Irene_Goodman|
+	 -444180->|Logan_Hardy|
+	 -566840->|Myrtie_Roberts|
+|Olga_Lamb|
+	 -472906->|Lillian_Coleman|
+	 -325175->|Jim_Johnston|
+|Abbie_Fleming|
+	 -511993->|Ethan_Jennings|
+	 -7625->|Winifred_Green|
+|Martha_McCarthy|
+	 -529708->|Annie_Allen|
+	 -804631->|Jimmy_Delgado|
+	 -828054->|Dylan_Brown|
+	 -563319->|Etta_Norman|
+	 -426772->|Lettie_Carroll|
+	 -942608->|Mike_Gibbs|
+|Minerva_Casey|
+	 -699159->|Florence_Bennett|
+	 -365668->|Florence_Bennett|
+	 -795217->|Melvin_Newton|
+|Chad_McGee|
+	 -742915->|Vincent_Brooks|
+	 -743435->|Etta_Norman|
+|Adam_Porter|
+	 -142418->|Ola_Schultz|
+	 -674227->|Roy_Norton|
+	 -632648->|Jeremiah_Sullivan|
+|Ricky_Bates|
+	 -283163->|Lester_Knight|
+	 -262254->|Mario_Conner|
+	 -245724->|Mollie_Potter|
+	 -319434->|Carrie_Russell|
+	 -160755->|Christina_Hart|
+	 -528002->|Lula_Nguyen|
+	 -466985->|Bertie_Hamilton|
+	 -513234->|Melvin_Greene|
+|Della_Day|
+	 -471964->|Jacob_Osborne|
+	 -510613->|Myrtle_Foster|
+|Gavin_Cox|
+	 -703034->|Dorothy_Wong|
+	 -498893->|Mathilda_Little|
+	 -197263->|Mable_Frazier|
+	 -772109->|Milton_Hudson|
+|Corey_Chandler|
+	 -615285->|Floyd_McCarthy|
+	 -173712->|Patrick_Harmon|
+	 -869608->|Linnie_Ellis|
+|Ola_Schultz|
+	 -96774->|Lola_Bass|
+	 -975655->|Rosa_Austin|
+	 -496225->|Ophelia_Carr|
+	 -229614->|Carrie_Russell|
+|Victoria_Hammond|
+	 -317250->|Marcus_Barrett|
+	 -865324->|Victoria_Jordan|
+	 -382827->|Lucinda_Reyes|
+	 -319633->|Leila_Ramsey|
+	 -215340->|Lou_Grant|
+|Max_Craig|
+	 -214949->|Cecelia_Sullivan|
+	 -637127->|Stella_Ballard|
+	 -71093->|Ollie_Blake|
+	 -679414->|Lora_Guzman|
+	 -1456->|Winifred_Green|
+	 -974891->|Wayne_Stokes|
+|Glenn_Mack|
+	 -931593->|Herman_Drake|
+	 -879335->|Addie_Miles|
+	 -1708->|Corey_Chandler|
+|Ida_Allen|
+	 -173664->|Patrick_Harmon|
+	 -504988->|Hulda_Zimmerman|
+	 -867360->|Julia_Spencer|
+	 -130919->|Glenn_Fitzgerald|
+	 -696700->|Isaiah_Wilkins|
+	 -80234->|Hannah_Brown|
+|Verna_Duncan|
+	 -441320->|Amy_Summers|
+	 -616982->|Susie_Carroll|
+	 -561064->|Jayden_Day|
+	 -572630->|Bernice_Gross|
+	 -996416->|Carolyn_Copeland|
+	 -24516->|Gilbert_Massey|
+	 -584418->|Marie_McDaniel|
+|William_Ramsey|
+	 -473339->|Jacob_Bailey|
+	 -659611->|Gene_Vega|
+	 -330463->|Carl_Kim|
+|Joel_Summers|
+	 -128566->|Steven_George|
+	 -257074->|Essie_Cruz|
+	 -145601->|Augusta_Bradley|
+	 -1438->|Bessie_Glover|
+|Millie_Armstrong|
+	 -619024->|Rosie_Barnett|
+	 -996216->|Marion_Beck|
+	 -449616->|Susan_Morrison|
+	 -725381->|Seth_Wright|
+	 -822796->|Lizzie_Carter|
+	 -681954->|Herbert_Lynch|
+|Violet_Larson|
+	 -977934->|Timothy_Cox|
+	 -368745->|Jean_Dixon|
+	 -865083->|Alice_Edwards|
+	 -478074->|Emma_Fields|
+	 -247566->|Duane_Newton|
+	 -997382->|Fannie_Nelson|
+	 -344312->|Florence_Sutton|
+	 -638036->|Miguel_Guerrero|
+|Mike_Gibbs|
+	 -59306->|Georgia_Bridges|
+	 -401346->|Ann_Pope|
+	 -547453->|Ruby_Holland|
+	 -143421->|Corey_Chandler|
+	 -652239->|Rachel_Brown|
+|Jeff_Moran|
+	 -306505->|Derek_Snyder|
+	 -550902->|Luis_Malone|
+	 -773249->|Della_Day|
+	 -951590->|Pearl_Dunn|
+|Winifred_Ellis|
+	 -458288->|Marcus_Park|
+	 -130721->|Susie_McCormick|
+	 -380058->|Cordelia_Burke|
+	 -936450->|Nathaniel_Hubbard|
+	 -329629->|Raymond_Thomas|
+|Glen_Lawrence|
+	 -510641->|Victoria_Hammond|
+	 -919016->|Marian_Oliver|
+	 -736012->|Bill_Burke|
+	 -109253->|Beulah_Dean|
+|Fred_Gray|
+	 -571724->|Callie_Wise|
+	 -297228->|Lucinda_Reyes|
+	 -132107->|Lula_Myers|
+	 -297217->|Angel_Erickson|
+|Lucile_Barnes|
+	 -93442->|Madge_Pena|
+	 -354541->|Owen_Mann|
+	 -424518->|Sue_Chambers|
+	 -582099->|Phoebe_Meyer|
+|Lawrence_Gilbert|
+	 -233933->|Willie_Jennings|
+	 -496407->|Ollie_Blake|
+	 -428069->|Eliza_Burgess|
+|Ella_Garrett|
+	 -302397->|Callie_Brock|
+	 -935320->|Beatrice_Logan|
+	 -959865->|Marcus_Salazar|
+	 -879292->|Clayton_Williams|
+	 -968763->|Aiden_Nguyen|
+|Dylan_Brown|
+	 -469167->|Willie_Jennings|
+	 -284014->|Nicholas_Henry|
+	 -22697->|Winnie_Sutton|
+	 -422953->|Kevin_Hughes|
+	 -33173->|Bill_Berry|
+|Julian_Gray|
+	 -493551->|Marian_Morgan|
+	 -966779->|Norman_Walker|
+	 -582264->|Polly_Gregory|
+	 -417014->|Zachary_Duncan|
+|Alma_Boyd|
+	 -325785->|Linnie_Ellis|
+	 -234742->|Owen_Hart|
+	 -738456->|Mary_Meyer|
+	 -980617->|Mamie_Simmons|
+	 -24654->|Gene_Floyd|
+	 -342734->|Adam_Porter|
+	 -839555->|Susan_Meyer|
+|Nettie_Brewer|
+	 -295559->|Mary_Meyer|
+	 -34724->|Vincent_Torres|
+	 -270407->|Justin_Horton|
+	 -907997->|Irene_Weaver|
+	 -654358->|Lester_Knight|
+	 -349144->|Rosalie_Mitchell|
+|Joe_Berry|
+	 -383324->|Marie_McDaniel|
+	 -816051->|Cecelia_Cook|
+	 -808021->|Pearl_Dunn|
+	 -931647->|Annie_Jones|
+	 -477057->|Dean_Olson|
+|Abbie_Hawkins|
+	 -726266->|Melvin_Newton|
+|Joel_McKenzie|
+	 -646188->|Jay_Hines|
+	 -155241->|Susie_McCormick|
+	 -747832->|Eugenia_Huff|
+	 -822647->|Leona_Lawrence|
+	 -260864->|Edith_Marshall|
+	 -892285->|Irene_Goodman|
+	 -42007->|Leonard_Bush|
+	 -211080->|Tom_Fletcher|
+|Ada_Thomas|
+	 -77393->|Derrick_Oliver|
+	 -314960->|Kenneth_Marsh|
+	 -99655->|Jayden_Estrada|
+|Randy_Adams|
+	 -614319->|Ophelia_Atkins|
+	 -173358->|Ora_Perry|
+	 -469172->|Timothy_Cox|
+	 -62851->|Marian_Oliver|
+	 -386276->|Francisco_Fletcher|
+|Marcus_Park|
+	 -563831->|Emilie_Soto|
+	 -413486->|Ricardo_Hopkins|
+	 -643133->|Willie_Jordan|
+|Frances_Walker|
+	 -691071->|Pauline_Kim|
+|Charlotte_Gill|
+	 -388227->|Bertha_Hicks|
+	 -598624->|Harold_Nash|
+	 -841547->|Dominic_Ellis|
+	 -615243->|Vera_Moran|
+|Kenneth_Marsh|
+	 -24203->|Jennie_Howard|
+	 -195776->|Rosalie_Mitchell|
+	 -915293->|Max_Craig|
+	 -600008->|Viola_Cruz|
+	 -456590->|Lizzie_Carter|
+	 -121629->|Barbara_Henderson|
+	 -646613->|Sally_Ingram|
+	 -93959->|Clyde_Cook|
+	 -57626->|Jacob_Bailey|
+	 -167259->|Evan_Kennedy|
+|Marion_Perkins|
+	 -145329->|Minnie_Underwood|
+	 -467046->|Bernard_Medina|
+	 -979020->|Gabriel_Ellis|
+	 -51577->|Johanna_Lindsey|
+|Chad_Dawson|
+	 -590387->|Leo_Burton|
+	 -660564->|Edith_Edwards|
+|Herbert_Tran|
+	 -605981->|Abbie_Hawkins|
+	 -628779->|Stella_Robinson|
+	 -446072->|Adelaide_Hernandez|
+	 -825499->|Stephen_Goodman|
+	 -844679->|Bertie_Gray|
+	 -778273->|Ruby_George|
+	 -468794->|Dora_Williamson|
+|Margaret_Jenkins|
+	 -587942->|Nancy_McLaughlin|
+	 -483407->|Bettie_Collins|
+	 -32583->|Leroy_Arnold|
+	 -179418->|Verna_Bishop|
+	 -679755->|William_Ramsey|
+	 -450892->|Johanna_Lindsey|
+	 -675736->|Duane_Aguilar|
+	 -523155->|Louisa_Roy|
+|Lura_Garner|
+	 -27305->|Vera_Ford|
+	 -432281->|Myrtle_Foster|
+	 -209149->|Ernest_Waters|
+	 -888051->|Anne_Abbott|
+	 -62425->|Isabella_Maldonado|
+	 -555356->|Daniel_Gibbs|
+	 -781080->|Ellen_Byrd|
+	 -330211->|Victor_Summers|
+	 -142596->|Terry_Smith|
+|Joshua_Malone|
+	 -823356->|Marion_Parks|
+	 -747891->|Jonathan_Shaw|
+	 -558583->|Mollie_Potter|
+	 -773175->|Jeremiah_Sullivan|
+|Cody_Mendez|
+	 -270878->|Pearl_George|
+	 -444994->|Patrick_Harmon|
+	 -765014->|Cameron_Curry|
+	 -904003->|Emilie_Horton|
+	 -525148->|Ronald_Garrett|
+|Susie_Carroll|
+	 -492563->|Lester_Knight|
+	 -446883->|Lettie_Graham|
+	 -64794->|Aiden_Watts|
+	 -485801->|Clifford_Vasquez|
+|Lena_Townsend|
+	 -965597->|Ina_Waters|
+	 -670923->|Anthony_Gilbert|
+|Wayne_Stokes|
+	 -32300->|Terry_Reeves|
+|Addie_Nichols|
+	 -609274->|Jordan_George|
+	 -65701->|Herbert_Robinson|
+	 -878465->|Jonathan_Shaw|
+	 -153507->|Phoebe_Meyer|
+	 -481051->|Myrtle_Summers|
+	 -478998->|Emma_Martinez|
+|Marion_Nunez|
+	 -664969->|Ida_Kelly|
+	 -163022->|Elnora_Pratt|
+|Luella_Wallace|
+|Alice_Underwood|
+	 -476650->|Mamie_Burgess|
+	 -90727->|Loretta_Flowers|
+	 -442499->|Mark_Simpson|
+	 -903210->|Ophelia_Carr|
+	 -220882->|Charlie_Howell|
+|Vincent_Torres|
+	 -267455->|David_Sanders|
+	 -533237->|Chester_Foster|
+	 -206887->|Francisco_Fletcher|
+	 -476212->|Ollie_Simon|
+	 -27435->|Brett_Marsh|
+	 -508850->|Richard_Warren|
+	 -723711->|Ina_Price|
+	 -940734->|Marcus_Salazar|
+	 -514122->|Fannie_McLaughlin|
+|Inez_Hanson|
+	 -425951->|Mabel_Williams|
+	 -996456->|Glen_Edwards|
+	 -346984->|Mario_Conner|
+	 -728167->|Adam_Caldwell|
+	 -771822->|Ryan_Medina|
+	 -262512->|Nathaniel_Gilbert|
+|Bettie_Curry|
+	 -373664->|Amanda_Simpson|
+	 -431->|Roy_Cobb|
+	 -780564->|Nicholas_Henry|
+	 -982339->|Adeline_Hammond|
+	 -47244->|Jorge_Douglas|
+	 -515956->|Carlos_Warren|
+	 -901121->|Oscar_Austin|
+|Jacob_Bailey|
+	 -154286->|John_Lopez|
+	 -931020->|Harriett_Mendez|
+|Jose_Blair|
+	 -544794->|Logan_Parker|
+	 -99271->|Ruby_Holland|
+	 -823912->|Georgie_Wade|
+	 -860831->|Corey_Chandler|
+|Viola_Cruz|
+	 -449629->|Amy_Ingram|
+	 -971023->|Jacob_Bailey|
+	 -881251->|Sara_Jacobs|
+	 -104065->|Bettie_Curry|
+	 -978901->|Bryan_Reyes|
+	 -426106->|Nicholas_Pearson|
+|Edith_Marshall|
+	 -118232->|Erik_Rios|
+	 -218275->|Marie_Simpson|
+	 -293279->|Clyde_Cook|
+	 -869615->|Vincent_Obrien|
+|Lelia_Rodgers|
+	 -739450->|Erik_Houston|
+	 -691715->|Nellie_Ramsey|
+	 -487373->|Jesus_Cox|
+|Ernest_Waters|
+	 -645439->|Nora_Moss|
+	 -439055->|Helena_Carson|
+	 -941716->|Rachel_Perry|
+	 -326054->|Nora_Lawrence|
+|Evelyn_Brock|
+	 -664493->|Howard_Robinson|
+	 -725092->|Bryan_Reyes|
+	 -263496->|Herbert_Mann|
+	 -177362->|Isaac_Berry|
+	 -299977->|Donald_Salazar|
+|Lily_Walton|
+	 -513563->|Irene_Goodman|
+	 -979395->|Ellen_Byrd|
+	 -945212->|Nathaniel_Mathis|
+	 -323162->|Olive_Pena|
+|Emily_Parker|
+	 -842450->|Jesse_Newton|
+	 -598952->|Chris_Reid|
+	 -332577->|Bettie_Keller|
+	 -996075->|Bernard_Medina|
+|Christian_Love|
+	 -908702->|Dean_Olson|
+	 -827895->|Addie_Chapman|
+	 -890629->|Abbie_Hawkins|
+	 -563468->|Della_Cobb|
+	 -956615->|Adrian_Stewart|
+	 -385816->|Christine_Holland|
+	 -896459->|Nora_Lawrence|
+|Ann_Sharp|
+	 -652514->|Marion_Perkins|
+	 -221554->|Mabel_Williams|
+	 -505379->|Harry_Park|
+	 -917854->|Jacob_Osborne|
+	 -54139->|Floyd_Tucker|
+	 -159489->|Gene_Floyd|
+|Evan_Kennedy|
+	 -235490->|Helen_Lindsey|
+	 -958225->|Minnie_Underwood|
+	 -242370->|Lillie_Morgan|
+|Gordon_Palmer|
+	 -511760->|Arthur_Wade|
+	 -842659->|Lucinda_Reyes|
+	 -886872->|Marie_Delgado|
+	 -659835->|Hester_Abbott|
+	 -790289->|Mittie_Norton|
+	 -686865->|Ora_Hampton|
+	 -177786->|Carlos_Jacobs|
+	 -677034->|Ellen_Nichols|
+	 -406771->|Mason_Nunez|
+	 -905645->|Beatrice_Hopkins|
+|Violet_Montgomery|
+	 -880187->|Emilie_Horton|
+	 -952054->|Harriett_Graves|
+	 -602648->|Alexander_Joseph|
+	 -273237->|Beatrice_Hopkins|
+|Adeline_Herrera|
+	 -744877->|Isabella_Maldonado|
+	 -609736->|Corey_Chandler|
+	 -205532->|Richard_Warren|
+|Bertha_Yates|
+	 -262693->|Jonathan_Shaw|
+	 -392177->|Evelyn_Brock|
+	 -487882->|Jeremiah_Doyle|
+	 -218462->|Carl_Leonard|
+	 -436757->|Alexander_Joseph|
+|Tillie_Welch|
+	 -331405->|Willie_Jennings|
+	 -225389->|Eula_Mack|
+	 -352734->|Devin_Foster|
+	 -35029->|Bessie_Glover|
+	 -37455->|Andrew_Bates|
+	 -553248->|Olive_Pena|
+|Della_Cobb|
+	 -845475->|Cynthia_Holmes|
+	 -599946->|Minerva_Casey|
+	 -90627->|Mittie_Allen|
+	 -675258->|Ophelia_Dixon|
+|Richard_Warren|
+	 -738841->|Amy_Barber|
+	 -892242->|David_Palmer|
+	 -418476->|Marian_Lawson|
+	 -459248->|Adam_Adams|
+	 -218278->|Derek_Benson|
+	 -691124->|Johnny_Mack|
+|Carl_Leonard|
+	 -917510->|Mabelle_Bryan|
+	 -623141->|Joshua_Owen|
+	 -614518->|Anne_Matthews|
+	 -633947->|Susan_Yates|
+|Delia_Schwartz|
+	 -328137->|Ora_Hampton|
+	 -779014->|David_Sanders|
+	 -702836->|Danny_Gordon|
+	 -119611->|Lura_Garner|
+	 -262305->|Rosetta_Parsons|
+	 -17193->|Edward_Vasquez|
+|Nora_Moss|
+	 -41871->|Nancy_Sandoval|
+	 -355640->|Steven_George|
+	 -874327->|Ronald_Flores|
+	 -870020->|Elmer_Pierce|
+|Christopher_Colon|
+	 -159618->|Leona_Lawrence|
+	 -340268->|Evelyn_Brock|
+	 -75657->|John_Kennedy|
+	 -725100->|Matthew_Hunt|
+|Isabella_Howard|
+	 -602875->|Scott_Neal|
+	 -688477->|Etta_Sanchez|
+	 -774928->|Ernest_Waters|
+|Susan_Meyer|
+	 -921801->|Amy_Summers|
+	 -634248->|Ollie_Blake|
+|Cecelia_Cook|
+	 -428681->|Lottie_Hunt|
+	 -730909->|Elnora_King|
+	 -946391->|Leah_McKenzie|
+	 -232487->|Chris_Henderson|
+	 -233585->|Nora_Hughes|
+|Jean_Wood|
+	 -881494->|David_Frazier|
+	 -256637->|Shawn_Ford|
+	 -111192->|Erik_Rios|
+	 -347241->|Clifford_Vasquez|
+|Amy_Summers|
+	 -140895->|Inez_Johnston|
+	 -395907->|Lucinda_Reyes|
+	 -956367->|Sally_Ingram|
+	 -520869->|Ethan_Norton|
+|Christina_Wilkerson|
+	 -721256->|Sara_Jacobs|
+	 -266712->|Andrew_Johnson|
+	 -234497->|Jesse_Newton|
+	 -141103->|Annie_Benson|
+	 -836557->|Alice_Cruz|
+	 -761339->|Etta_Norman|
+|Bobby_Rodgers|
+	 -961838->|Jonathan_Hampton|
+	 -31079->|Lina_Bennett|
+	 -168483->|Richard_Hamilton|
+	 -361434->|Grace_Schultz|
+|Gordon_Robinson|
+	 -836245->|Violet_Larson|
+	 -534887->|Ronnie_Greer|
+	 -98575->|Allen_Alvarez|
+	 -851662->|Lou_Patterson|
+	 -494391->|Leonard_Reeves|
+	 -240383->|Troy_Wheeler|
+	 -359121->|Donald_Walsh|
+	 -84530->|Sallie_Schwartz|
+	 -948601->|Rebecca_Newman|
+|Melvin_Greene|
+	 -248072->|Mario_Conner|
+	 -737431->|Vincent_Owens|
+	 -956080->|Chad_McGee|
+	 -723521->|Antonio_Santiago|
+	 -960286->|Floyd_Riley|
+	 -398105->|Bill_Berry|
+|Ethan_Norton|
+	 -827788->|Nelle_Long|
+|Cody_Holland|
+	 -31256->|Millie_Cox|
+|Dale_Bennett|
+	 -676921->|Hettie_Sandoval|
+	 -997821->|Betty_Brock|
+	 -424949->|Gary_Ford|
+	 -869673->|Carolyn_Thomas|
+	 -285599->|Essie_Jones|
+|Gavin_Stephens|
+	 -300739->|Joe_Berry|
+	 -640327->|Lillian_Coleman|
+	 -615567->|Sarah_Atkins|
+|Ina_Waters|
+	 -281945->|Melvin_Newton|
+	 -718423->|Angel_Bowen|
+	 -662919->|Mike_Wilkerson|
+	 -427182->|Gordon_Robinson|
+	 -254751->|Eugene_Flowers|
+	 -529527->|Jorge_Dunn|
+|Jon_Bowen|
+	 -2598->|Bryan_Harris|
+	 -590953->|Johanna_Ryan|
+	 -292783->|Marc_Haynes|
+	 -368404->|Inez_Arnold|
+	 -296417->|Wayne_Stokes|
+	 -505766->|Virginia_Bass|

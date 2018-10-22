@@ -243,7 +243,7 @@ int InputDirector(int argc, char *argv[]){
         }
         
 
-        // free(command);
+        free(command);
     }
 
     //freeing out memory

@@ -37,7 +37,7 @@ static void ht_del_node(node* i) {
 void ht_del_hash_table(ht_hash_table* ht) {
     for (int i = 0; i < ht->size; i++) {
         node* item = ht->nodes[i];
-        if (item != NULL && item != &HT_DELETED_NODE) {
+        if (item != NULL && item != &HT_DELETED_NODE && item->_id != NULL) {
             ht_del_node(item);
         }
     }
