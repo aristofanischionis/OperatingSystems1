@@ -29,7 +29,7 @@ ht_hash_table* ht_new() {
 
 static void ht_del_node(node* i) {
     free(i->_id);
-    DeleteEdges(i); // delete all edges for a given node
+    DeleteEdges(&(i->HeadEdges)); // delete all edges for a given node
     free(i);
 }
 

@@ -31,7 +31,9 @@ int DeleteNode(ht_hash_table* ht, char* _id){
         printf("\t- Node |%s| does not exist - abort-d;\n",_id);
         return 1;
     }
-    ht_delete(ht, _id); // not only delete node but the associated edges as well
+    //first delete all edges going to _id
+    ht_delete(ht, _id); // this will also delete all of the outgoing edges
+    // not only delete node but the associated edges as well
     printf("\t- Deleted |%s|\n", _id);
     return 0;
 }

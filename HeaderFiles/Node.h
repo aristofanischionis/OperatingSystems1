@@ -17,6 +17,6 @@ typedef struct edge edge;
 node *NewNode(char * );
 int InsertEdge(edge** head_ref, int w, node *t); // place the edge in the linked list
 edge *DeleteEdge(edge **head_ref, edge *del);
-int DeleteEdges(node *n);
+int DeleteEdges(edge** head_ref);
 edge *SearchEdge(node *s, node *t, int w);
 edge *UpdateEdge(node *s, node *t, int w, int nw);

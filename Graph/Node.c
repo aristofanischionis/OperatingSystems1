@@ -83,17 +83,18 @@ edge *DeleteEdge(edge **head_ref, edge *del){
   return *head_ref; 
 }
 
-int DeleteEdges(node *n){
-	// delete all edges oso to del next diaforo tou null
-	edge *temp;
-	if(n == NULL) return 1;
-	temp = (edge *)malloc(sizeof(edge));
-	temp = n->HeadEdges;
-	while(temp != NULL) {
-		temp = DeleteEdge(&temp, temp);
-	}
-	return 0;
-}
+int DeleteEdges(edge** head_ref){
+    // Delete all edges
+    edge* ptr = *head_ref; 
+    edge* next; 
+  
+    while (ptr != NULL) { 
+        next = ptr->next;
+        DeleteEdge(head_ref, ptr); 
+        ptr = next; 
+    }
+    return 0;
+} 
 
 edge *SearchEdge(node *s, node *t, int w){
     // if(s->HeadEdges->target == t && s->HeadEdges->weight == w) return s->HeadEdges;
