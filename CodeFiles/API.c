@@ -47,15 +47,17 @@ int OutputManager(ht_hash_table* ht, char *out){
     // ht_print(ht);
     // just changed printf->fprintf
     int i =0 ;
+    node* cur_item = ht->nodes[i];
     while(i < ht->base_size){
-        if(ht->nodes[i] != NULL){
-            fprintf(output,"|%s|\n", ht->nodes[i]->_id);
-            edge *temp = ht->nodes[i]->HeadEdges;
-            while(temp != NULL){   
+        if(cur_item != NULL && cur_item != &HT_DELETED_NODE ){
+            fprintf(output,"|%s|\n", cur_item->_id);
+            edge *temp = cur_item->HeadEdges;
+            while(temp != NULL ){   
                 fprintf(output,"\t -%d->|%s|\n", temp->weight, temp->target->_id);
                 temp = temp->next;
             }
         }
+        cur_item = ht->nodes[i];
         i++;
     }
     fclose(output);
@@ -161,6 +163,7 @@ int InputDirector(int argc, char *argv[]){
                 if ((pos=strchr(command[0], '\n')) != NULL) *pos = '\0';
                 if((strcmp(command[0], "e") == 0) || (strcmp(command[0], "exit") == 0)){ 
                     //exits program
+                    //function to free everything
                     if(strcmp(output, "") != 0) OutputManager(MyHash_Table, output);
                     // else printf("\t- No Output File Name is given\n");
                     printf("\t- exit program\n");
@@ -223,7 +226,10 @@ int InputDirector(int argc, char *argv[]){
                 //five arguments given
                 if((strcmp(command[0], "m") == 0) || (strcmp(command[0], "modify") == 0)){
                     //Modify Ni Nj weight nweight
-                    printf("Modify Ni Nj weight nweight-> %s,%s,%s,%s,%s\n", command[0], command[1], command[2],command[3],command[4]);
+                    // printf("Modify Ni Nj weight nweight-> %s,%s,%s,%s,%s\n", command[0], command[1], command[2],command[3],command[4]);
+                    int w = atoi(command[3]);
+                    int nw = atoi(command[4]);
+                    UpdateWeight(MyHash_Table, command[1], command[2], w, nw);
                 }
                 else fprintf(stderr, "Unknown Command Starting with: %s \n",command[0]);
                 break;

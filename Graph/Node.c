@@ -19,7 +19,7 @@ int InsertEdge(edge** head_ref, int w, node *t){
 	edge* last = *head_ref; /* used in step 5*/
     /* 2. put in the data  */
 	new_edge->target = (node*)malloc(sizeof(node));
-    new_edge->target = t; // check again // if it doesn't work use **
+    new_edge->target = t;
 	new_edge->weight = w;
 	/* 3. This new node is going to be the last node, so 
           make next of it as NULL*/
@@ -96,16 +96,35 @@ int DeleteEdges(node *n){
 }
 
 edge *SearchEdge(node *s, node *t, int w){
-    if(s->HeadEdges->target == t && s->HeadEdges->weight == w) return s->HeadEdges;
+    // if(s->HeadEdges->target == t && s->HeadEdges->weight == w) return s->HeadEdges;
     // When not first edge
     // find the previous edge 
-    edge *prev = s->HeadEdges; 
-    while(prev->next != NULL){
-		if(prev->next->target != t || prev->next->weight != w) prev = prev->next; 
-	}
-	// Check if edge really exists in DLL
-    if(prev->next == NULL) return NULL; 
+    edge *temp = s->HeadEdges;
+    while(temp != NULL){
+        if(temp->target == t && temp->weight == w){
+            // found
+            return temp;
+        }
+        temp = temp->next;
+    }
+    return NULL;
 
-    return prev->next;
+    // edge *prev = s->HeadEdges; 
+    // while(prev->next != NULL){
+	// 	if(prev->next->target != t || prev->next->weight != w) prev = prev->next; 
+	// }
+	// // Check if edge really exists in DLL
+    // if(prev->next == NULL) return NULL; 
+
+    // return prev->next;
 }
 
+edge *UpdateEdge(node *s, node *t, int w, int nw){
+    edge *e = SearchEdge( s, t, w);
+    if(e == NULL){
+        // printf("Couldn't find this edge\n");
+        return NULL;
+    }
+    e->weight = nw;
+    return e;
+}

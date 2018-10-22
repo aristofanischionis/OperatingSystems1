@@ -19,3 +19,4 @@ int InsertEdge(edge** head_ref, int w, node *t); // place the edge in the linked
 edge *DeleteEdge(edge **head_ref, edge *del);
 int DeleteEdges(node *n);
 edge *SearchEdge(node *s, node *t, int w);
+edge *UpdateEdge(node *s, node *t, int w, int nw);

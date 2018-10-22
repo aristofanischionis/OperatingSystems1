@@ -31,7 +31,7 @@ int DeleteNode(ht_hash_table* ht, char* _id){
         printf("\t- Node |%s| does not exist - abort-d;\n",_id);
         return 1;
     }
-    ht_delete(ht, _id);
+    ht_delete(ht, _id); // not only delete node but the associated edges as well
     printf("\t- Deleted |%s|\n", _id);
     return 0;
 }
@@ -59,11 +59,11 @@ int DeleteNodesEdge(ht_hash_table* ht, char* _id1, char *_id2, int w){
     node *n1 = ht_search(ht, _id1);
     node *n2 = ht_search(ht, _id2);
     if(n1 == NULL){
-        printf("\t- |%s| does not exist - abort-l;\n",n1->_id);
+        printf("\t- |%s| does not exist - abort-l;\n",_id1);
         return 1;
     }
     if(n2 == NULL){
-        printf("\t- |%s| does not exist - abort-l;\n",n2->_id);
+        printf("\t- |%s| does not exist - abort-l;\n",_id2);
         return 1;
     }
     edge *del = SearchEdge(n1, n2, w);
@@ -72,6 +72,30 @@ int DeleteNodesEdge(ht_hash_table* ht, char* _id1, char *_id2, int w){
         return 1;    
     }
 
-    DeleteEdge(&(n1->HeadEdges), del);
+    DeleteEdge(&(n1->HeadEdges), del); // check again
+    printf("\t- Del-vertex |%s|->%d->|%s|\n",n1->_id, w, n2->_id);
+    return 0;
+}
+
+int UpdateWeight(ht_hash_table* ht, char* _id1, char *_id2, int w, int nw){
+    char *pos;
+    if ((pos=strchr(_id1, '\n')) != NULL) *pos = '\0';
+    if ((pos=strchr(_id2, '\n')) != NULL) *pos = '\0';
+    node *n1 = ht_search(ht, _id1);
+    node *n2 = ht_search(ht, _id2);
+    if(n1 == NULL){
+        printf("\t- |%s| does not exist - abort-m;\n",_id1);
+        return 1;
+    }
+    if(n2 == NULL){
+        printf("\t- |%s| does not exist - abort-m;\n",_id2);
+        return 1;
+    }
+    edge *e = UpdateEdge(n1, n2, w, nw);
+    if(e == NULL){
+        printf("\t- |%s|->%d->|%s| does not exist - abort-m;\n",n1->_id, w, n2->_id);
+        return 1;
+    }
+    printf("\t- Mod-vertex |%s|->%d->|%s|\n",n1->_id, nw, n2->_id);
     return 0;
 }

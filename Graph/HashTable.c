@@ -9,7 +9,7 @@ const int HT_PRIME_1 = 19; // random prime
 const int HT_PRIME_2 = 37; // random prime
 
 const int HT_INITIAL_BASE_SIZE = 53; // prime number
-static node HT_DELETED_NODE = {NULL, NULL};
+// static node HT_DELETED_NODE = {NULL, NULL};
 
 static void ht_resize_up(ht_hash_table* );
 static void ht_resize_down(ht_hash_table* );

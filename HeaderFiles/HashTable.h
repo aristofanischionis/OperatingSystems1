@@ -8,6 +8,7 @@ struct ht_hash_table {
 };
 
 typedef struct ht_hash_table ht_hash_table;
+static node HT_DELETED_NODE = {NULL, NULL};
 
 ht_hash_table* ht_new();
 void ht_insert(ht_hash_table* ht, char* _id);
