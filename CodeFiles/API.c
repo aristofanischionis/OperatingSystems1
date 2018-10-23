@@ -76,7 +76,7 @@ int InputDirector(int argc, char *argv[]){
     char *token;
     char **command;
     char *pos;
-    const char s[2] = " \t";
+    const char s[3] = " \t";
     buffer = (char *)malloc(bufsize * sizeof(char));
     input = (char *)malloc(40);
     output = (char *)malloc(40);
@@ -150,11 +150,11 @@ int InputDirector(int argc, char *argv[]){
         i =0;
         command = (char **)malloc(10 * sizeof(char*)); // 10 words in each command allowed
         getline(&buffer,&bufsize,stdin);
-        token = strtok(buffer, " ");
+        token = strtok(buffer, s);
 
         while( token != NULL ) {
             command[i++] = token;
-            token = strtok(NULL, " ");
+            token = strtok(NULL, s);
         }
         // Analyzing the command given by user
         switch(i){
