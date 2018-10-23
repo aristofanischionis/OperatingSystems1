@@ -187,7 +187,8 @@ int InputDirector(int argc, char *argv[]){
                 }
                 else if((strcmp(command[0], "r") == 0) || (strcmp(command[0], "receiving") == 0)){
                     //Receiving Ni
-                    printf("Receiving Ni-> %s,%s\n", command[0], command[1]);
+                    // printf("Receiving Ni-> %s,%s\n", command[0], command[1]);
+                    Receiving(MyHash_Table, command[1]);
                 }
                 else if((strcmp(command[0], "c") == 0) || (strcmp(command[0], "circlefind") == 0)){
                     //circlefind Ni

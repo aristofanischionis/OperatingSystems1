@@ -102,11 +102,12 @@ edge *SearchEdge(node *s, node *t, int w){
 }
 
 edge *SearchEdgeNoWeight(node *s, node *t){
+    // finds the first edge from s-> t
     if(s == NULL) return NULL;
     if(t == NULL) return NULL;
     edge *temp = s->HeadEdges;
     while(temp != NULL){
-        if(temp->target == t){
+        if(strcmp(temp->target->_id, t->_id) == 0){ // changed just now
             // found
             return temp;
         }

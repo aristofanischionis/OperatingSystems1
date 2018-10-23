@@ -6,4 +6,5 @@ int UpdateWeight(ht_hash_table* , char* , char*, int , int );
 int DeleteNode(ht_hash_table* , char* );
 int DeleteNodesEdge(ht_hash_table* , char* , char *, int );
 int DeleteAllNodesEdge(ht_hash_table* , char* , char *);
+int Receiving(ht_hash_table* , char* );
 void ExitProgram(ht_hash_table* , char *);

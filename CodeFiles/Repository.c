@@ -124,8 +124,39 @@ int DeleteAllNodesEdge(ht_hash_table* ht, char* _id1, char *_id2){
         return 1;
     }
     DeleteEdgesFrom(n1, n2);
-    DeleteEdgesFrom(n2, n1);
+    // DeleteEdgesFrom(n2, n1); 
+    // apparently we don't need to delete all edges from n2->n1 as I just read from piazza
     printf("\t- Del All Vertices between |%s| and |%s|\n", _id1, _id2);
+    return 0;
+}
+
+int Receiving(ht_hash_table* ht, char* _id){
+    char *pos;
+    if ((pos=strchr(_id, '\n')) != NULL) *pos = '\0';
+    node *n = ht_search(ht, _id);
+    if( n == NULL ){
+        // couldn't find Node
+        printf("\t- |%s| does not exist - abort-r;\n",_id);
+        return 1;
+    }
+    int counter =0;
+    node *temp;
+    edge *e;
+    for (int i = 0; i < ht->size; i++) {
+        temp = ht->nodes[i];
+        if (temp != NULL) {
+            e = SearchEdgeNoWeight(temp , n);
+            // find the first edge from temp -> n it may have more
+            if(e != NULL){
+                if(counter == 0){
+                    counter++;
+                    printf("\t- Rec-edges |%s|->%d->|%s|\n", temp->_id, e->weight, n->_id);
+                }
+                else printf("\t            |%s|->%d->|%s|\n", temp->_id, e->weight, n->_id);
+            }
+        }
+    }
+    if(counter == 0) printf("\t- No-rec-edges %s\n", n->_id);
     return 0;
 }
 
