@@ -141,18 +141,20 @@ int Receiving(ht_hash_table* ht, char* _id){
     }
     int counter =0;
     node *temp;
-    edge *e;
+    edge **earray;
     for (int i = 0; i < ht->size; i++) {
         temp = ht->nodes[i];
         if (temp != NULL) {
-            e = SearchEdgeNoWeight(temp , n);
-            // find the first edge from temp -> n it may have more
-            if(e != NULL){
+            int j = 0;
+            earray = SearchEdgesNoWeight(temp , n);
+            // find all edges that start from temp -> n and get them in an  array
+            while(earray[j] != NULL){
                 if(counter == 0){
                     counter++;
-                    printf("\t- Rec-edges |%s|->%d->|%s|\n", temp->_id, e->weight, n->_id);
+                    printf("\t- Rec-edges |%s|->%d->|%s|\n", temp->_id, earray[j]->weight, n->_id);
                 }
-                else printf("\t            |%s|->%d->|%s|\n", temp->_id, e->weight, n->_id);
+                else printf("\t            |%s|->%d->|%s|\n", temp->_id, earray[j]->weight, n->_id);
+                j++;
             }
         }
     }

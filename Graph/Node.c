@@ -107,13 +107,32 @@ edge *SearchEdgeNoWeight(node *s, node *t){
     if(t == NULL) return NULL;
     edge *temp = s->HeadEdges;
     while(temp != NULL){
-        if(strcmp(temp->target->_id, t->_id) == 0){ // changed just now
+        if(strcmp(temp->target->_id, t->_id) == 0){
             // found
             return temp;
         }
         temp = temp->next;
     }
     return NULL;
+}
+
+edge **SearchEdgesNoWeight(node *s, node *t){
+    // finds the first edge from s-> t
+    if(s == NULL) return NULL;
+    if(t == NULL) return NULL;
+    edge *temp = s->HeadEdges;
+    edge **array = (edge**)malloc(20 * sizeof(edge*));
+    int i = 0;
+    while(temp != NULL){
+        if(strcmp(temp->target->_id, t->_id) == 0){
+            // found
+            array[i] = temp;
+            i++;
+        }
+        temp = temp->next;
+    }
+    array[i] = NULL;
+    return array;
 }
 
 int DeleteEdgesFrom(node *n1, node *n2){
