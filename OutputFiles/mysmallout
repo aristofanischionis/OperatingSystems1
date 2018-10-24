@@ -1,0 +1,539 @@
+[3;J[H[2JMygraph OS 1st Assignment Fall 2018 
+Input File is: TestData-Prj1-F18/InputFile-Small.csv
+Output File is: actualmysmallgraph
+	- Inserted |Marion_Beck|
+	- Inserted |Jim_Johnston|
+	- Inserted |Marion_Beck|->95->|Jim_Johnston|
+	- Inserted |Irene_Weaver|
+	- Inserted |Shawn_Ford|
+	- Inserted |Irene_Weaver|->596->|Shawn_Ford|
+	- Inserted |Jack_Hawkins|
+	- Node |Shawn_Ford| Exists;
+	- Inserted |Jack_Hawkins|->368->|Shawn_Ford|
+	- Inserted |Jeffery_Walters|
+	- Inserted |Tom_Casey|
+	- Inserted |Jeffery_Walters|->119->|Tom_Casey|
+	- Node |Shawn_Ford| Exists;
+	- Inserted |Bernice_Gross|
+	- Inserted |Shawn_Ford|->889->|Bernice_Gross|
+	- Inserted |Ola_Rios|
+	- Inserted |Janie_Warner|
+	- Inserted |Ola_Rios|->967->|Janie_Warner|
+	- Inserted |Leonard_Reeves|
+	- Inserted |Myra_Burke|
+	- Inserted |Leonard_Reeves|->867->|Myra_Burke|
+	- Inserted |Marcus_Duncan|
+	- Node |Ola_Rios| Exists;
+	- Inserted |Marcus_Duncan|->389->|Ola_Rios|
+	- Node |Tom_Casey| Exists;
+	- Node |Myra_Burke| Exists;
+	- Inserted |Tom_Casey|->543->|Myra_Burke|
+	- Node |Shawn_Ford| Exists;
+	- Inserted |Emilie_Horton|
+	- Inserted |Shawn_Ford|->100->|Emilie_Horton|
+	- Inserted |Dean_Fields|
+	- Inserted |Josie_Burke|
+	- Inserted |Dean_Fields|->916->|Josie_Burke|
+	- Inserted |Todd_Park|
+	- Node |Janie_Warner| Exists;
+	- Inserted |Todd_Park|->125->|Janie_Warner|
+	- Node |Jim_Johnston| Exists;
+	- Node |Leonard_Reeves| Exists;
+	- Inserted |Jim_Johnston|->945->|Leonard_Reeves|
+	- Inserted |Alvin_Perkins|
+	- Node |Ola_Rios| Exists;
+	- Inserted |Alvin_Perkins|->859->|Ola_Rios|
+	- Node |Alvin_Perkins| Exists;
+	- Node |Marcus_Duncan| Exists;
+	- Inserted |Alvin_Perkins|->755->|Marcus_Duncan|
+	- Node |Shawn_Ford| Exists;
+	- Node |Bernice_Gross| Exists;
+	- Inserted |Shawn_Ford|->701->|Bernice_Gross|
+	- Node |Shawn_Ford| Exists;
+	- Node |Ola_Rios| Exists;
+	- Inserted |Shawn_Ford|->2->|Ola_Rios|
+	- Node |Shawn_Ford| Exists;
+	- Inserted |Lina_Bennett|
+	- Inserted |Shawn_Ford|->713->|Lina_Bennett|
+	- Node |Shawn_Ford| Exists;
+	- Node |Todd_Park| Exists;
+	- Inserted |Shawn_Ford|->241->|Todd_Park|
+	- Node |Marcus_Duncan| Exists;
+	- Node |Alvin_Perkins| Exists;
+	- Inserted |Marcus_Duncan|->838->|Alvin_Perkins|
+	- Node |Myra_Burke| Exists;
+	- Node |Ola_Rios| Exists;
+	- Inserted |Myra_Burke|->13->|Ola_Rios|
+	- Node |Leonard_Reeves| Exists;
+	- Node |Dean_Fields| Exists;
+	- Inserted |Leonard_Reeves|->113->|Dean_Fields|
+	- Node |Myra_Burke| Exists;
+	- Node |Ola_Rios| Exists;
+	- Inserted |Myra_Burke|->589->|Ola_Rios|
+	- Node |Shawn_Ford| Exists;
+	- Node |Leonard_Reeves| Exists;
+	- Inserted |Shawn_Ford|->27->|Leonard_Reeves|
+	- Node |Josie_Burke| Exists;
+	- Node |Jack_Hawkins| Exists;
+	- Inserted |Josie_Burke|->514->|Jack_Hawkins|
+	- Node |Jack_Hawkins| Exists;
+	- Node |Josie_Burke| Exists;
+	- Inserted |Jack_Hawkins|->102->|Josie_Burke|
+	- Node |Todd_Park| Exists;
+	- Node |Dean_Fields| Exists;
+	- Inserted |Todd_Park|->706->|Dean_Fields|
+	- Node |Shawn_Ford| Exists;
+	- Node |Josie_Burke| Exists;
+	- Inserted |Shawn_Ford|->29->|Josie_Burke|
+	- Inserted |Hulda_Zimmerman|
+	- Node |Myra_Burke| Exists;
+	- Inserted |Hulda_Zimmerman|->489->|Myra_Burke|
+	- Node |Hulda_Zimmerman| Exists;
+	- Node |Ola_Rios| Exists;
+	- Inserted |Hulda_Zimmerman|->849->|Ola_Rios|
+	- Node |Ola_Rios| Exists;
+	- Node |Leonard_Reeves| Exists;
+	- Inserted |Ola_Rios|->103->|Leonard_Reeves|
+	- Node |Shawn_Ford| Exists;
+	- Node |Alvin_Perkins| Exists;
+	- Inserted |Shawn_Ford|->341->|Alvin_Perkins|
+	- Node |Emilie_Horton| Exists;
+	- Node |Tom_Casey| Exists;
+	- Inserted |Emilie_Horton|->137->|Tom_Casey|
+	- Node |Jim_Johnston| Exists;
+	- Node |Myra_Burke| Exists;
+	- Inserted |Jim_Johnston|->759->|Myra_Burke|
+	- Node |Hulda_Zimmerman| Exists;
+	- Node |Irene_Weaver| Exists;
+	- Inserted |Hulda_Zimmerman|->627->|Irene_Weaver|
+	- Node |Todd_Park| Exists;
+	- Node |Leonard_Reeves| Exists;
+	- Inserted |Todd_Park|->869->|Leonard_Reeves|
+	- Node |Alvin_Perkins| Exists;
+	- Node |Marcus_Duncan| Exists;
+	- Inserted |Alvin_Perkins|->779->|Marcus_Duncan|
+	- Node |Myra_Burke| Exists;
+	- Node |Jeffery_Walters| Exists;
+	- Inserted |Myra_Burke|->340->|Jeffery_Walters|
+	- Node |Marcus_Duncan| Exists;
+	- Node |Myra_Burke| Exists;
+	- Inserted |Marcus_Duncan|->623->|Myra_Burke|
+	- Node |Myra_Burke| Exists;
+	- Node |Jim_Johnston| Exists;
+	- Inserted |Myra_Burke|->123->|Jim_Johnston|
+Type your Commands here:
+	- Inserted |Bot_1|
+Type your Commands here:
+	- Inserted |Bot_2|
+Type your Commands here:
+	- Inserted |Bot_3|
+Type your Commands here:
+	- Inserted |Bot_4|
+Type your Commands here:
+	- Inserted |Bot_5|
+Type your Commands here:
+	- Inserted |Bot_6|
+Type your Commands here:
+	- Inserted |Bot_7|
+Type your Commands here:
+	- Inserted |Bot_8|
+Type your Commands here:
+	- Inserted |Bot_9|
+Type your Commands here:
+	- Inserted |Bot_10|
+Type your Commands here:
+	- Inserted |Bot_11|
+Type your Commands here:
+	- Inserted |Bot_12|
+Type your Commands here:
+	- Inserted |Bot_13|
+Type your Commands here:
+	- Inserted |Bot_14|
+Type your Commands here:
+	- Inserted |Bot_15|
+Type your Commands here:
+	- Inserted |Bot_16|
+Type your Commands here:
+	- Node |Jeffery_Walters| Exists;
+	- Node |Shawn_Ford| Exists;
+	- Inserted |Jeffery_Walters|->2801->|Shawn_Ford|
+Type your Commands here:
+	- Node |Lina_Bennett| Exists;
+	- Inserted |Bot_17|
+	- Inserted |Lina_Bennett|->293->|Bot_17|
+Type your Commands here:
+	- Node |Bot_3| Exists;
+	- Node |Marion_Beck| Exists;
+	- Inserted |Bot_3|->881->|Marion_Beck|
+Type your Commands here:
+	- Node |Bot_12| Exists;
+	- Node |Leonard_Reeves| Exists;
+	- Inserted |Bot_12|->1161->|Leonard_Reeves|
+Type your Commands here:
+	- Node |Jeffery_Walters| Exists;
+	- Node |Bot_15| Exists;
+	- Inserted |Jeffery_Walters|->2044->|Bot_15|
+Type your Commands here:
+	- Inserted |Bot_18|
+	- Inserted |Bot_19|
+	- Inserted |Bot_18|->4576->|Bot_19|
+Type your Commands here:
+	- Node |Bot_4| Exists;
+	- Node |Ola_Rios| Exists;
+	- Inserted |Bot_4|->1639->|Ola_Rios|
+Type your Commands here:
+	- Node |Hulda_Zimmerman| Exists;
+	- Node |Lina_Bennett| Exists;
+	- Inserted |Hulda_Zimmerman|->1760->|Lina_Bennett|
+Type your Commands here:
+	- Node |Bot_6| Exists;
+	- Node |Todd_Park| Exists;
+	- Inserted |Bot_6|->2560->|Todd_Park|
+Type your Commands here:
+	- Inserted |Bot_20|
+	- Node |Bot_2| Exists;
+	- Inserted |Bot_20|->776->|Bot_2|
+Type your Commands here:
+	- Node |Bernice_Gross| Exists;
+	- Node |Todd_Park| Exists;
+	- Inserted |Bernice_Gross|->614->|Todd_Park|
+Type your Commands here:
+	- Node |Bot_5| Exists;
+	- Node |Alvin_Perkins| Exists;
+	- Inserted |Bot_5|->3854->|Alvin_Perkins|
+Type your Commands here:
+	- Node |Bot_3| Exists;
+	- Node |Bot_17| Exists;
+	- Inserted |Bot_3|->570->|Bot_17|
+Type your Commands here:
+	- Node |Bot_20| Exists;
+	- Node |Bot_7| Exists;
+	- Inserted |Bot_20|->1341->|Bot_7|
+Type your Commands here:
+	- Node |Bot_12| Exists;
+	- Inserted |Bot_21|
+	- Inserted |Bot_12|->891->|Bot_21|
+Type your Commands here:
+	- Inserted |Bot_22|
+	- Inserted |Bot_23|
+	- Inserted |Bot_22|->4819->|Bot_23|
+Type your Commands here:
+	- Node |Bot_13| Exists;
+	- Node |Alvin_Perkins| Exists;
+	- Inserted |Bot_13|->2222->|Alvin_Perkins|
+Type your Commands here:
+	- Node |Bot_11| Exists;
+	- Node |Bot_16| Exists;
+	- Inserted |Bot_11|->4331->|Bot_16|
+Type your Commands here:
+	- Inserted |Bot_24|
+	- Node |Bot_23| Exists;
+	- Inserted |Bot_24|->4779->|Bot_23|
+Type your Commands here:
+	- Node |Bot_11| Exists;
+	- Node |Bot_5| Exists;
+	- Inserted |Bot_11|->521->|Bot_5|
+Type your Commands here:
+circlefind Ni-> c,Hulda_Zimmerman
+
+Type your Commands here:
+findcircles Ni k-> f,Hulda_Zimmerman,300
+
+Type your Commands here:
+circlefind Ni-> c,Lina_Bennett
+
+Type your Commands here:
+findcircles Ni k-> f,Lina_Bennett,300
+
+Type your Commands here:
+circlefind Ni-> c,Alvin_Perkins
+
+Type your Commands here:
+findcircles Ni k-> f,Alvin_Perkins,300
+
+Type your Commands here:
+circlefind Ni-> c,Todd_Park
+
+Type your Commands here:
+findcircles Ni k-> f,Todd_Park,200
+
+Type your Commands here:
+circlefind Ni-> c,Josie_Burke
+
+Type your Commands here:
+findcircles Ni k-> f,Josie_Burke,340
+
+Type your Commands here:
+findcircles Ni k-> f,Josie_Burke,200
+
+Type your Commands here:
+findcircles Ni k-> f,Josie_Burke,110
+
+Type your Commands here:
+circlefind Ni-> c,Dean_Fields
+
+Type your Commands here:
+findcircles Ni k-> f,Dean_Fields,241
+
+Type your Commands here:
+circlefind Ni-> c,Emilie_Horton
+
+Type your Commands here:
+findcircles Ni k-> f,Emilie_Horton,100
+
+Type your Commands here:
+findcircles Ni k-> f,Emilie_Horton,104
+
+Type your Commands here:
+circlefind Ni-> c,Marcus_Duncan
+
+Type your Commands here:
+findcircles Ni k-> f,Marcus_Duncan,200
+
+Type your Commands here:
+findcircles Ni k-> f,Marcus_Duncan,113
+
+Type your Commands here:
+circlefind Ni-> c,Myra_Burke
+
+Type your Commands here:
+findcircles Ni k-> f,Myra_Burke,113
+
+Type your Commands here:
+circlefind Ni-> c,Leonard_Reeves
+
+Type your Commands here:
+findcircles Ni k-> f,Leonard_Reeves,113
+
+Type your Commands here:
+circlefind Ni-> c,Janie_Warner
+
+Type your Commands here:
+findcircles Ni k-> f,Janie_Warner,1
+
+Type your Commands here:
+circlefind Ni-> c,Ola_Rios
+
+Type your Commands here:
+findcircles Ni k-> f,Ola_Rios,103
+
+Type your Commands here:
+circlefind Ni-> c,Bernice_Gross
+
+Type your Commands here:
+findcircles Ni k-> f,Bernice_Gross,1
+
+Type your Commands here:
+circlefind Ni-> c,Tom_Casey
+
+Type your Commands here:
+findcircles Ni k-> f,Tom_Casey,113
+
+Type your Commands here:
+circlefind Ni-> c,Jeffery_Walters
+
+Type your Commands here:
+circlefind Ni-> c,Jack_Hawkins
+
+Type your Commands here:
+findcircles Ni k-> f,Jack_Hawkins,110
+
+Type your Commands here:
+circlefind Ni-> c,Shawn_Ford
+
+Type your Commands here:
+findcircles Ni k-> f,Shawn_Ford,113
+
+Type your Commands here:
+circlefind Ni-> c,Irene_Weaver
+
+Type your Commands here:
+findcircles Ni k-> f,Irene_Weaver,1
+
+Type your Commands here:
+circlefind Ni-> c,Jim_Johnston
+
+Type your Commands here:
+findcircles Ni k-> f,Jim_Johnston,114
+
+Type your Commands here:
+circlefind Ni-> c,Marion_Beck
+
+Type your Commands here:
+findcircles Ni k-> f,Marion_Beck,1
+
+Type your Commands here:
+	- |Alvin_Perkins|->779->|Marcus_Duncan| does not exist - abort-m;
+Type your Commands here:
+	- |Hulda_Zimmerman|->627->|Irene_Weaver| does not exist - abort-m;
+Type your Commands here:
+	- |Jim_Johnston|->945->|Leonard_Reeves| does not exist - abort-m;
+Type your Commands here:
+	- |Marion_Beck|->95->|Jim_Johnston| does not exist - abort-m;
+Type your Commands here:
+	- |Hulda_Zimmerman|->849->|Ola_Rios| does not exist - abort-m;
+Type your Commands here:
+	- Mod-vertex |Bot_3|->920->|Bot_17|
+Type your Commands here:
+	- Mod-vertex |Bot_4|->149->|Ola_Rios|
+Type your Commands here:
+	- Mod-vertex |Bot_3|->4572->|Bot_17|
+Type your Commands here:
+	- |Shawn_Ford|->100->|Emilie_Horton| does not exist - abort-m;
+Type your Commands here:
+	- |Josie_Burke|->514->|Jack_Hawkins| does not exist - abort-m;
+Type your Commands here:
+	- No-rec-edges Hulda_Zimmerman
+Type your Commands here:
+	- Rec-edges |Hulda_Zimmerman|->1760->|Lina_Bennett|
+Type your Commands here:
+	- Rec-edges |Bot_5|->3854->|Alvin_Perkins|
+	            |Bot_13|->2222->|Alvin_Perkins|
+Type your Commands here:
+	- Rec-edges |Bot_6|->2560->|Todd_Park|
+	            |Bernice_Gross|->614->|Todd_Park|
+Type your Commands here:
+	- No-rec-edges Josie_Burke
+Type your Commands here:
+	- No-rec-edges Dean_Fields
+Type your Commands here:
+	- No-rec-edges Emilie_Horton
+Type your Commands here:
+Traceflow Ni-> t,Hulda_Zimmerman,Lina_Bennett,5
+
+Type your Commands here:
+Traceflow Ni-> t,Shawn_Ford,Lina_Bennett,1
+
+Type your Commands here:
+Traceflow Ni-> t,Alvin_Perkins,Josie_Burke,5
+
+Type your Commands here:
+Traceflow Ni-> t,Josie_Burke,Emilie_Horton,5
+
+Type your Commands here:
+Traceflow Ni-> t,Dean_Fields,Emilie_Horton,4
+
+Type your Commands here:
+	- |Myra_Burke|->589->|Ola_Rios| does not exist - abort-l;
+Type your Commands here:
+	- |Shawn_Ford|->889->|Bernice_Gross| does not exist - abort-l;
+Type your Commands here:
+	- |Todd_Park|->125->|Janie_Warner| does not exist - abort-l;
+Type your Commands here:
+	- |Hulda_Zimmerman|->3031->|Ola_Rios| does not exist - abort-l;
+Type your Commands here:
+	- |Jack_Hawkins|->102->|Josie_Burke| does not exist - abort-l;
+Type your Commands here:
+	- |Alvin_Perkins|->755->|Marcus_Duncan| does not exist - abort-l;
+Type your Commands here:
+	- |Marcus_Duncan|->389->|Ola_Rios| does not exist - abort-l;
+Type your Commands here:
+	- |Josie_Burke|->4432->|Jack_Hawkins| does not exist - abort-l;
+Type your Commands here:
+	- Del-vertex |Bot_24|->4779->|Bot_23|
+Type your Commands here:
+	- |Leonard_Reeves|->867->|Myra_Burke| does not exist - abort-l;
+Type your Commands here:
+	- Del-vertex |Bot_5|->3854->|Alvin_Perkins|
+Type your Commands here:
+	- |Leonard_Reeves|->113->|Dean_Fields| does not exist - abort-l;
+Type your Commands here:
+	- |Marcus_Duncan|->838->|Alvin_Perkins| does not exist - abort-l;
+Type your Commands here:
+	- |Jeffery_Walters|->2801->|Shawn_Ford| does not exist - abort-l;
+Type your Commands here:
+	- |Hulda_Zimmerman|->489->|Myra_Burke| does not exist - abort-l;
+Type your Commands here:
+	- |Jeffery_Walters|->119->|Tom_Casey| does not exist - abort-l;
+Type your Commands here:
+	- Del-vertex |Bot_3|->4572->|Bot_17|
+Type your Commands here:
+	- |Shawn_Ford|->701->|Bernice_Gross| does not exist - abort-l;
+Type your Commands here:
+	- |Shawn_Ford|->27->|Leonard_Reeves| does not exist - abort-l;
+Type your Commands here:
+	- |Todd_Park|->706->|Dean_Fields| does not exist - abort-l;
+Type your Commands here:
+	- |Shawn_Ford|->29->|Josie_Burke| does not exist - abort-m;
+Type your Commands here:
+	- |Shawn_Ford|->2->|Ola_Rios| does not exist - abort-m;
+Type your Commands here:
+	- Mod-vertex |Hulda_Zimmerman|->3184->|Lina_Bennett|
+Type your Commands here:
+	- Mod-vertex |Bot_22|->4175->|Bot_23|
+Type your Commands here:
+	- |Hulda_Zimmerman|->3192->|Irene_Weaver| does not exist - abort-m;
+Type your Commands here:
+	- |Shawn_Ford|->341->|Alvin_Perkins| does not exist - abort-m;
+Type your Commands here:
+	- |Myra_Burke|->13->|Ola_Rios| does not exist - abort-m;
+Type your Commands here:
+	- Mod-vertex |Bot_22|->3721->|Bot_23|
+Type your Commands here:
+	- |Jeffery_Walters|->2044->|Bot_15| does not exist - abort-m;
+Type your Commands here:
+	- |Irene_Weaver|->596->|Shawn_Ford| does not exist - abort-m;
+Type your Commands here:
+	- Deleted |Jack_Hawkins|
+Type your Commands here:
+	- Deleted |Myra_Burke|
+Type your Commands here:
+	- Deleted |Jim_Johnston|
+Type your Commands here:
+	- Deleted |Bot_21|
+Type your Commands here:
+	- Deleted |Bot_17|
+Type your Commands here:
+	- Deleted |Hulda_Zimmerman|
+Type your Commands here:
+	- |Dean_Fields|->916->|Josie_Burke| does not exist - abort-m;
+Type your Commands here:
+	- Mod-vertex |Bot_13|->3500->|Alvin_Perkins|
+Type your Commands here:
+	- Mod-vertex |Bot_11|->3200->|Bot_5|
+Type your Commands here:
+	- |Shawn_Ford|->241->|Todd_Park| does not exist - abort-m;
+Type your Commands here:
+	- |Shawn_Ford|->3281->|Todd_Park| does not exist - abort-m;
+Type your Commands here:
+	- |Shawn_Ford|->4974->|Alvin_Perkins| does not exist - abort-m;
+Type your Commands here:
+	- Mod-vertex |Bot_13|->4788->|Alvin_Perkins|
+Type your Commands here:
+	- Mod-vertex |Bot_13|->1495->|Alvin_Perkins|
+Type your Commands here:
+	- |Alvin_Perkins|->859->|Ola_Rios| does not exist - abort-m;
+Type your Commands here:
+	- Mod-vertex |Bot_13|->1696->|Alvin_Perkins|
+Type your Commands here:
+	- |Hulda_Zimmerman| does not exist - abort-r;
+Type your Commands here:
+	- No-rec-edges Lina_Bennett
+Type your Commands here:
+	- Rec-edges |Bot_13|->1696->|Alvin_Perkins|
+Type your Commands here:
+	- Rec-edges |Bot_6|->2560->|Todd_Park|
+	            |Bernice_Gross|->614->|Todd_Park|
+Type your Commands here:
+	- No-rec-edges Josie_Burke
+Type your Commands here:
+	- No-rec-edges Dean_Fields
+Type your Commands here:
+	- No-rec-edges Emilie_Horton
+Type your Commands here:
+Traceflow Ni-> t,Hulda_Zimmerman,Lina_Bennett,5
+
+Type your Commands here:
+Traceflow Ni-> t,Shawn_Ford,Lina_Bennett,1
+
+Type your Commands here:
+Traceflow Ni-> t,Alvin_Perkins,Josie_Burke,10
+
+Type your Commands here:
+Traceflow Ni-> t,Josie_Burke,Emilie_Horton,10
+
+Type your Commands here:
+Traceflow Ni-> t,Dean_Fields,Emilie_Horton,10
+
+Type your Commands here:
+	- exit program

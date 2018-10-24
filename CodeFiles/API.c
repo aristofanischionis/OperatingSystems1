@@ -149,7 +149,16 @@ int InputDirector(int argc, char *argv[]){
         printf("Type your Commands here:\n");
         i =0;
         command = (char **)malloc(10 * sizeof(char*)); // 10 words in each command allowed
-        getline(&buffer,&bufsize,stdin);
+        if( getline(&buffer,&bufsize,stdin) == -1){
+            //exits program
+                    ExitProgram(MyHash_Table, output);
+                    free(command);
+                    free(buffer);
+                    free(input);
+                    free(output);
+                    // ht_print(MyHash_Table);
+                    return 0;
+        }
         token = strtok(buffer, s);
 
         while( token != NULL ) {
@@ -241,16 +250,8 @@ int InputDirector(int argc, char *argv[]){
                 break;
             default:
                 fprintf(stderr,"Unknown Command given with %d words\n", i);
-               
         }
-        
-
         free(command);
     }
-
-    //freeing out memory
-    // free(input);
-    // free(output);
-
     return 0;
 }
